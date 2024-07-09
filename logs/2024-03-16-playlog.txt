@@ -1,0 +1,556 @@
+16-Mar-2024 05:16:29 [Unknown] - Ramp 6
+16-Mar-2024 05:17:01 [Unknown] - Osb Malakas Ang Ulan
+16-Mar-2024 05:17:50 [Unknown] - Toh Id 2018 Latest
+16-Mar-2024 05:18:14 [Unknown] - Shotgun 4
+16-Mar-2024 05:18:18 Hillsong United - Hillsong - Through It All
+16-Mar-2024 05:23:21 Worship With Don Moen - I Worship You, Almighty God
+16-Mar-2024 05:27:05 [Unknown] - Iba Gid 3
+16-Mar-2024 05:27:09 [Unknown] - Jwireless 2021
+16-Mar-2024 05:28:27 [Unknown] - Ariben Soap Hashim 2022
+16-Mar-2024 05:29:43 [Unknown] - Gpg Ramadan 2024
+16-Mar-2024 05:30:43 [Unknown] - Iba Gid 1
+16-Mar-2024 05:30:48 Hillsong - The Heart Of Worship
+16-Mar-2024 05:35:58 Praise and Worship - You Are God
+16-Mar-2024 05:39:53 [Unknown] - Iba Gid 3
+16-Mar-2024 05:39:57 [Unknown] - Mx3 Angelica Cebuano
+16-Mar-2024 05:40:28 [Unknown] - Ariben Soap Hashim 2022
+16-Mar-2024 05:41:42 [Unknown] - Gpg Tripeople
+16-Mar-2024 05:42:43 [Unknown] - Shotgun 3
+16-Mar-2024 05:42:45 Grace To Grace - Hillsong Worship (128 Kbps)
+16-Mar-2024 05:49:42 [Unknown] - Iba Gid 1
+16-Mar-2024 05:49:47 Worship With Don Moen - To Him Who Sits On The Throne
+16-Mar-2024 05:53:21 WOW Worship - I'm Trading My Sorrow
+16-Mar-2024 05:58:08 [Unknown] - Iba Gid 10
+16-Mar-2024 05:58:14 [Unknown] - Ramp 4
+16-Mar-2024 05:58:45 [Unknown] - Angelus
+16-Mar-2024 06:01:19 [Unknown] - Mb Panalangin 3
+16-Mar-2024 06:01:39 [Unknown] - Osb Iwas Sunog 2 Kusina
+16-Mar-2024 06:02:21 [Unknown] - Toh Id 2018 Latest
+16-Mar-2024 06:02:44 [Unknown] - Shotgun 2
+16-Mar-2024 06:02:47 [Unknown] - Better When I'm Dancing By Meghan Trainor Zumba® Live Love
+16-Mar-2024 06:05:40 [Unknown] - Usm Pgm Jingle 2023
+16-Mar-2024 06:06:34 [Unknown] - Usm Pgm Jingle Bed
+16-Mar-2024 06:07:28 [Unknown] - Usm Pgm Jingle Bed
+16-Mar-2024 06:08:22 [Unknown] - Usm Pgm Jingle Bed
+16-Mar-2024 06:09:17 [Unknown] - Usm Pgm Jingle Bed
+16-Mar-2024 06:10:11 [Unknown] - Usm Pgm Jingle Bed
+16-Mar-2024 06:11:05 [Unknown] - Usm Pgm Jingle Bed
+16-Mar-2024 06:11:46 [Unknown] - BALITANG USM BED
+16-Mar-2024 06:14:25 [Unknown] - BALITANG USM BED
+16-Mar-2024 06:15:23 [Unknown] - BALITANG USM BED
+16-Mar-2024 06:16:21 [Unknown] - BALITANG USM BED
+16-Mar-2024 06:17:19 [Unknown] - BALITANG USM BED
+16-Mar-2024 06:18:17 [Unknown] - BALITANG USM BED
+16-Mar-2024 06:19:14 [Unknown] - BALITANG USM BED
+16-Mar-2024 06:20:12 [Unknown] - BALITANG USM BED
+16-Mar-2024 06:21:10 [Unknown] - BALITANG USM BED
+16-Mar-2024 06:21:30 [Unknown] - Usm Pgm Jingle Bed
+16-Mar-2024 06:23:34 [Unknown] - Usm Pgm Jingle Bed
+16-Mar-2024 06:24:28 [Unknown] - Usm Pgm Jingle Bed
+16-Mar-2024 06:25:22 [Unknown] - Usm Pgm Jingle Bed
+16-Mar-2024 06:26:58 [Unknown] - Usm Pgm Jingle Bed
+16-Mar-2024 06:28:10 [Unknown] - Usm Quality Policy Statement
+16-Mar-2024 06:29:15 [Unknown] - Usm Id Stinger
+16-Mar-2024 06:29:19 [Unknown] - Usm Pgm Jingle Bed
+16-Mar-2024 06:30:13 [Unknown] - Usm Pgm Jingle Bed
+16-Mar-2024 06:31:08 [Unknown] - Usm Pgm Jingle Bed
+16-Mar-2024 06:32:02 [Unknown] - Usm Pgm Jingle Bed
+16-Mar-2024 06:32:56 [Unknown] - Usm Pgm Jingle Bed
+16-Mar-2024 06:33:50 [Unknown] - Usm Pgm Jingle Bed
+16-Mar-2024 06:34:44 [Unknown] - Usm Pgm Jingle Bed
+16-Mar-2024 06:35:39 [Unknown] - Usm Pgm Jingle Bed
+16-Mar-2024 06:36:33 [Unknown] - Usm Pgm Jingle Bed
+16-Mar-2024 06:37:27 [Unknown] - Usm Pgm Jingle Bed
+16-Mar-2024 06:38:21 [Unknown] - Usm Pgm Jingle Bed
+16-Mar-2024 06:39:15 [Unknown] - Usm Pgm Jingle Bed
+16-Mar-2024 06:40:09 [Unknown] - Usm Pgm Jingle Bed
+16-Mar-2024 06:41:04 [Unknown] - Usm Pgm Jingle Bed
+16-Mar-2024 06:41:58 [Unknown] - Usm Pgm Jingle Bed
+16-Mar-2024 06:42:52 [Unknown] - Usm Pgm Jingle Bed
+16-Mar-2024 06:43:46 [Unknown] - Usm Pgm Jingle Bed
+16-Mar-2024 06:44:40 [Unknown] - Usm Pgm Jingle Bed
+16-Mar-2024 06:50:34 [Unknown] - Usm Pgm Jingle Bed
+16-Mar-2024 06:51:39 [Unknown] - Usm Beloved Jingle
+16-Mar-2024 06:54:13 [Unknown] - Iba Gid 5
+16-Mar-2024 06:54:18 Usher - DJ Got Us Fallin' In Love (Ft.
+16-Mar-2024 06:57:54 Dj Khaled - I'm The One Ft. Justin Bieber, Quavo, Chance The Rapper, Lil
+16-Mar-2024 07:02:40 [Unknown] - Iba Gid Ang Weekend
+16-Mar-2024 07:02:45 [Unknown] - Unlad Kabacan Gpg Id
+16-Mar-2024 07:03:58 [Unknown] - Uk Gpg Talk Bed
+16-Mar-2024 07:05:09 [Unknown] - Uk Gpg Talk Bed
+16-Mar-2024 07:06:19 [Unknown] - Uk Gpg Talk Bed
+16-Mar-2024 07:07:30 [Unknown] - Uk Gpg Talk Bed
+16-Mar-2024 07:08:40 [Unknown] - Uk Gpg Talk Bed
+16-Mar-2024 07:09:51 [Unknown] - Uk Gpg Talk Bed
+16-Mar-2024 07:11:02 [Unknown] - Uk Gpg Talk Bed
+16-Mar-2024 07:12:12 [Unknown] - Uk Gpg Talk Bed
+16-Mar-2024 07:13:23 [Unknown] - Uk Gpg Talk Bed
+16-Mar-2024 07:14:33 [Unknown] - Uk Gpg Talk Bed
+16-Mar-2024 07:15:44 [Unknown] - Uk Gpg Talk Bed
+16-Mar-2024 07:16:54 [Unknown] - Uk Gpg Talk Bed
+16-Mar-2024 07:18:05 [Unknown] - Uk Gpg Talk Bed
+16-Mar-2024 07:19:15 [Unknown] - Uk Gpg Talk Bed
+16-Mar-2024 07:20:26 [Unknown] - Uk Gpg Talk Bed
+16-Mar-2024 07:21:36 [Unknown] - Uk Gpg Talk Bed
+16-Mar-2024 07:22:47 [Unknown] - Uk Gpg Talk Bed
+16-Mar-2024 07:23:57 [Unknown] - Uk Gpg Talk Bed
+16-Mar-2024 07:25:08 [Unknown] - Uk Gpg Talk Bed
+16-Mar-2024 07:26:19 [Unknown] - Uk Gpg Talk Bed
+16-Mar-2024 07:27:13 [Unknown] - Gpg-R Amadan
+16-Mar-2024 07:28:16 [Unknown] - Gpg Testimony4
+16-Mar-2024 07:29:16 [Unknown] - Uk Gpg Stinger
+16-Mar-2024 07:29:26 [Unknown] - Uk Gpg Talk Bed
+16-Mar-2024 07:30:36 [Unknown] - Uk Gpg Talk Bed
+16-Mar-2024 07:42:36 [Unknown] - Uk Gpg Talk Bed
+16-Mar-2024 07:43:47 [Unknown] - Uk Gpg Talk Bed
+16-Mar-2024 07:44:57 [Unknown] - Uk Gpg Talk Bed
+16-Mar-2024 07:46:08 [Unknown] - Uk Gpg Talk Bed
+16-Mar-2024 07:47:19 [Unknown] - Uk Gpg Talk Bed
+16-Mar-2024 07:48:29 [Unknown] - Uk Gpg Talk Bed
+16-Mar-2024 07:49:40 [Unknown] - Uk Gpg Talk Bed
+16-Mar-2024 07:50:50 [Unknown] - Uk Gpg Talk Bed
+16-Mar-2024 07:52:01 [Unknown] - Uk Gpg Talk Bed
+16-Mar-2024 07:53:11 [Unknown] - Uk Gpg Talk Bed
+16-Mar-2024 07:54:22 [Unknown] - Uk Gpg Talk Bed
+16-Mar-2024 07:55:32 [Unknown] - Uk Gpg Talk Bed
+16-Mar-2024 07:56:43 [Unknown] - Uk Gpg Talk Bed
+16-Mar-2024 07:57:53 [Unknown] - Uk Gpg Talk Bed
+16-Mar-2024 07:59:04 [Unknown] - Uk Gpg Talk Bed
+16-Mar-2024 07:59:23 [Unknown] - Uk Gpg Stinger 2
+16-Mar-2024 07:59:28 [Unknown] - Gpg Ramadan 2024
+16-Mar-2024 08:00:28 [Unknown] - Kool Fm Cut 3
+16-Mar-2024 08:01:04 [Unknown] - Ramp 2
+16-Mar-2024 08:01:35 [Unknown] - Mb Kaligtasan 1
+16-Mar-2024 08:02:00 [Unknown] - New Toh Id
+16-Mar-2024 08:02:24 [Unknown] - Shotgun 6
+16-Mar-2024 08:02:27 Nicki Minaj - Starships
+16-Mar-2024 08:44:16 Camila Cabello, Ed Sheeran - Bam Bam
+16-Mar-2024 08:47:37 Daniel Padilla Moira Dela Torre - Mabagal Himig Handog 2019
+16-Mar-2024 08:51:19 [Unknown] - Iba Gid 3
+16-Mar-2024 08:51:22 Maximillian - Beautiful Scars (Lyric Video)
+16-Mar-2024 08:54:28 Lil Vinceyy Ft. Guel - Chinita Girl
+16-Mar-2024 08:58:43 Ali Gatie - It's You (Lyrics)
+16-Mar-2024 09:02:13 [Unknown] - Iba Gid 1
+16-Mar-2024 09:02:18 [Unknown] - Ramp 3
+16-Mar-2024 09:02:40 [Unknown] - Mb Kaligtasan 13
+16-Mar-2024 09:02:55 [Unknown] - New Toh Id
+16-Mar-2024 09:03:19 [Unknown] - Shotgun 3
+16-Mar-2024 09:03:21 Cascada - Truly Madly Deeply
+16-Mar-2024 09:07:31 Savage Garden - I Knew I Loved You
+16-Mar-2024 09:11:30 [Unknown] - Usm Pgm Jingle Bed
+16-Mar-2024 09:12:24 ~I Knew I Love You.mp3 - I Knew I Love You
+16-Mar-2024 09:16:23 [Unknown] - Iba Gid 1
+16-Mar-2024 09:16:26 K-Ci & JoJo - All My Life
+16-Mar-2024 09:21:27 N' Sync - This I Promise You
+16-Mar-2024 09:26:03 [Unknown] - Iba Gid 1
+16-Mar-2024 09:26:08 [Unknown] - Gpg Ramadan 2024
+16-Mar-2024 09:27:09 [Unknown] - Dxvl Claver 2023
+16-Mar-2024 09:27:39 [Unknown] - Mx3 Cebuano Cajera
+16-Mar-2024 09:28:09 [Unknown] - Rjo Japan Surplus 2023
+16-Mar-2024 09:28:46 [Unknown] - Colegio De Maharlika 2024
+16-Mar-2024 09:29:41 [Unknown] - Shotgun 3
+16-Mar-2024 09:29:44 SWV - Weak
+16-Mar-2024 09:34:26 WESTLIFE - All Or Nothing
+16-Mar-2024 09:38:15 [Unknown] - Iba Gid 1
+16-Mar-2024 09:38:20 Maria Carey & Boyz Ii Men - One Sweet Day
+16-Mar-2024 09:42:49 All 4 One - I Swear
+16-Mar-2024 09:47:02 [Unknown] - Iba Gid 1
+16-Mar-2024 09:47:08 [Unknown] - Scdl Kabacan 2023
+16-Mar-2024 09:48:11 [Unknown] - Menro 2 2023
+16-Mar-2024 09:49:01 [Unknown] - Jay Failanga 30s 1
+16-Mar-2024 09:49:30 [Unknown] - Gpg Testimony2
+16-Mar-2024 09:50:25 [Unknown] - Shotgun 3
+16-Mar-2024 09:50:28 On Bended Knees 1 - Boyz 2 Men
+16-Mar-2024 09:55:55 Joe - No One Else Comes Close
+16-Mar-2024 09:59:41 [Unknown] - Iba Gid 10
+16-Mar-2024 09:59:47 Guy Sebastian - Angels Brought Me Here
+16-Mar-2024 10:03:39 [Unknown] - Iba Gid 2
+16-Mar-2024 10:03:43 [Unknown] - Ramp 4
+16-Mar-2024 10:04:13 [Unknown] - Osb Iwas Sunog 3
+16-Mar-2024 10:05:09 [Unknown] - Toh Id 2018 Latest
+16-Mar-2024 10:05:32 [Unknown] - Shotgun 3
+16-Mar-2024 10:05:35 Mariah Carey  Feat. Joe And 98 - Thank God I Found You
+16-Mar-2024 10:09:49 Destiny's Child - Brown Eyes
+16-Mar-2024 10:14:17 [Unknown] - Iba Gid 1
+16-Mar-2024 10:14:22 David Cook - Always Be My Baby
+16-Mar-2024 10:18:08 Backstreet Boys - Shape Of My Heart
+16-Mar-2024 10:21:53 [Unknown] - Iba Gid 5
+16-Mar-2024 10:21:58 [Unknown] - Joann Lang 30s 1
+16-Mar-2024 10:22:28 [Unknown] - Ariben Soap Doming 2022
+16-Mar-2024 10:23:32 [Unknown] - Rjo Japan Surplus 2023
+16-Mar-2024 10:24:08 [Unknown] - Albutra Plug 2024
+16-Mar-2024 10:24:47 [Unknown] - Colegio De Maharlika 2024
+16-Mar-2024 10:25:42 [Unknown] - Shotgun 2
+16-Mar-2024 10:25:44 Boyzone - Love Me For A Reason
+16-Mar-2024 10:29:17 A1 - Like A Rose
+16-Mar-2024 10:33:14 [Unknown] - Iba Gid 1
+16-Mar-2024 10:33:19 No Matter What - Piolo Pascual
+16-Mar-2024 10:37:40 Angel Of Mine - Monica
+16-Mar-2024 10:41:45 [Unknown] - Iba Gid 3
+16-Mar-2024 10:41:50 Backstreet Boys - Everytime I Close My Eyes
+16-Mar-2024 10:45:32 Tamia - Officially Missing You
+16-Mar-2024 10:49:25 [Unknown] - Iba Gid 2
+16-Mar-2024 10:49:29 Nina - Unbreak My Heart
+16-Mar-2024 10:54:24 A1 - Heaven By Your Side
+16-Mar-2024 10:58:31 [Unknown] - Iba Gid 10
+16-Mar-2024 10:58:37 Westlife - Swear It Again
+16-Mar-2024 11:02:36 [Unknown] - Iba Gid 5
+16-Mar-2024 11:02:41 [Unknown] - Ramp 3
+16-Mar-2024 11:03:03 [Unknown] - Osb Iwas Sunog 1
+16-Mar-2024 11:04:05 [Unknown] - Toh Id 2018 Latest
+16-Mar-2024 11:04:28 [Unknown] - Shotgun 4
+16-Mar-2024 11:04:33 Justin Timberlake - Can't Stop The Feeling
+16-Mar-2024 11:08:25 Sarah Geronimo - Tala
+16-Mar-2024 11:12:23 [Unknown] - Iba Gid 10
+16-Mar-2024 11:12:29 Coldplay - Up&Up
+16-Mar-2024 11:16:32 Banda Ni Kleggy Featuring Aikee - Pabili Po
+16-Mar-2024 11:19:51 [Unknown] - Iba Gid 5
+16-Mar-2024 11:19:56 Dan + Shay, Justin Bieber - 10, 000 Hours
+16-Mar-2024 11:22:37 [Unknown] - Iba Gid
+16-Mar-2024 11:22:38 [Unknown] - Mx3 May Bayer 30s
+16-Mar-2024 11:23:08 [Unknown] - Nataraki Add 2024
+16-Mar-2024 11:24:14 [Unknown] - Albutra Plug 2024
+16-Mar-2024 11:24:52 [Unknown] - Shotgun 2
+16-Mar-2024 11:24:55 Anne-Marie - 2002
+16-Mar-2024 11:27:57 Camila Cabello - Havana Ft. Young Thug
+16-Mar-2024 11:31:28 [Unknown] - Iba Gid 1
+16-Mar-2024 11:31:33 Selena Gomez - Kill Em With Kindness
+16-Mar-2024 11:35:01 Ylona Garcia - Dahan Dahan Dahan Lang
+16-Mar-2024 11:38:38 [Unknown] - Iba Gid 2
+16-Mar-2024 11:38:41 David Guetta Ft. Zara Larsson - This One's For You
+16-Mar-2024 11:42:00 Troye Sivan - Strawberries & Cigarettes
+16-Mar-2024 11:45:07 [Unknown] - Iba Gid 3
+16-Mar-2024 11:45:11 [Unknown] - Menro 2 2023
+16-Mar-2024 11:46:02 [Unknown] - Ariben Soap Hazel 2022
+16-Mar-2024 11:47:12 [Unknown] - Kool Timebayan Promo 2024
+16-Mar-2024 11:47:40 [Unknown] - Toh Id 2018 Latest
+16-Mar-2024 11:48:03 Ruth B. - Dandelions
+16-Mar-2024 11:51:45 Nag-Iisang Muli - Cup Of Joe
+16-Mar-2024 11:57:04 [Unknown] - Iba Gid 2
+16-Mar-2024 11:57:08 Dilaw - Orasa
+16-Mar-2024 12:00:51 Hori7on - Lucky
+16-Mar-2024 12:03:49 [Unknown] - Iba Gid 10
+16-Mar-2024 12:03:55 [Unknown] - Ramp 4
+16-Mar-2024 12:04:25 [Unknown] - Islamic Verse
+16-Mar-2024 12:05:10 [Unknown] - Angelus
+16-Mar-2024 12:07:44 [Unknown] - Mb Panalangin 5
+16-Mar-2024 12:08:14 [Unknown] - Osb Iwas Sunog 3
+16-Mar-2024 12:09:10 [Unknown] - Kool Fm 2024 Promo
+16-Mar-2024 12:10:41 [Unknown] - Toh Id 2018 Latest
+16-Mar-2024 12:11:05 [Unknown] - Shotgun 3
+16-Mar-2024 12:11:08 Maymay Entrata - Tsada Mahigugma
+16-Mar-2024 12:14:09 Dua Lipa - Training Season
+16-Mar-2024 12:17:37 [Unknown] - Iba Gid
+16-Mar-2024 12:17:38 Rob Deniel - Miss Miss
+16-Mar-2024 12:21:58 Arthur Nery - Take All The Love
+16-Mar-2024 12:25:13 [Unknown] - Iba Gid 6
+16-Mar-2024 12:25:18 [Unknown] - Jwireless 2021
+16-Mar-2024 12:26:36 [Unknown] - Lucky 9 Promo
+16-Mar-2024 12:27:03 [Unknown] - Shotgun 1
+16-Mar-2024 12:27:07 Tyla - Water
+16-Mar-2024 12:30:24 Nik Makino X Flow G - We Made It
+16-Mar-2024 12:34:07 [Unknown] - Iba Gid 4
+16-Mar-2024 12:34:13 Gins&melodies - Babaero
+16-Mar-2024 12:37:03 Zeddy Will - Freak You Ft. Dj Smallz
+16-Mar-2024 12:38:44 Pablo X Josue - Determinado
+16-Mar-2024 12:41:47 [Unknown] - Iba Gid 4
+16-Mar-2024 12:41:54 [Unknown] - Ariben Soap Doming 2022
+16-Mar-2024 12:42:57 [Unknown] - Nelson Delos Santos 30s 1
+16-Mar-2024 12:43:27 [Unknown] - Rjo Japan Surplus 2023
+16-Mar-2024 12:44:04 [Unknown] - Shotgun 3
+16-Mar-2024 12:44:07 Maria Clara - Janah Rapas X Pjansein
+16-Mar-2024 12:48:14 [Unknown] - Janine Tenoso -Hulaan
+16-Mar-2024 12:51:48 [Unknown] - Iba Gid
+16-Mar-2024 12:51:49 Imahe - Magnus Haven (Lyric By Mojojow Music)
+16-Mar-2024 12:57:01 Marion Aunor - Pumapag-Ibig
+16-Mar-2024 13:00:54 Kz Tandingan - Mahal Ko O Mahal Ako
+16-Mar-2024 13:04:28 [Unknown] - Iba Gid 10
+16-Mar-2024 13:04:34 [Unknown] - Ramp 3
+16-Mar-2024 13:04:56 [Unknown] - Osb Iwas Sunog 3
+16-Mar-2024 13:05:51 [Unknown] - Toh Id 2018 Latest
+16-Mar-2024 13:06:15 [Unknown] - Shotgun 4
+16-Mar-2024 13:06:19 I Will Always Love You - Dolly Parton (Original)
+16-Mar-2024 13:09:17 Love Me Tender - Folk Kenny Rogers
+16-Mar-2024 13:12:14 [Unknown] - Iba Gid 9
+16-Mar-2024 13:12:17 Mariah Carey - Open Arms
+16-Mar-2024 13:15:37 Righteous Brothers - Unchained Melody
+16-Mar-2024 13:19:11 [Unknown] - Iba Gid 4
+16-Mar-2024 13:19:18 [Unknown] - Ariben Soap Doming 2022
+16-Mar-2024 13:20:21 [Unknown] - Menro Plug 2
+16-Mar-2024 13:21:58 Top Agro Frontliner 200 - June 2023
+16-Mar-2024 13:22:38 [Unknown] - Shotgun 2
+16-Mar-2024 13:22:41 I'll Be There - Carol Banawa
+16-Mar-2024 13:26:21 Faith Hill - Breathe
+16-Mar-2024 13:30:19 [Unknown] - Iba Gid 7
+16-Mar-2024 13:30:24 Bee Gees - How Deep Is Your Love
+16-Mar-2024 13:34:17 Regine Velasquez - In Your Eyes
+16-Mar-2024 13:37:38 Aerosmith - I Don't Wanna Miss A Thing
+16-Mar-2024 13:42:10 [Unknown] - Iba Gid 7
+16-Mar-2024 13:42:14 [Unknown] - Dxvl Claver 2023
+16-Mar-2024 13:42:45 [Unknown] - Ariben Soap Marie 2022
+16-Mar-2024 13:44:03 [Unknown] - Shotgun 5
+16-Mar-2024 13:44:08 Lionel Ritchie & Diana Ross - Endless Love
+16-Mar-2024 13:48:25 Wonderful Tonight - Eric Clapton
+16-Mar-2024 13:51:58 [Unknown] - Iba Gid 4
+16-Mar-2024 13:52:04 Aiza Seguerra - At Last
+16-Mar-2024 13:54:36 Unforgettable - Folk Kenny Rogers
+16-Mar-2024 13:57:52 [Unknown] - Iba Gid 7
+16-Mar-2024 13:57:57 [Unknown] - Ramp 1
+16-Mar-2024 13:58:21 [Unknown] - Osb Iwas Sunog 1
+16-Mar-2024 13:59:22 [Unknown] - Kool Fm 2024 Promo
+16-Mar-2024 14:00:54 [Unknown] - Shotgun 3
+16-Mar-2024 14:00:57 REO Speedwagon - Keep On Loving You
+16-Mar-2024 14:04:12 Jamelia - Superstar
+16-Mar-2024 14:07:42 [Unknown] - Iba Gid 7
+16-Mar-2024 14:07:47 Shania Twain - You're Still The One
+16-Mar-2024 14:11:16 Bon Jovi - Always
+16-Mar-2024 14:16:55 [Unknown] - Iba Gid 3
+16-Mar-2024 14:16:59 Extreme - More Than Words
+16-Mar-2024 14:20:35 [Unknown] - Iba Gid 8
+16-Mar-2024 14:20:40 [Unknown] - Jwireless 2021
+16-Mar-2024 14:21:58 Top Agro Frontliner 200 - June 2023
+16-Mar-2024 14:22:39 [Unknown] - Shotgun 5
+16-Mar-2024 14:22:44 Teri Desario - Fallin'
+16-Mar-2024 14:25:35 Eagles - Best Of My Love
+16-Mar-2024 14:29:52 [Unknown] - Iba Gid 7
+16-Mar-2024 14:29:56 Mr. Big - To Be With You
+16-Mar-2024 14:33:13 Celine Dion - Alone
+16-Mar-2024 14:36:18 Ricky Martin Feat. Christina A - Nobody Wants To Be Lonely
+16-Mar-2024 14:40:23 [Unknown] - Iba Gid 7
+16-Mar-2024 14:40:28 [Unknown] - Menro 2 2023
+16-Mar-2024 14:41:18 [Unknown] - Gpg Testimony3
+16-Mar-2024 14:41:56 [Unknown] - Shotgun 3
+16-Mar-2024 14:41:59 Atomic Kitten - Eternal Flame
+16-Mar-2024 14:45:24 Eagles - Love Will Keep Us Alive
+16-Mar-2024 14:49:22 [Unknown] - Iba Gid 6
+16-Mar-2024 14:49:27 Boyz Ll Men - I'll Make Love To You
+16-Mar-2024 14:53:13 Inoj - Time After Time
+16-Mar-2024 14:57:11 Tamia - Careless Whisper
+16-Mar-2024 15:02:10 [Unknown] - Iba Gid 8
+16-Mar-2024 15:02:16 [Unknown] - Ramp 5
+16-Mar-2024 15:02:39 [Unknown] - Islamic Verse
+16-Mar-2024 15:03:23 [Unknown] - The New 3 O'C Lock Prayer
+16-Mar-2024 15:04:37 [Unknown] - Mb Panalangin 2
+16-Mar-2024 15:04:55 [Unknown] - Toh Id 2018 Latest
+16-Mar-2024 15:05:19 [Unknown] - Shotgun 5
+16-Mar-2024 15:05:24 Daughtry - Over You
+16-Mar-2024 15:09:05 Hinder - Lips of an Angel
+16-Mar-2024 15:13:17 [Unknown] - Iba Gid 4
+16-Mar-2024 15:13:23 Parokya Ni Edgar - Halaga
+16-Mar-2024 15:17:36 Cueshe - Laki Sa Layaw
+16-Mar-2024 15:21:13 [Unknown] - Iba Gid 9
+16-Mar-2024 15:21:16 [Unknown] - Mx3 Angelica Cebuano
+16-Mar-2024 15:21:46 [Unknown] - Gpg Smoking 2023
+16-Mar-2024 15:22:39 [Unknown] - Shotgun 4
+16-Mar-2024 15:22:43 Bryan Adams & Barbara Streisan - I Finally Found Someone
+16-Mar-2024 15:26:13 Hoobastank - The Reason
+16-Mar-2024 15:29:59 [Unknown] - Iba Gid 8
+16-Mar-2024 15:30:05 Silent Sanctuary - Bumalik Ka Na Sakin
+16-Mar-2024 15:33:35 The Script - Breakeven
+16-Mar-2024 15:37:45 Evanescence - My Immortal
+16-Mar-2024 15:41:59 [Unknown] - Iba Gid 6
+16-Mar-2024 15:42:03 [Unknown] - Ariben Soap Caryl 2022
+16-Mar-2024 15:43:11 [Unknown] - Gpg Tripeople
+16-Mar-2024 15:44:12 [Unknown] - Mx3 Reynalyn Cebuano 30s
+16-Mar-2024 15:44:42 [Unknown] - Shotgun 5
+16-Mar-2024 15:44:48 Kris Allen - Apologize
+16-Mar-2024 15:48:03 Owl City - Fireflies
+16-Mar-2024 15:51:29 [Unknown] - Iba Gid 8
+16-Mar-2024 15:51:35 Paramore - Still Into You
+16-Mar-2024 15:54:59 I'll Be - Edwin Mc Cain (Origina)
+16-Mar-2024 15:59:16 [Unknown] - Iba Gid 7
+16-Mar-2024 15:59:20 [Unknown] - Ramp 6
+16-Mar-2024 15:59:52 [Unknown] - Osb Iwas Sunog 3
+16-Mar-2024 16:00:47 [Unknown] - Toh Id 2018 Latest
+16-Mar-2024 16:01:11 [Unknown] - Shotgun 5
+16-Mar-2024 16:01:16 Itchyworms - Akin Ka Na Lang
+16-Mar-2024 16:04:16 Maroon 5 - She Will Be Loved
+16-Mar-2024 16:08:27 Gloc-9 Feat. Rico Blanco - Magda
+16-Mar-2024 16:13:41 [Unknown] - Iba Gid 7
+16-Mar-2024 16:13:45 Chasing Cars - Snow Patrol
+16-Mar-2024 16:18:03 The Vamps - Risk It All
+16-Mar-2024 16:21:36 [Unknown] - Iba Gid 8
+16-Mar-2024 16:21:42 [Unknown] - Rjo Japan Surplus 2023
+16-Mar-2024 16:22:19 [Unknown] - Gpg Business
+16-Mar-2024 16:22:54 [Unknown] - Veronica Tolentino 30s 1
+16-Mar-2024 16:23:24 [Unknown] - Gpg Testimony1
+16-Mar-2024 16:24:22 [Unknown] - Shotgun 3
+16-Mar-2024 16:24:25 Rivermaya - Kisapmata
+16-Mar-2024 16:28:59 Sa Susunod Na Habang Buhay - Ben& Ben
+16-Mar-2024 16:33:29 [Unknown] - Iba Gid 7
+16-Mar-2024 16:33:34 [Unknown] - Steelheart- She's Gone
+16-Mar-2024 16:39:54 [Unknown] - Iba Gid 6
+16-Mar-2024 16:39:59 [Unknown] - Menro 1 2023
+16-Mar-2024 16:40:42 [Unknown] - Joann Lang 30s 1
+16-Mar-2024 16:41:12 [Unknown] - Dxvl Tobli 2023
+16-Mar-2024 16:42:01 [Unknown] - Nataraki Add 2024
+16-Mar-2024 16:43:08 [Unknown] - Shotgun 4
+16-Mar-2024 16:43:12 Imagine Dragons - Thunder
+16-Mar-2024 16:46:09 [Unknown] - Halik Ni Hudas
+16-Mar-2024 16:49:35 Siakol - Bakit Ba
+16-Mar-2024 16:54:15 [Unknown] - Iba Gid 8
+16-Mar-2024 16:54:21 Siakol - Peksman
+16-Mar-2024 16:58:28 Moonstar88 - Senti
+16-Mar-2024 17:02:51 [Unknown] - Iba Gid 10
+16-Mar-2024 17:02:57 [Unknown] - Ramp 5
+16-Mar-2024 17:03:20 [Unknown] - Osb Iwas Sunog 3
+16-Mar-2024 17:04:16 [Unknown] - Toh Id 2018 Latest
+16-Mar-2024 17:04:39 [Unknown] - Shotgun 5
+16-Mar-2024 17:04:44 Lyndon - Lintik
+16-Mar-2024 17:09:03 Bamboo - Masaya
+16-Mar-2024 17:12:44 [Unknown] - Iba Gid 6
+16-Mar-2024 17:12:49 Hinahanap-H Anap Kita - Daniel Padilla
+16-Mar-2024 17:16:49 Cueshe - Ulan
+16-Mar-2024 17:21:53 [Unknown] - Bilog Na Naman Ang Buwan
+16-Mar-2024 17:25:11 [Unknown] - Iba Gid 8
+16-Mar-2024 17:25:15 [Unknown] - Gpg Tripeople
+16-Mar-2024 17:26:17 [Unknown] - Ariben Soap Doming 2022
+16-Mar-2024 17:27:20 [Unknown] - Gpg Smoking 2023
+16-Mar-2024 17:28:13 [Unknown] - Mx3 Cebuano Cajera
+16-Mar-2024 17:28:43 [Unknown] - Shotgun 5
+16-Mar-2024 17:28:48 Eraserheads - Ligaya
+16-Mar-2024 17:33:01 Siakol - Biyaheng Impiyerno
+16-Mar-2024 17:36:08 [Unknown] - Iba Gid 7
+16-Mar-2024 17:36:12 [Unknown] - Yano Esem
+16-Mar-2024 17:39:44 [Unknown] - Iba Gid 7
+16-Mar-2024 17:39:49 [Unknown] - Jay Failanga 30s 1
+16-Mar-2024 17:40:18 [Unknown] - Scdl Kabacan 2023
+16-Mar-2024 17:41:21 [Unknown] - Gpg Ligtas 2023
+16-Mar-2024 17:42:25 [Unknown] - Lucky 9 Promo
+16-Mar-2024 17:42:51 [Unknown] - Shotgun 5
+16-Mar-2024 17:42:56 Grin Department - Iskin
+16-Mar-2024 17:47:00 Parokya Ni Edgar - Barkada
+16-Mar-2024 17:49:39 [Unknown] - Iba Gid 9
+16-Mar-2024 17:49:42 Bamboo - Noypi
+16-Mar-2024 17:54:04 Itchyworms - Beer
+16-Mar-2024 18:00:05 [Unknown] - Iba Gid 7
+16-Mar-2024 18:00:09 [Unknown] - Ramp 3
+16-Mar-2024 18:00:31 [Unknown] - Islamic Verse
+16-Mar-2024 18:01:16 [Unknown] - Angelus
+16-Mar-2024 18:03:50 [Unknown] - Mb Panalangin 5
+16-Mar-2024 18:04:20 [Unknown] - Toh Id 2018 Latest
+16-Mar-2024 18:04:44 [Unknown] - Shotgun 5
+16-Mar-2024 18:04:48 Jason Derulo - Trumpets
+16-Mar-2024 18:08:20 The Chainsmokers - #selfie
+16-Mar-2024 18:11:20 [Unknown] - Iba Gid 2
+16-Mar-2024 18:11:24 Zedd, Alessia Cara - Stay [Clean]
+16-Mar-2024 18:14:54 Locked Out Of Heaven - Bruno Mars
+16-Mar-2024 18:18:44 [Unknown] - Iba Gid 8
+16-Mar-2024 18:18:50 [Unknown] - Rnb Magsaing Na
+16-Mar-2024 18:18:58 [Unknown] - Gpg Smoking 2023
+16-Mar-2024 18:19:50 [Unknown] - Joann Lang 30s 1
+16-Mar-2024 18:20:20 [Unknown] - Shotgun 5
+16-Mar-2024 18:20:25 Beauty And A Beat - Justin Bieber Ft Nicki Minaj
+16-Mar-2024 18:24:10 Maroon 5 - One More Night
+16-Mar-2024 18:27:47 Phillip Phillips - Home
+16-Mar-2024 18:31:11 [Unknown] - Iba Gid 7
+16-Mar-2024 18:31:16 02 - Thrift Shop
+16-Mar-2024 18:35:11 Alicia Keys Feat Nicki Minaj - Girl On Fire
+16-Mar-2024 18:39:35 Lorde - Royals
+16-Mar-2024 18:42:53 [Unknown] - Iba Gid 8
+16-Mar-2024 18:42:58 [Unknown] - Ariben Soap Mylene 2022
+16-Mar-2024 18:44:12 [Unknown] - Jwireless 2021
+16-Mar-2024 18:45:30 [Unknown] - Mx3 May Bayer 30s
+16-Mar-2024 18:46:00 [Unknown] - Shotgun 5
+16-Mar-2024 18:46:05 Maroon 5 - Animals
+16-Mar-2024 18:49:51 The Chainsmokers - Roses Ft. Rozes
+16-Mar-2024 18:53:31 [Unknown] - Iba Gid 7
+16-Mar-2024 18:53:36 [Unknown] - Dua Lipa New Rules (Lyrics) (1)
+16-Mar-2024 18:57:02 Nicki Minaj - Anaconda
+16-Mar-2024 19:01:18 [Unknown] - Iba Gid 7
+16-Mar-2024 19:01:22 [Unknown] - Ramp 1
+16-Mar-2024 19:01:46 [Unknown] - Islamic Verse
+16-Mar-2024 19:02:30 [Unknown] - Osb Iwas Sunog 1
+16-Mar-2024 19:03:32 [Unknown] - Toh Id 2018 Latest
+16-Mar-2024 19:03:56 [Unknown] - Shotgun 4
+16-Mar-2024 19:04:00 Sak Noel & Salvi Ft. Sean Paul - Trumpets
+16-Mar-2024 19:07:22 Jason Derulo - Wiggle Feat. Snoop Dogg
+16-Mar-2024 19:10:31 Beenie Man - Gimmie Gimmie Gimmie
+16-Mar-2024 19:13:31 [Unknown] - Iba Gid 8
+16-Mar-2024 19:13:37 Ava Max - Sweet But Psycho [Official Music Video]
+16-Mar-2024 19:16:49 Look At Me Now - Chris Brown
+16-Mar-2024 19:20:28 [Unknown] - Iba Gid 7
+16-Mar-2024 19:20:33 [Unknown] - Rnb Dinner Na
+16-Mar-2024 19:20:41 [Unknown] - Jwireless 2021
+16-Mar-2024 19:21:59 [Unknown] - Nelson Delos Santos 30s 1
+16-Mar-2024 19:22:29 [Unknown] - Nataraki Add 2024
+16-Mar-2024 19:23:35 [Unknown] - Dxvl Claver 2023
+16-Mar-2024 19:24:06 [Unknown] - Shotgun 5
+16-Mar-2024 19:24:11 Taylor Swift - Picture To Burn
+16-Mar-2024 19:26:58 Miley Cyrus - Angels Like You
+16-Mar-2024 19:30:09 [Unknown] - Iba Gid 3
+16-Mar-2024 19:30:14 Sza - Big Boy
+16-Mar-2024 19:33:04 The Weeknd & Ariana Grande - Die For You
+16-Mar-2024 19:36:53 [Unknown] - Iba Gid 2
+16-Mar-2024 19:36:57 Ebe Dancel - Tulog Na
+16-Mar-2024 19:41:09 Calein - Umaasa
+16-Mar-2024 19:46:25 [Unknown] - Iba Gid 2
+16-Mar-2024 19:46:29 [Unknown] - Doh Bida Solusyon
+16-Mar-2024 19:46:59 [Unknown] - Mx3 Reynalyn Cebuano 30s
+16-Mar-2024 19:47:29 [Unknown] - Shotgun 4
+16-Mar-2024 19:47:33 Arthur Miguel - Walang Kapalit
+16-Mar-2024 19:51:04 Chris Brown - With You
+16-Mar-2024 19:55:15 [Unknown] - Iba Gid 4
+16-Mar-2024 19:55:21 Jisoo - Flower
+16-Mar-2024 19:58:11 Sb19 - I Want You
+16-Mar-2024 20:01:48 [Unknown] - Iba Gid 1
+16-Mar-2024 20:01:54 [Unknown] - Ramp 3
+16-Mar-2024 20:02:16 [Unknown] - Osb Iwas Sunog 1
+16-Mar-2024 20:03:17 [Unknown] - Toh Id 2018 Latest
+16-Mar-2024 20:03:41 [Unknown] - Shotgun 3
+16-Mar-2024 20:03:44 [Unknown] - Ang Balay Ni Mayang [Djrice Remix] 140
+16-Mar-2024 20:08:05 Pink - Just Give Me A Reason
+16-Mar-2024 20:11:53 [Unknown] - Iba Gid 10
+16-Mar-2024 20:11:59 Toni Gonzaga - Kahit Na
+16-Mar-2024 20:15:26 B.A.B.A.Y - Yeng Constantino
+16-Mar-2024 20:18:30 [Unknown] - Iba Gid 1
+16-Mar-2024 20:18:35 Alex Gonzaga - Chambe
+16-Mar-2024 20:21:55 [Unknown] - Iba Gid 10
+16-Mar-2024 20:22:01 [Unknown] - Doh Bida Solusyon
+16-Mar-2024 20:22:30 [Unknown] - Shotgun 3
+16-Mar-2024 20:22:33 Mas Mabuti Pa - Janine Berdin Himig Handog 2018 (Audio)
+16-Mar-2024 20:27:17 Anne-Marie & James Arthur - Rewrite The Stars
+16-Mar-2024 20:30:49 [Unknown] - Iba Gid 1
+16-Mar-2024 20:30:54 Ariana Grande - Thank U, Next
+16-Mar-2024 20:34:15 Little Mix Ft. Nicki Minaj - Woman Like Me (Official Clean Version)
+16-Mar-2024 20:38:01 [Unknown] - Iba Gid 2
+16-Mar-2024 20:38:05 Calum Scott - No Matter What (Audio)
+16-Mar-2024 20:41:52 Jake Zyrus - Diamond (Audio)
+16-Mar-2024 20:45:24 [Unknown] - Iba Gid 4
+16-Mar-2024 20:45:31 Sugarol - Maris Racal Himig Handog 2018 (Audio)
+16-Mar-2024 20:48:46 Loisa Andalio - Sasamahan Kita (Audio)
+16-Mar-2024 20:52:24 [Unknown] - Iba Gid 3
+16-Mar-2024 20:52:29 Para Sa Tabi - Boyband Ph Himig Handog 2018 (Audio)
+16-Mar-2024 20:56:29 Iv Of Spades - Bata, Dahan-Dahan! (Lyrics)
+16-Mar-2024 21:00:27 [Unknown] - Iba Gid 5
+16-Mar-2024 21:00:32 [Unknown] - Ramp 3
+16-Mar-2024 21:00:54 [Unknown] - Osb Iwas Sunog 4 Sigarilyo
+16-Mar-2024 21:01:35 [Unknown] - Toh Id 2018 Latest
+16-Mar-2024 21:01:59 [Unknown] - Shotgun 1
+16-Mar-2024 21:02:03 Calum Scott - No Matter What (Audio)
+16-Mar-2024 21:05:50 Lavaado - Switch It Up
+16-Mar-2024 21:07:42 [Unknown] - Iba Gid 10
+16-Mar-2024 21:07:46 Iñigo Pascual - Lumang Tugtugin (Lyrics)
+16-Mar-2024 21:11:14 Ariana Grande - Breathin
+16-Mar-2024 21:14:25 [Unknown] - Iba Gid 2
+16-Mar-2024 21:14:29 [Unknown] - Baby Ko Si Kulot Official Music Video Guthben Duo Feat Tyrone
+16-Mar-2024 21:18:36 [Unknown] - Drivers License Olivia Rodrigo Lyrics I Got My Drivers License
+16-Mar-2024 21:22:21 [Unknown] - Iba Gid
+16-Mar-2024 21:22:22 [Unknown] - Jaymes Young Happiest Year Lyric Video
+16-Mar-2024 21:25:56 [Unknown] - Let Me Blow Ya Mind Eve Ft Gwen Stefani Tik Tok Song With Video
+16-Mar-2024 21:27:10 [Unknown] - Iba Gid 3
+16-Mar-2024 21:27:15 [Unknown] - Malayo Ka Man Jr Crown Kath Cyclone Young Weezy Official Audio
+16-Mar-2024 21:31:24 [Unknown] - Paubaya Lyric Video Moira Dela Torre
+16-Mar-2024 21:35:59 [Unknown] - Iba Gid 6
+16-Mar-2024 21:36:04 [Unknown] - Tj Monterde Puhon Official Lyric
+16-Mar-2024 21:39:58 Hey Joe Show - My Morena Girl
+16-Mar-2024 21:43:53 [Unknown] - Iba Gid 9
+16-Mar-2024 21:43:57 Galantis - Pillow Fight
+16-Mar-2024 21:47:08 Clean Bandit - Rockabye Ft. Sean Paul
+16-Mar-2024 21:51:15 [Unknown] - Iba Gid Short 10
+16-Mar-2024 21:51:18 Dawin - Errors
+16-Mar-2024 21:54:52 Scars To Your Beautiful - Alessia Cara
+16-Mar-2024 21:58:29 Autotelic - Laro
+16-Mar-2024 22:03:46 [Unknown] - Iba Gid
+16-Mar-2024 22:03:46 [Unknown] - Usm Quality Policy Statement
+16-Mar-2024 22:04:51 [Unknown] - Sign Off Spiel 2022

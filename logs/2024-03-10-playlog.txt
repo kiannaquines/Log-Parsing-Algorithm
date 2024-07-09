@@ -1,0 +1,531 @@
+10-Mar-2024 06:23:26 [Unknown] - Ramp 4
+10-Mar-2024 06:23:57 [Unknown] - Usm Quality Policy Statement
+10-Mar-2024 06:25:02 Don Moen (I Will Sing) - 10 Have Your Way
+10-Mar-2024 06:26:59 [Unknown] - Toh Id 2018 Latest
+10-Mar-2024 06:27:22 [Unknown] - Tanglaw Ng Buhay 2014 Id
+10-Mar-2024 06:28:44 [Unknown] - Tanglaw Ng Buhay Pgm Bed
+10-Mar-2024 06:33:29 Parang May Kulang - Chito Ruma
+10-Mar-2024 06:37:23 [Unknown] - Tanglaw Ng Buhay Pgm Bed
+10-Mar-2024 07:26:28 [Unknown] - Tanglaw Ng Buhay Pgm Bed
+10-Mar-2024 07:41:40 [Unknown] - Iba Gid 10
+10-Mar-2024 07:41:46 [Unknown] - Jwireless 2021
+10-Mar-2024 07:43:04 [Unknown] - Ariben Soap Marie 2022
+10-Mar-2024 07:44:22 [Unknown] - Gpg Ligtas 2023
+10-Mar-2024 07:45:26 [Unknown] - Mx3 Angelica Cebuano
+10-Mar-2024 06:45:51 [Unknown] - Ariben Soap Hazel 2022
+10-Mar-2024 06:47:02 [Unknown] - Good Morning Kool Fm 1
+10-Mar-2024 06:47:04 Max Surban - Libakira
+10-Mar-2024 06:50:00 [Unknown] - Good Morning Kool Fm 1
+10-Mar-2024 06:50:02 [Unknown] - Iba Gid 2
+10-Mar-2024 06:50:06 Philippine Geography - Yoyoy
+10-Mar-2024 06:52:51 [Unknown] - Iba Gid 5
+10-Mar-2024 06:52:56 Artist - Track 12
+10-Mar-2024 06:56:15 [Unknown] - Iba Gid 2
+10-Mar-2024 06:56:19 Artist - Track 08
+10-Mar-2024 06:58:58 [Unknown] - Iba Gid 2
+10-Mar-2024 06:59:01 ~Kinsa Siya.mp3 - Kinsa Siya
+10-Mar-2024 07:02:19 [Unknown] - Iba Gid 3
+10-Mar-2024 07:02:23 [Unknown] - Ramp 2
+10-Mar-2024 07:02:55 [Unknown] - Osb Lindol Tips 3
+10-Mar-2024 07:03:49 [Unknown] - Toh Id 2018 Latest
+10-Mar-2024 07:04:12 [Unknown] - Good Morning Kool Fm 1
+10-Mar-2024 07:04:14 ~Matud Nila.mp3 - Matud Nila
+10-Mar-2024 07:07:39 [Unknown] - Iba Gid 2
+10-Mar-2024 07:07:41 ilocano - bakla met gayam
+10-Mar-2024 07:11:41 [Unknown] - Good Morning Kool Fm 1
+10-Mar-2024 07:11:43 Ilocano - Maka As-Asawa Ak
+10-Mar-2024 07:16:14 [Unknown] - Good Morning Kool Fm 1
+10-Mar-2024 07:16:16 Oh Kinabuhi - Victor Wood-ok
+10-Mar-2024 07:19:52 Mag - Exercise Tayo- Yoyoy
+10-Mar-2024 07:21:57 [Unknown] - Good Morning Kool Fm 1
+10-Mar-2024 07:21:57 [Unknown] - Gpg Tripeople
+10-Mar-2024 07:22:59 [Unknown] - Rjo Japan Surplus 2023
+10-Mar-2024 07:23:36 [Unknown] - Mx3 Cebuano Cajera
+10-Mar-2024 07:24:06 [Unknown] - Nataraki Add 2024
+10-Mar-2024 07:25:13 [Unknown] - Kool Timebayan Promo 2024
+10-Mar-2024 07:25:40 [Unknown] - Good Morning Kool Fm 1
+10-Mar-2024 07:25:42 Max Survan - Diskoral
+10-Mar-2024 07:28:14 [Unknown] - Good Morning Kool Fm 1
+10-Mar-2024 07:28:16 ~Magparetoki.mp3 - Magparetoki
+10-Mar-2024 07:31:01 [Unknown] - Iba Gid 2
+10-Mar-2024 07:31:05 Max Survan - Kontis Sa Hambog
+10-Mar-2024 07:34:08 [Unknown] - Good Morning Kool Fm 1
+10-Mar-2024 07:34:10 Willy Garte - Hain Ang Utlanan
+10-Mar-2024 07:37:39 ~Buta.mp3 - Buta
+10-Mar-2024 07:41:46 [Unknown] - Good Morning Kool Fm 1
+10-Mar-2024 07:41:48 [Unknown] - Gpg Tripeople
+10-Mar-2024 07:42:49 [Unknown] - Ariben Soap Hazel 2022
+10-Mar-2024 07:43:59 [Unknown] - Scdl Kabacan 2023
+10-Mar-2024 07:45:02 [Unknown] - Menro 1 2023
+10-Mar-2024 07:45:46 [Unknown] - Mx3 Angelica Cebuano
+10-Mar-2024 07:46:15 [Unknown] - Albutra Plug 2024
+10-Mar-2024 07:46:54 [Unknown] - Gpg Testimony1
+10-Mar-2024 07:47:52 [Unknown] - Lucky 9 Promo
+10-Mar-2024 07:48:19 [Unknown] - Good Morning Kool Fm 1
+10-Mar-2024 07:48:21 ~Ihilak Ko Lang Sa Tago.mp3 - Ihilak Ko Lang Sa Tago
+10-Mar-2024 07:51:52 [Unknown] - Good Morning Kool Fm 1
+10-Mar-2024 07:51:54 ~Hiniktan Ni Kumpare.mp3 - Hiniktan Ni Kumpare
+10-Mar-2024 07:54:19 [Unknown] - Good Morning Kool Fm 1
+10-Mar-2024 07:54:21 Happy Birthday - Yoyoy
+10-Mar-2024 07:57:41 [Unknown] - Good Morning Kool Fm 1
+10-Mar-2024 07:57:43 Max Survan - Turagsoy
+10-Mar-2024 08:00:37 [Unknown] - Good Morning Kool Fm 1
+10-Mar-2024 08:00:39 [Unknown] - Ramp 4
+10-Mar-2024 08:01:10 [Unknown] - Osb Malakas Ang Ulan
+10-Mar-2024 08:01:59 [Unknown] - Toh Id 2018 Latest
+10-Mar-2024 08:02:23 [Unknown] - Iba Gid 10
+10-Mar-2024 08:02:29 Wooly Bully - F
+10-Mar-2024 08:04:46 [Unknown] - Iba Gid 3
+10-Mar-2024 08:04:51 Pearly Shells - Hawaiian
+10-Mar-2024 08:06:58 [Unknown] - Iba Gid 3
+10-Mar-2024 08:07:03 ~IApologize.mp3 - I Apologize
+10-Mar-2024 08:09:29 [Unknown] - Iba Gid 3
+10-Mar-2024 08:09:33 ~YouAreMyDestiny.mp3 - You Are My Destiny
+10-Mar-2024 08:11:59 [Unknown] - Iba Gid 3
+10-Mar-2024 08:12:03 Engelbert Humperdinck - The Last Waltz
+10-Mar-2024 08:14:59 Ray Peterson - Tell Laura I Love Her
+10-Mar-2024 08:17:43 [Unknown] - Iba Gid 3
+10-Mar-2024 08:17:48 ~TeenageSenorita.mp3 - Teenage Senorita
+10-Mar-2024 08:20:27 [Unknown] - Iba Gid 3
+10-Mar-2024 08:20:32 It's My Party - F
+10-Mar-2024 08:22:47 Jailhouse Rock - F
+10-Mar-2024 08:25:04 La Bamba - F
+10-Mar-2024 08:27:44 [Unknown] - Iba Gid 3
+10-Mar-2024 08:27:49 Love Me Do - F
+10-Mar-2024 08:30:04 Pretty Woman - F
+10-Mar-2024 08:33:00 [Unknown] - Iba Gid 3
+10-Mar-2024 08:33:04 ~The Last Leaf.mp3 - The Last Leaf
+10-Mar-2024 08:35:18 Platters - Twighlight Time
+10-Mar-2024 08:37:58 [Unknown] - Iba Gid 3
+10-Mar-2024 08:38:03 Tom Jones - Delilah
+10-Mar-2024 08:41:21 [Unknown] - Iba Gid 2
+10-Mar-2024 08:41:25 Sugar Sugar - F
+10-Mar-2024 08:44:08 [Unknown] - Iba Gid 3
+10-Mar-2024 08:44:13 ~StupidCupid.mp3 - Stupid Cupid
+10-Mar-2024 08:46:21 ~SweetCaroline.mp3 - Sweet Caroline
+10-Mar-2024 08:49:41 [Unknown] - Good Morning Kool Fm 1
+10-Mar-2024 08:49:43 Wake Up Little Susie - F
+10-Mar-2024 08:51:39 [Unknown] - Iba Gid 3
+10-Mar-2024 08:51:43 Wooly Bully - F
+10-Mar-2024 08:54:01 [Unknown] - Iba Gid 3
+10-Mar-2024 08:54:05 ~Punch And Judy.mp3 - Punch And Judy
+10-Mar-2024 08:56:17 ~PutYourOnMyShoulder.mp3 - Put Your On My Shoulder
+10-Mar-2024 08:58:49 ~OneMoreChance.mp3 - One More Chance
+10-Mar-2024 09:01:42 [Unknown] - Iba Gid 3
+10-Mar-2024 09:01:46 [Unknown] - Ramp 4
+10-Mar-2024 09:02:17 [Unknown] - Osb Malakas Ang Ulan
+10-Mar-2024 09:03:07 [Unknown] - Toh Id 2018 Latest
+10-Mar-2024 09:03:31 [Unknown] - Iba Gid 8
+10-Mar-2024 09:03:36 Boy - Cherie Gil
+10-Mar-2024 09:08:17 Rico J. Puno - Wala Ng Iibigin Pa
+10-Mar-2024 09:11:11 [Unknown] - Iba Gid 3
+10-Mar-2024 09:11:16 Boyfriends - Dahil Mahal Kita
+10-Mar-2024 09:14:21 [Unknown] - Iba Gid 8
+10-Mar-2024 09:14:27 Hotdog - Ikaw Ang Miss Universe
+10-Mar-2024 09:18:26 [Unknown] - Iba Gid 3
+10-Mar-2024 09:18:30 Boyfriends - Salawahan
+10-Mar-2024 09:21:41 [Unknown] - Iba Gid Short 3
+10-Mar-2024 09:21:44 [Unknown] - Gpg Tripeople
+10-Mar-2024 09:22:45 [Unknown] - Dxvl Claver 2023
+10-Mar-2024 09:23:15 [Unknown] - Mx3 Cebuano Cajera
+10-Mar-2024 09:23:45 [Unknown] - Rjo Japan Surplus 2023
+10-Mar-2024 09:24:22 [Unknown] - Iba Gid 2
+10-Mar-2024 09:24:26 Roel Cortez - Iba ka
+10-Mar-2024 09:28:06 Aegis - Sundot
+10-Mar-2024 09:32:36 [Unknown] - April 'Boy' Regino-Umiiyak Ang Puso
+10-Mar-2024 09:38:25 Sabi Mo Ako Lamang - By Men Oppose
+10-Mar-2024 09:42:08 [Unknown] - Iba Gid 3
+10-Mar-2024 09:42:12 [Unknown] - Scdl Kabacan 2023
+10-Mar-2024 09:43:15 [Unknown] - Menro 2 2023
+10-Mar-2024 09:44:05 [Unknown] - Jay Failanga 30s 1
+10-Mar-2024 09:44:35 [Unknown] - Gpg Testimony2
+10-Mar-2024 09:45:29 [Unknown] - Iba Gid 3
+10-Mar-2024 09:45:34 [Unknown] - 22 Anyos ..Musikang Pinoy
+10-Mar-2024 09:49:38 [Unknown] - Iba Gid 8
+10-Mar-2024 09:49:44 Bing Rodrigo - Gintong Araw
+10-Mar-2024 09:54:17 Aegis - Mary Jane
+10-Mar-2024 09:58:52 [Unknown] - Iba Gid 3
+10-Mar-2024 09:58:57 Ibang-I Ba Ka Na - Renz Verano
+10-Mar-2024 10:02:54 [Unknown] - Iba Gid 8
+10-Mar-2024 10:03:00 [Unknown] - Ramp 7
+10-Mar-2024 10:03:24 [Unknown] - Osb Iwas Sunog 4 Sigarilyo
+10-Mar-2024 10:04:05 [Unknown] - Toh Id 2018 Latest
+10-Mar-2024 10:04:29 [Unknown] - Iba Gid 6
+10-Mar-2024 10:04:33 Babaero - Randy Santiago
+10-Mar-2024 10:08:12 Bakit - Rockstar 2
+10-Mar-2024 10:13:00 [Unknown] - Uniherb 01
+10-Mar-2024 10:13:29 Isang Linggong Pag-ibig - Imelda Papin
+10-Mar-2024 10:17:42 [Unknown] - Kool Fm Sting Short
+10-Mar-2024 10:17:45 gary v - di bale na lang
+10-Mar-2024 10:22:20 [Unknown] - Iba Gid 8
+10-Mar-2024 10:22:26 [Unknown] - Joann Lang 30s 1
+10-Mar-2024 10:22:56 [Unknown] - Ariben Soap Mylene 2022
+10-Mar-2024 10:24:10 [Unknown] - Rjo Japan Surplus 2023
+10-Mar-2024 10:24:46 [Unknown] - Albutra Plug 2024
+10-Mar-2024 10:25:25 [Unknown] - Iba Gid 3
+10-Mar-2024 10:25:29 Iniwanan Ng Liwanag - Willy Garte
+10-Mar-2024 10:28:43 Nosi Ba Lasi - Sampaguita
+10-Mar-2024 10:33:01 [Unknown] - Kool Fm Sting Short
+10-Mar-2024 10:33:04 Si Aida, O Si Lorna, O Si Fe - Marco Sison
+10-Mar-2024 10:36:15 Apo Hiking Society - Lumang Tugtugin
+10-Mar-2024 10:40:25 [Unknown] - Iba Gid 6
+10-Mar-2024 10:40:30 [Unknown] - Jwireless 2021
+10-Mar-2024 10:41:48 Exl- Version 15 Testimony Tagalog - Ann Sotto - Milk Production, Mastitis
+10-Mar-2024 10:42:33 [Unknown] - Lucky 9 Promo
+10-Mar-2024 10:43:00 [Unknown] - Iba Gid 8
+10-Mar-2024 10:43:06 Asin - Pagbabalik
+10-Mar-2024 10:46:41 Imelda Papin - Bakit Ikaw Pa
+10-Mar-2024 10:49:59 Sharon Cuneta & Ariel Rivera - Ikaw
+10-Mar-2024 10:53:42 [Unknown] - Iba Gid 8
+10-Mar-2024 10:53:48 Bakas Na Lumipas - Eddie Peregrina
+10-Mar-2024 10:57:05 [Unknown] - Iba Gid Short 12
+10-Mar-2024 10:57:08 J. Brothers Band - Labanan Ang Tukso
+10-Mar-2024 11:01:33 [Unknown] - Iba Gid Short 12
+10-Mar-2024 11:01:36 [Unknown] - Ramp 1
+10-Mar-2024 11:02:00 [Unknown] - Osb Lindol Tips 2
+10-Mar-2024 11:02:52 [Unknown] - Toh Id 2018 Latest
+10-Mar-2024 11:03:16 [Unknown] - Iba Gid Short 12
+10-Mar-2024 11:03:18 [Unknown] - Joy--Touch By Touch--With Lyrics Put On By Jen-Wei Jen
+10-Mar-2024 11:06:58 Boney M - Daddycool
+10-Mar-2024 11:10:29 [Unknown] - Iba Gid Ang Weekend
+10-Mar-2024 11:10:35 ~LAMBADA.MP3 - Lambada
+10-Mar-2024 11:13:53 Extra - Cha Cha Medley Special
+10-Mar-2024 11:19:29 [Unknown] - Iba Gid 7
+10-Mar-2024 11:19:33 [Unknown] - Mx3 May Bayer 30s
+10-Mar-2024 11:20:03 [Unknown] - Nataraki Add 2024
+10-Mar-2024 11:21:09 [Unknown] - Albutra Plug 2024
+10-Mar-2024 11:21:48 [Unknown] - Kool Fm Sting Short
+10-Mar-2024 11:21:49 Modern Talking - You're My Heart, You're My Sou
+10-Mar-2024 11:27:09 ~Thai Na Na.MP3 - Thai Na Na
+10-Mar-2024 11:32:16 [Unknown] - Iba Gid Short 12
+10-Mar-2024 11:32:18 ~Two By Two.MP3 - Two By Two
+10-Mar-2024 11:36:19 Let'S Here It For The Boys - 80'S
+10-Mar-2024 11:40:29 [Unknown] - Iba Gid Ang Weekend
+10-Mar-2024 11:40:35 [Unknown] - Menro 1 2023
+10-Mar-2024 11:41:18 [Unknown] - Ariben Soap Mylene 2022
+10-Mar-2024 11:42:32 [Unknown] - Kool Timebayan Promo 2024
+10-Mar-2024 11:42:59 [Unknown] - Kool Fm Sting Short
+10-Mar-2024 11:43:02 ~DISCO80S2 OF HEART.mp3 - Disco80s2 Of Heart
+10-Mar-2024 11:47:47 ~DISCO80S268.mp3 - Disco80s268
+10-Mar-2024 11:52:35 [Unknown] - Iba Gid 7
+10-Mar-2024 11:52:39 Lou Sern - Swiss Boy
+10-Mar-2024 11:57:39 ~DISCO80SBOYS DO FALL N LOV.mp3 - Disco80sboys Do Fall N Lov
+10-Mar-2024 12:02:38 [Unknown] - Ramp 5
+10-Mar-2024 12:03:01 [Unknown] - Islamic Verse
+10-Mar-2024 12:03:45 [Unknown] - Angelus
+10-Mar-2024 12:06:20 [Unknown] - Mb Panalangin 1
+10-Mar-2024 12:06:38 [Unknown] - Osb Lindol Tips 2
+10-Mar-2024 12:07:30 [Unknown] - Kool Fm 2024 Promo
+10-Mar-2024 12:09:01 [Unknown] - Toh Id 2018 Latest
+10-Mar-2024 12:09:25 ~DISCO80SCOOL ME.mp3 - Disco80scool Me
+10-Mar-2024 12:11:56 ~DISCO80SCHA3.mp3 - Disco80scha3
+10-Mar-2024 12:14:50 [Unknown] - Iba Gid Short 14
+10-Mar-2024 12:14:53 ~DISCO80SDONT CRY.mp3 - Disco80sdont Cry
+10-Mar-2024 12:18:25 ~DISCO80SI LIKE CHOPIN.mp3 - Disco80si Like Chopin
+10-Mar-2024 12:23:12 [Unknown] - Iba Gid Ang Weekend
+10-Mar-2024 12:23:17 [Unknown] - Jwireless 2021
+10-Mar-2024 12:24:36 [Unknown] - Lucky 9 Promo
+10-Mar-2024 12:25:02 [Unknown] - Kool Fm Sting Short
+10-Mar-2024 12:25:05 ~DISCO80STAKE ON ME.mp3 - Disco80stake On Me
+10-Mar-2024 12:28:37 ~DISCO80STARSAN BOY.mp3 - Disco80starsan Boy
+10-Mar-2024 12:31:14 [Unknown] - Iba Gid Short 15
+10-Mar-2024 12:31:17 ~DISCO80STONIGHT.mp3 - Disco80stonight
+10-Mar-2024 12:35:42 Together In Electric Dreams - Disco80shuman League
+10-Mar-2024 12:39:24 [Unknown] - Iba Gid Ang Weekend
+10-Mar-2024 12:39:30 [Unknown] - Ariben Soap Anwar 2022
+10-Mar-2024 12:40:25 [Unknown] - Nelson Delos Santos 30s 1
+10-Mar-2024 12:40:54 [Unknown] - Rjo Japan Surplus 2023
+10-Mar-2024 12:41:31 [Unknown] - Kool Fm Sting Short
+10-Mar-2024 12:41:34 ~DISCO80SMANIC MONDY.mp3 - Disco80smanic Mondy
+10-Mar-2024 12:44:59 ~DISCO80SNEVER MIND.mp3 - Disco80snever Mind
+10-Mar-2024 12:48:33 [Unknown] - Iba Gid Short 14
+10-Mar-2024 12:48:36 ~DISCO80SLIFE DANCE.mp3 - Disco80slife Dance
+10-Mar-2024 12:55:26 Abba - Dancing Queen
+10-Mar-2024 12:59:07 [Unknown] - Iba Gid Ang Weekend
+10-Mar-2024 12:59:13 [Unknown] - Ramp 6
+10-Mar-2024 12:59:45 [Unknown] - Osb Iwas Sunog 2 Kusina
+10-Mar-2024 13:00:27 [Unknown] - Kool Fm 2024 Promo
+10-Mar-2024 13:01:59 [Unknown] - Toh Id 2018 Latest
+10-Mar-2024 13:02:22 Goodbye Girl - David Gates
+10-Mar-2024 13:05:00 ~DannySong.mp3 - Danny Song
+10-Mar-2024 13:09:10 [Unknown] - Kool Fm Sting Short
+10-Mar-2024 13:09:12 America - A Horse With No Name
+10-Mar-2024 13:13:09 Freddie Aguilar - Sa Kabukiran
+10-Mar-2024 13:16:22 Asin - Balita
+10-Mar-2024 13:20:13 [Unknown] - Iba Gid Ang Weekend
+10-Mar-2024 13:20:19 [Unknown] - Ariben Soap Mylene 2022
+10-Mar-2024 13:21:33 [Unknown] - Menro 2 2023
+10-Mar-2024 13:22:23 [Unknown] - Gpg Smoking 2023
+10-Mar-2024 13:23:15 Top Agro Frontliner 200 - June 2023
+10-Mar-2024 13:23:56 [Unknown] - Kool Fm Sting Short
+10-Mar-2024 13:23:57 Gambler - Folk Kenny Rogers
+10-Mar-2024 13:27:23 Sampaguita - Ibon
+10-Mar-2024 13:31:54 [Unknown] - Kool Fm Sting Short
+10-Mar-2024 13:31:57 ~leader of the band.mp3 - Leader Of The Band
+10-Mar-2024 13:36:09 Florante - Ako'y Pinoy
+10-Mar-2024 13:38:46 [Unknown] - Iba Gid Short 15
+10-Mar-2024 13:38:49 [Unknown] - Dxvl Claver 2023
+10-Mar-2024 13:39:19 [Unknown] - Ariben Soap Mylene 2022
+10-Mar-2024 13:40:33 [Unknown] - Kool Timebayan Promo 2024
+10-Mar-2024 13:41:01 [Unknown] - Kool Fm Sting Short
+10-Mar-2024 13:41:03 Simon & Art Garfunkel - The Boxer
+10-Mar-2024 13:46:07 Coritha - Sierra Madre
+10-Mar-2024 13:49:59 [Unknown] - Kool Fm Sting Short
+10-Mar-2024 13:50:01 Don Mclean - Vincent
+10-Mar-2024 13:53:53 Rey Valera - Kumusta Ka
+10-Mar-2024 13:56:43 [Unknown] - Kool Fm Sting Short
+10-Mar-2024 13:56:46 McFly - You've Got A Friend
+10-Mar-2024 14:01:08 [Unknown] - Ramp 6
+10-Mar-2024 14:01:40 [Unknown] - Osb Iwas Sunog 5 Kandila
+10-Mar-2024 14:02:34 [Unknown] - Kool Fm 2024 Promo
+10-Mar-2024 14:04:05 [Unknown] - Toh Id 2018 Latest
+10-Mar-2024 14:04:29 Bee Gees - I Started Aajoke
+10-Mar-2024 14:07:30 Lobo - How Can I Tell Her
+10-Mar-2024 14:11:37 [Unknown] - Iba Gid Ang Weekend
+10-Mar-2024 14:11:42 Apo Hiking Society - Pumapatak Ang Ulan
+10-Mar-2024 14:14:24 [Unknown] - Iba Gid Short 15
+10-Mar-2024 14:14:27 Florante - Handog
+10-Mar-2024 14:18:05 James Taylor - Handy Man
+10-Mar-2024 14:21:16 [Unknown] - Iba Gid Ang Weekend
+10-Mar-2024 14:21:22 [Unknown] - Jwireless 2021
+10-Mar-2024 14:22:40 Top Agro Frontliner 200 - June 2023
+10-Mar-2024 14:23:21 [Unknown] - Kool Fm Sting Short
+10-Mar-2024 14:23:23 Coritha - Lolo Jose
+10-Mar-2024 14:27:58 Bread - Aubrey
+10-Mar-2024 14:31:30 [Unknown] - Kool Fm Sting Short
+10-Mar-2024 14:31:32 Eric Clapton - M Acoustic Tears In Heaven
+10-Mar-2024 14:35:57 Ebony & Ivory - Cr1 Paul Mc Cartney
+10-Mar-2024 14:39:32 [Unknown] - Iba Gid Ang Weekend
+10-Mar-2024 14:39:38 [Unknown] - Menro 2 2023
+10-Mar-2024 14:40:28 [Unknown] - Gpg Testimony3
+10-Mar-2024 14:41:06 [Unknown] - Kool Fm Sting Short
+10-Mar-2024 14:41:09 Eagles - Love Will Keep Us Alive
+10-Mar-2024 14:45:06 Dan Fogelberg - Longer
+10-Mar-2024 14:48:15 [Unknown] - Iba Gid Ang Weekend
+10-Mar-2024 14:48:20 Apo Hiking Society - Kaibigan
+10-Mar-2024 14:52:38 Rey Valera - Kahit Maputi Na Ang Buhok Ko
+10-Mar-2024 14:55:57 [Unknown] - Iba Gid Short 12
+10-Mar-2024 14:56:00 Christopher Cross - Sailing
+10-Mar-2024 15:00:08 [Unknown] - Ramp 5
+10-Mar-2024 15:00:31 [Unknown] - Islamic Verse
+10-Mar-2024 15:01:16 [Unknown] - The New 3 O'C Lock Prayer
+10-Mar-2024 15:02:30 [Unknown] - Mb Panalangin 1
+10-Mar-2024 15:02:48 [Unknown] - Kool Fm 2024 Promo
+10-Mar-2024 15:04:20 [Unknown] - Toh Id 2018 Latest
+10-Mar-2024 15:04:43 [Unknown] - Rakrakan Sa Linggo Plug Id
+10-Mar-2024 15:05:19 [Unknown] - Halik Ni Hudas
+10-Mar-2024 15:08:45 Slapshock - Like Eskimo
+10-Mar-2024 15:13:35 [Unknown] - Rakrakan Stinger 1
+10-Mar-2024 15:13:37 Bon Jovi - Livin On A Prayer
+10-Mar-2024 15:17:23 Scorpions - Wind Of Change
+10-Mar-2024 15:22:26 [Unknown] - Iba Gid Ang Weekend
+10-Mar-2024 15:22:32 [Unknown] - Mx3 Angelica Cebuano
+10-Mar-2024 15:23:02 [Unknown] - Gpg Smoking 2023
+10-Mar-2024 15:23:54 [Unknown] - Kool Timebayan Promo 2024
+10-Mar-2024 15:24:22 [Unknown] - Kool Fm Sting Short
+10-Mar-2024 15:24:24 [Unknown] - Rakrakan Stinger 2
+10-Mar-2024 15:24:30 [Unknown] - Yano Banal Na Aso,santong Kabayo
+10-Mar-2024 15:28:49 Eagles - Hotel California
+10-Mar-2024 15:35:08 [Unknown] - Rakrakan Stinger 2
+10-Mar-2024 15:35:11 Linkin Park - What I've Done
+10-Mar-2024 15:38:31 ~F EVANESCENCE-bring me 2 life.mp3 - F Evanescence-Bring Me 2 Life
+10-Mar-2024 15:42:19 [Unknown] - Iba Gid Ang Weekend
+10-Mar-2024 15:42:24 [Unknown] - Ariben Soap Hashim 2022
+10-Mar-2024 15:43:39 [Unknown] - Gpg Tripeople
+10-Mar-2024 15:44:40 [Unknown] - Mx3 Reynalyn Cebuano 30s
+10-Mar-2024 15:45:10 [Unknown] - Kool Fm Sting Short
+10-Mar-2024 15:45:12 Kamikazee - Narda
+10-Mar-2024 15:49:53 Mayonnaise - Tayo Na Lang Dalawa Lyrics
+10-Mar-2024 15:52:59 [Unknown] - Rakrakan Stinger 1
+10-Mar-2024 15:53:04 Outfield - Your Love
+10-Mar-2024 15:56:32 You Are My Religion - Firehouse
+10-Mar-2024 16:00:26 [Unknown] - Ramp 1
+10-Mar-2024 16:00:50 [Unknown] - Osb Lindol Tips 5
+10-Mar-2024 16:01:49 [Unknown] - Kool Fm 2024 Promo
+10-Mar-2024 16:03:20 [Unknown] - Toh Id 2018 Latest
+10-Mar-2024 16:03:44 Black Sabbath - Smoke On The Water (Deep Purpl
+10-Mar-2024 16:06:34 Cueshe - Laki Sa Layaw
+10-Mar-2024 16:10:11 [Unknown] - Rakrakan Stinger 2
+10-Mar-2024 16:10:16 Greenday - Basket Case
+10-Mar-2024 16:13:11 [Unknown] - Iba Gid Short 12
+10-Mar-2024 16:13:14 Eraserheads - Fruitcake
+10-Mar-2024 16:18:08 Rocksteddy - Superhero
+10-Mar-2024 16:21:24 [Unknown] - Iba Gid Ang Weekend
+10-Mar-2024 16:21:30 [Unknown] - Rjo Japan Surplus 2023
+10-Mar-2024 16:22:07 [Unknown] - Gpg Business
+10-Mar-2024 16:22:42 [Unknown] - Veronica Tolentino 30s 1
+10-Mar-2024 16:23:12 [Unknown] - Gpg Testimony1
+10-Mar-2024 16:24:11 [Unknown] - Kool Fm Sting Short
+10-Mar-2024 16:24:13 Bryan Adams - Straight From The Heart
+10-Mar-2024 16:27:34 Carrie - Europe
+10-Mar-2024 16:31:57 [Unknown] - Rakrakan Stinger 2
+10-Mar-2024 16:32:02 Pinoy Rock En Rollin - 04 1 - No Tough
+10-Mar-2024 16:34:39 Jailhouse Rock - F
+10-Mar-2024 16:36:57 Twist And Shout - F
+10-Mar-2024 16:39:37 [Unknown] - Iba Gid Ang Weekend
+10-Mar-2024 16:39:43 [Unknown] - Menro 1 2023
+10-Mar-2024 16:40:26 [Unknown] - Joann Lang 30s 1
+10-Mar-2024 16:40:55 [Unknown] - Dxvl Tobli 2023
+10-Mar-2024 16:41:44 [Unknown] - Nataraki Add 2024
+10-Mar-2024 16:42:51 [Unknown] - Kool Fm Sting Short
+10-Mar-2024 16:42:53 Parokya Ni Edgar Feat. Gloc 9 & Frank Magalona - Ang Parokya
+10-Mar-2024 16:47:52 Disturbed - Down With The Sickness
+10-Mar-2024 16:52:29 [Unknown] - Iba Gid Ang Weekend
+10-Mar-2024 16:52:35 My Chemical Romance - Welcome To The Black Parade
+10-Mar-2024 16:57:38 Linkin Park - Crawling
+10-Mar-2024 17:00:58 [Unknown] - Ramp 5
+10-Mar-2024 17:01:21 [Unknown] - Osb Iwas Sunog 3
+10-Mar-2024 17:02:16 [Unknown] - Kool Fm 2024 Promo
+10-Mar-2024 17:03:48 [Unknown] - Toh Id 2018 Latest
+10-Mar-2024 17:04:11 Siakol - Bakit Ba
+10-Mar-2024 17:08:51 Grin Department - Buy One Take One
+10-Mar-2024 17:12:17 [Unknown] - Iba Gid Ang Weekend
+10-Mar-2024 17:12:23 Van Halen - Jump
+10-Mar-2024 17:16:12 Final Countdown - Europe
+10-Mar-2024 17:21:10 [Unknown] - Iba Gid Ang Weekend
+10-Mar-2024 17:21:15 [Unknown] - Gpg Tripeople
+10-Mar-2024 17:22:16 [Unknown] - Ariben Soap Hashim 2022
+10-Mar-2024 17:23:31 [Unknown] - Gpg Smoking 2023
+10-Mar-2024 17:24:24 [Unknown] - Mx3 Cebuano Javier
+10-Mar-2024 17:24:54 [Unknown] - Kool Fm Sting Short
+10-Mar-2024 17:24:56 [Unknown] - Tambay
+10-Mar-2024 17:28:26 Rivermaya - Awit Ng Kabataan
+10-Mar-2024 17:33:07 [Unknown] - Iba Gid Short 12
+10-Mar-2024 17:33:10 Bamboo - Much Has Been Said
+10-Mar-2024 17:38:21 Imago - Spolarium
+10-Mar-2024 17:43:55 [Unknown] - Kool Fm Sting Short
+10-Mar-2024 17:43:57 Silent Sanctuary - Pasensya Ka Na
+10-Mar-2024 17:47:52 Join The Club - Nobela
+10-Mar-2024 17:52:41 ~HALE Blue Sky.MP3 - Hale Blue Sky
+10-Mar-2024 17:57:21 ~6 CYCLE MIND-Sandalan.mp3 - Track 13
+10-Mar-2024 18:01:20 [Unknown] - Ramp 3
+10-Mar-2024 18:01:42 [Unknown] - Islamic Verse
+10-Mar-2024 18:02:27 [Unknown] - Angelus
+10-Mar-2024 18:05:01 [Unknown] - Mb Panalangin 3
+10-Mar-2024 18:05:20 [Unknown] - Osb Iwas Sunog 4 Sigarilyo
+10-Mar-2024 18:06:01 [Unknown] - Kool Fm 2024 Promo
+10-Mar-2024 18:07:33 [Unknown] - Toh Id 2018 Latest
+10-Mar-2024 18:07:56 Skusta Clee - Lagabog Ft. Illest Morena
+10-Mar-2024 18:11:03 Selos - Shaira
+10-Mar-2024 18:14:31 [Unknown] - Iba Gid Short 10
+10-Mar-2024 18:14:35 Flow G - Rapstar
+10-Mar-2024 18:18:44 Hev Abi At Kristina Dawn - Makasarili Malambing
+10-Mar-2024 18:20:42 [Unknown] - Kapag Laseng Malambing By Mayonnaise
+10-Mar-2024 18:23:52 [Unknown] - Kool Fm Sting Short
+10-Mar-2024 18:23:55 [Unknown] - Rnb Magsaing Na
+10-Mar-2024 18:24:02 [Unknown] - Gpg Smoking 2023
+10-Mar-2024 18:24:55 [Unknown] - Mx3 Cebuano Cajera
+10-Mar-2024 18:25:25 [Unknown] - Joann Lang 30s 1
+10-Mar-2024 18:25:55 [Unknown] - Kool Timebayan Promo 2024
+10-Mar-2024 18:26:23 [Unknown] - Kool Fm Sting Short
+10-Mar-2024 18:26:25 Justin Timberlake - Can't Stop The Feeling
+10-Mar-2024 18:30:17 Dnce - Cake By The Ocean
+10-Mar-2024 18:33:51 [Unknown] - Iba Gid Short 2
+10-Mar-2024 18:33:55 Discobudots - Dj Danz - Nahulogloglog Lolo Log (Budots Remix) 140
+10-Mar-2024 18:39:14 [Unknown] - Kool Fm Sting Short
+10-Mar-2024 18:39:16 [Unknown] - Ariben Soap Mylene 2022
+10-Mar-2024 18:40:30 [Unknown] - Jwireless 2021
+10-Mar-2024 18:41:48 [Unknown] - Mx3 May Bayer 30s
+10-Mar-2024 18:42:18 [Unknown] - Kool Fm Sting Short
+10-Mar-2024 18:42:20 Sak Noel & Salvi Ft. Sean Paul - Trumpets
+10-Mar-2024 18:45:42 [Unknown] - Iba Gid Short 15
+10-Mar-2024 18:45:45 Ruth B - Lost Boy
+10-Mar-2024 18:50:14 [Unknown] - Iba Gid Short 5
+10-Mar-2024 18:50:17 Banda Ni Kleggy Featuring Aikee - Pabili Po
+10-Mar-2024 18:53:37 [Unknown] - Iba Gid Short 4
+10-Mar-2024 18:53:40 Dnce - Toothbrush
+10-Mar-2024 18:57:19 [Unknown] - Iba Gid Short 13
+10-Mar-2024 18:57:21 Justin Bieber - Company
+10-Mar-2024 19:00:44 [Unknown] - Iba Gid Short 6
+10-Mar-2024 19:00:47 [Unknown] - Ramp 7
+10-Mar-2024 19:01:11 [Unknown] - Islamic Verse
+10-Mar-2024 19:01:56 [Unknown] - Osb Sumvac Iwan Bahay
+10-Mar-2024 19:03:07 [Unknown] - Toh Id 2018 Latest
+10-Mar-2024 19:03:30 [Unknown] - Iba Gid Short 13
+10-Mar-2024 19:03:33 Maroon 5 - Sad
+10-Mar-2024 19:06:40 Jason Derulo - Marry Me
+10-Mar-2024 19:10:19 [Unknown] - Iba Gid 1
+10-Mar-2024 19:10:24 Jason Mraz - I'm Yours
+10-Mar-2024 19:14:17 [Unknown] - Marry Your Daughter
+10-Mar-2024 19:17:51 [Unknown] - Iba Gid 4
+10-Mar-2024 19:17:57 South Border - Rainbow
+10-Mar-2024 19:22:47 [Unknown] - Iba Gid 7
+10-Mar-2024 19:22:51 [Unknown] - Rnb Dinner Na
+10-Mar-2024 19:22:59 [Unknown] - Jwireless 2021
+10-Mar-2024 19:24:17 [Unknown] - Nelson Delos Santos 30s 1
+10-Mar-2024 19:24:47 [Unknown] - Nataraki Add 2024
+10-Mar-2024 19:25:54 [Unknown] - Dxvl Claver 2023
+10-Mar-2024 19:26:24 [Unknown] - Iba Gid 5
+10-Mar-2024 19:26:28 I Do - 98 Degrees
+10-Mar-2024 19:30:08 Moira Feat Quest - Huling Gabi
+10-Mar-2024 19:33:31 Paalam - Silent Sanctuary
+10-Mar-2024 19:37:09 [Unknown] - Iba Gid Short 14
+10-Mar-2024 19:37:12 Coldplay - Yellow
+10-Mar-2024 19:41:33 [Unknown] - Iba Gid Short 10
+10-Mar-2024 19:41:37 [Unknown] - Doh Bida Solusyon
+10-Mar-2024 19:42:06 [Unknown] - Mx3 Reynalyn Cebuano 30s
+10-Mar-2024 19:42:36 [Unknown] - Kool Fm Sting Short
+10-Mar-2024 19:42:38 Daryl Ong - Ikaw Na Nga
+10-Mar-2024 19:47:01 [Unknown] - Iba Gid Short 13
+10-Mar-2024 19:47:04 Morisette Amon - Akin Ka Na Lang
+10-Mar-2024 19:51:09 [Unknown] - Shotgun 7
+10-Mar-2024 19:51:12 [Unknown] - Bruno Mars - When I Was Your M
+10-Mar-2024 19:54:35 One Direction - Night Changes
+10-Mar-2024 19:58:13 [Unknown] - Shotgun 6
+10-Mar-2024 19:58:17 Bakit Ba Ikaw - Michael Pangilinan (Cover By Kristel Fulgar) With Lyrics
+10-Mar-2024 20:02:12 [Unknown] - Shotgun 4
+10-Mar-2024 20:02:17 [Unknown] - Ramp 7
+10-Mar-2024 20:02:41 [Unknown] - Osb Sumvac Iwan Bahay
+10-Mar-2024 20:03:52 [Unknown] - Toh Id 2018 Latest
+10-Mar-2024 20:04:15 [Unknown] - Iba Gid Short 13
+10-Mar-2024 20:04:19 Daryl Ong - Beautiful Life
+10-Mar-2024 20:07:56 Michael Pangilinan - Hanggang Kailan
+10-Mar-2024 20:11:39 [Unknown] - Iba Gid 5
+10-Mar-2024 20:11:43 Bugoy Drilon - Muli
+10-Mar-2024 20:15:40 Sam Smith - Stay With Me
+10-Mar-2024 20:18:27 [Unknown] - Iba Gid 8
+10-Mar-2024 20:18:32 Silent Sanctuary - Sayo
+10-Mar-2024 20:22:40 [Unknown] - Iba Gid Short 13
+10-Mar-2024 20:22:43 [Unknown] - Doh Bida Solusyon
+10-Mar-2024 20:23:12 [Unknown] - Shotgun 5
+10-Mar-2024 20:23:17 Justin Bieber - Love Yourself
+10-Mar-2024 20:27:07 [Unknown] - Iba Gid 9
+10-Mar-2024 20:27:10 Miley Cyrus - When I Look At You
+10-Mar-2024 20:31:10 [Unknown] - Iba Gid Short 1
+10-Mar-2024 20:31:14 Boyz Ii Men - On Bended Knee
+10-Mar-2024 20:36:41 Moira Dela Torre - Kahit Maputi Na Ang Buhok Ko
+10-Mar-2024 20:40:00 [Unknown] - Iba Gid Short 10
+10-Mar-2024 20:40:03 Ben&amp Ben - Araw-Araw
+10-Mar-2024 20:45:09 I Belong To The Zoo - Balang Araw
+10-Mar-2024 20:49:55 [Unknown] - Iba Gid 7
+10-Mar-2024 20:49:59 Kyla - Ngayong Wala Ka Na
+10-Mar-2024 20:54:45 [Unknown] - Makainlove Karen
+10-Mar-2024 20:54:47 MYMP - Cherish
+10-Mar-2024 20:58:25 Ed Sheeran - Happier
+10-Mar-2024 21:01:45 [Unknown] - Iba Gid Short 13
+10-Mar-2024 21:01:48 [Unknown] - Ramp 7
+10-Mar-2024 21:02:12 [Unknown] - Osb Sumvac Iwan Bahay
+10-Mar-2024 21:03:23 [Unknown] - Toh Id 2018 Latest
+10-Mar-2024 21:03:47 [Unknown] - Kool Fm Sting Short
+10-Mar-2024 21:03:47 Westlife - I Wanna Grow Old With You
+10-Mar-2024 21:07:49 [Unknown] - Floater New 2
+10-Mar-2024 21:07:52 Sam Milby & Toni Gonzaga - Suddenly
+10-Mar-2024 21:11:19 Thor - Whenever You Call
+10-Mar-2024 21:15:39 Lani Misalucha - You Don't Own Me
+10-Mar-2024 21:18:21 [Unknown] - Makainlove Karen
+10-Mar-2024 21:18:23 Jessie J - You Don't Really Know Me
+10-Mar-2024 21:22:08 [Unknown] - Kool Fm Sting Short
+10-Mar-2024 21:22:11 Thor - Spend My Life With You
+10-Mar-2024 21:26:37 Daughtry - Home (Acoustic Version)
+10-Mar-2024 21:30:39 Michael Bubl - Home
+10-Mar-2024 21:34:15 Jason Castro - Somewhere Over The Rainbow
+10-Mar-2024 21:37:42 Phillip Phillips - Home
+10-Mar-2024 21:41:06 [Unknown] - Supershot 7
+10-Mar-2024 21:41:09 Yeng Constantino - Habambuhay
+10-Mar-2024 21:44:57 FM Static - Tonight
+10-Mar-2024 21:48:27 [Unknown] - Supershot 6
+10-Mar-2024 21:48:30 Mark Bautista - Hold On
+10-Mar-2024 21:53:17 James Ingram - Just Once
+10-Mar-2024 21:57:39 [Unknown] - Iba Gid Short 8
+10-Mar-2024 21:57:43 [Unknown] - Usm Quality Policy Statement
+10-Mar-2024 21:58:48 [Unknown] - Sign Off Spiel 2022

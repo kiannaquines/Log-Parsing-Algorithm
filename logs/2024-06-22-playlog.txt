@@ -1,0 +1,532 @@
+22-Jun-2024 05:17:57 [Unknown] - Ramp 3
+22-Jun-2024 05:18:19 [Unknown] - Usm Quality Policy Statement
+22-Jun-2024 05:19:24 [Unknown] - Usm Beloved Jingle
+22-Jun-2024 05:21:58 [Unknown] - Lupang Hinirang
+22-Jun-2024 05:22:46 [Unknown] - Kool Fm Cut 3
+22-Jun-2024 05:23:22 [Unknown] - Shotgun 4
+22-Jun-2024 05:23:26 [Unknown] - Jwireless 2021
+22-Jun-2024 05:24:44 [Unknown] - Ariben Soap Marie 2022
+22-Jun-2024 05:26:03 [Unknown] - Gpg Ligtas 2023
+22-Jun-2024 05:27:06 [Unknown] - Shotgun 3
+22-Jun-2024 05:27:07 Hillsong United - Glory
+22-Jun-2024 05:34:46 Hillsong Music - Great Is The Lord
+22-Jun-2024 05:39:41 [Unknown] - Iba Gid 6
+22-Jun-2024 05:39:46 [Unknown] - Angielyn Bautista Mx3
+22-Jun-2024 05:40:16 [Unknown] - Ariben Soap Hazel 2022
+22-Jun-2024 05:41:25 [Unknown] - Gpg Tripeople
+22-Jun-2024 05:42:26 [Unknown] - Shotgun 3
+22-Jun-2024 05:42:28 Above All - Hillsong
+22-Jun-2024 05:47:02 How Great Is Our God - Hillsong
+22-Jun-2024 05:51:18 [Unknown] - Iba Gid 5
+22-Jun-2024 05:51:23 Hillsong - Hillsong - Follow the son
+22-Jun-2024 05:55:04 Hillsong - hillsong - Gift of love
+22-Jun-2024 05:58:47 Hillsongs - Hillsong - Here I Am To Worshi
+22-Jun-2024 06:03:33 [Unknown] - Iba Gid 6
+22-Jun-2024 06:03:37 [Unknown] - Usm Pgm Jingle 2023
+22-Jun-2024 06:04:32 [Unknown] - Usm Pgm Jingle Bed
+22-Jun-2024 06:05:26 [Unknown] - Usm Pgm Jingle Bed
+22-Jun-2024 06:06:20 [Unknown] - Usm Pgm Jingle Bed
+22-Jun-2024 06:07:14 [Unknown] - Usm Pgm Jingle Bed
+22-Jun-2024 06:08:08 [Unknown] - Usm Pgm Jingle Bed
+22-Jun-2024 06:09:03 [Unknown] - BALITANG USM BED
+22-Jun-2024 06:10:06 [Unknown] - Usm Pgm Jingle Bed
+22-Jun-2024 06:11:00 [Unknown] - Usm Pgm Jingle Bed
+22-Jun-2024 06:11:55 [Unknown] - Usm Pgm Jingle Bed
+22-Jun-2024 06:12:49 [Unknown] - Usm Pgm Jingle Bed
+22-Jun-2024 06:13:43 [Unknown] - Usm Pgm Jingle Bed
+22-Jun-2024 06:14:31 [Unknown] - BALITANG USM BED
+22-Jun-2024 06:14:33 [Unknown] - BALITANG USM BED
+22-Jun-2024 06:15:31 [Unknown] - BALITANG USM BED
+22-Jun-2024 06:16:29 [Unknown] - BALITANG USM BED
+22-Jun-2024 06:17:27 [Unknown] - BALITANG USM BED
+22-Jun-2024 06:18:25 [Unknown] - BALITANG USM BED
+22-Jun-2024 06:19:23 [Unknown] - BALITANG USM BED
+22-Jun-2024 06:20:21 [Unknown] - BALITANG USM BED
+22-Jun-2024 06:21:19 [Unknown] - BALITANG USM BED
+22-Jun-2024 06:22:17 [Unknown] - BALITANG USM BED
+22-Jun-2024 06:23:15 [Unknown] - BALITANG USM BED
+22-Jun-2024 06:24:13 [Unknown] - BALITANG USM BED
+22-Jun-2024 06:25:10 [Unknown] - BALITANG USM BED
+22-Jun-2024 06:26:08 [Unknown] - BALITANG USM BED
+22-Jun-2024 06:27:06 [Unknown] - BALITANG USM BED
+22-Jun-2024 06:28:04 [Unknown] - BALITANG USM BED
+22-Jun-2024 06:28:27 [Unknown] - Usm Quality Policy Statement
+22-Jun-2024 06:29:32 [Unknown] - Usm Pgm Jingle Bed
+22-Jun-2024 06:30:26 [Unknown] - Usm Pgm Jingle Bed
+22-Jun-2024 06:31:20 [Unknown] - Usm Pgm Jingle Bed
+22-Jun-2024 06:32:15 [Unknown] - Usm Pgm Jingle Bed
+22-Jun-2024 06:33:09 [Unknown] - Usm Pgm Jingle Bed
+22-Jun-2024 06:34:03 [Unknown] - Usm Pgm Jingle Bed
+22-Jun-2024 06:34:57 [Unknown] - Usm Pgm Jingle Bed
+22-Jun-2024 06:35:51 [Unknown] - Usm Pgm Jingle Bed
+22-Jun-2024 06:36:45 [Unknown] - Usm Pgm Jingle Bed
+22-Jun-2024 06:37:40 [Unknown] - Usm Pgm Jingle Bed
+22-Jun-2024 06:38:34 [Unknown] - Usm Pgm Jingle Bed
+22-Jun-2024 06:39:28 [Unknown] - Usm Pgm Jingle Bed
+22-Jun-2024 06:40:22 [Unknown] - Usm Pgm Jingle Bed
+22-Jun-2024 06:41:16 [Unknown] - Usm Pgm Jingle Bed
+22-Jun-2024 06:42:11 [Unknown] - Usm Pgm Jingle Bed
+22-Jun-2024 06:43:05 [Unknown] - Usm Pgm Jingle Bed
+22-Jun-2024 06:43:59 [Unknown] - Usm Pgm Jingle Bed
+22-Jun-2024 06:44:53 [Unknown] - Usm Pgm Jingle Bed
+22-Jun-2024 06:45:47 [Unknown] - Usm Pgm Jingle Bed
+22-Jun-2024 06:46:42 [Unknown] - Usm Pgm Jingle Bed
+22-Jun-2024 06:47:36 [Unknown] - Usm Pgm Jingle Bed
+22-Jun-2024 06:48:30 [Unknown] - Usm Pgm Jingle Bed
+22-Jun-2024 06:49:24 [Unknown] - Usm Pgm Jingle Bed
+22-Jun-2024 06:50:18 [Unknown] - Usm Pgm Jingle Bed
+22-Jun-2024 06:51:12 [Unknown] - Usm Pgm Jingle Bed
+22-Jun-2024 06:52:07 [Unknown] - Usm Pgm Jingle Bed
+22-Jun-2024 06:53:01 [Unknown] - Usm Pgm Jingle Bed
+22-Jun-2024 06:53:55 [Unknown] - Usm Pgm Jingle Bed
+22-Jun-2024 06:54:49 [Unknown] - Usm Pgm Jingle Bed
+22-Jun-2024 06:55:43 [Unknown] - Usm Pgm Jingle Bed
+22-Jun-2024 06:56:38 [Unknown] - Usm Pgm Jingle Bed
+22-Jun-2024 06:57:32 [Unknown] - Usm Pgm Jingle Bed
+22-Jun-2024 06:58:26 [Unknown] - Usm Pgm Jingle Bed
+22-Jun-2024 06:59:20 [Unknown] - Usm Pgm Jingle Bed
+22-Jun-2024 07:00:14 [Unknown] - Usm Pgm Jingle Bed
+22-Jun-2024 07:01:08 [Unknown] - Usm Pgm Jingle Bed
+22-Jun-2024 07:01:33 [Unknown] - Usm Beloved Jingle
+22-Jun-2024 07:04:08 Jason Derulo - 'Swalla' Feat Nicki Minaj & Ty Dolla $ign
+22-Jun-2024 07:07:41 [Unknown] - Toh Id 2018 Latest
+22-Jun-2024 07:08:05 [Unknown] - Osb Malakas Ang Ulan
+22-Jun-2024 07:08:55 [Unknown] - Iba Gid Ang Weekend
+22-Jun-2024 07:09:00 [Unknown] - Unlad Kabacan Gpg Id
+22-Jun-2024 07:10:13 [Unknown] - Uk Gpg Talk Bed
+22-Jun-2024 07:11:24 [Unknown] - Uk Gpg Talk Bed
+22-Jun-2024 07:12:34 [Unknown] - Uk Gpg Talk Bed
+22-Jun-2024 07:13:45 [Unknown] - Uk Gpg Talk Bed
+22-Jun-2024 07:14:55 [Unknown] - Uk Gpg Talk Bed
+22-Jun-2024 07:16:06 [Unknown] - Uk Gpg Talk Bed
+22-Jun-2024 07:17:17 [Unknown] - Uk Gpg Talk Bed
+22-Jun-2024 07:18:27 [Unknown] - Uk Gpg Talk Bed
+22-Jun-2024 07:19:38 [Unknown] - Uk Gpg Talk Bed
+22-Jun-2024 07:20:48 [Unknown] - Uk Gpg Talk Bed
+22-Jun-2024 07:21:59 [Unknown] - Uk Gpg Talk Bed
+22-Jun-2024 07:23:09 [Unknown] - Uk Gpg Talk Bed
+22-Jun-2024 07:23:35 [Unknown] - Uk Gpg Stinger
+22-Jun-2024 07:23:46 [Unknown] - Gpg Business
+22-Jun-2024 07:24:21 [Unknown] - Gpg Testimony4
+22-Jun-2024 07:25:21 [Unknown] - Gpg Basura
+22-Jun-2024 07:25:58 [Unknown] - Gpg Tripeople
+22-Jun-2024 07:27:00 [Unknown] - Uk Gpg Stinger 2
+22-Jun-2024 07:27:03 [Unknown] - Uk Gpg Talk Bed
+22-Jun-2024 07:28:14 [Unknown] - Uk Gpg Talk Bed
+22-Jun-2024 07:29:24 [Unknown] - Uk Gpg Talk Bed
+22-Jun-2024 07:30:35 [Unknown] - Uk Gpg Talk Bed
+22-Jun-2024 07:31:45 [Unknown] - Uk Gpg Talk Bed
+22-Jun-2024 07:32:56 [Unknown] - Uk Gpg Talk Bed
+22-Jun-2024 07:34:06 [Unknown] - Uk Gpg Talk Bed
+22-Jun-2024 07:35:17 [Unknown] - Uk Gpg Talk Bed
+22-Jun-2024 07:36:27 [Unknown] - Uk Gpg Talk Bed
+22-Jun-2024 07:37:38 [Unknown] - Uk Gpg Talk Bed
+22-Jun-2024 07:38:49 [Unknown] - Uk Gpg Talk Bed
+22-Jun-2024 07:39:59 [Unknown] - Uk Gpg Talk Bed
+22-Jun-2024 07:41:10 [Unknown] - Uk Gpg Talk Bed
+22-Jun-2024 07:42:20 [Unknown] - Uk Gpg Talk Bed
+22-Jun-2024 07:43:31 [Unknown] - Uk Gpg Talk Bed
+22-Jun-2024 07:44:41 [Unknown] - Uk Gpg Talk Bed
+22-Jun-2024 07:45:52 [Unknown] - Uk Gpg Talk Bed
+22-Jun-2024 07:47:02 [Unknown] - Uk Gpg Talk Bed
+22-Jun-2024 07:48:13 [Unknown] - Uk Gpg Talk Bed
+22-Jun-2024 07:49:23 [Unknown] - Uk Gpg Talk Bed
+22-Jun-2024 07:50:34 [Unknown] - Uk Gpg Talk Bed
+22-Jun-2024 07:51:45 [Unknown] - Uk Gpg Talk Bed
+22-Jun-2024 07:52:55 [Unknown] - Uk Gpg Talk Bed
+22-Jun-2024 07:54:06 [Unknown] - Uk Gpg Talk Bed
+22-Jun-2024 07:55:16 [Unknown] - Uk Gpg Talk Bed
+22-Jun-2024 07:56:27 [Unknown] - Uk Gpg Talk Bed
+22-Jun-2024 07:57:37 [Unknown] - Uk Gpg Talk Bed
+22-Jun-2024 07:58:48 [Unknown] - Uk Gpg Talk Bed
+22-Jun-2024 07:59:58 [Unknown] - Uk Gpg Talk Bed
+22-Jun-2024 08:01:09 [Unknown] - Uk Gpg Talk Bed
+22-Jun-2024 08:02:19 [Unknown] - Uk Gpg Talk Bed
+22-Jun-2024 08:03:30 [Unknown] - Uk Gpg Talk Bed
+22-Jun-2024 08:04:40 [Unknown] - Uk Gpg Talk Bed
+22-Jun-2024 08:05:51 [Unknown] - Uk Gpg Talk Bed
+22-Jun-2024 08:07:02 [Unknown] - Uk Gpg Talk Bed
+22-Jun-2024 08:08:12 [Unknown] - Uk Gpg Talk Bed
+22-Jun-2024 08:10:08 [Unknown] - Kabacan Hymn
+22-Jun-2024 08:13:04 [Unknown] - Stand-B Y Bed Before Network News
+22-Jun-2024 08:14:06 [Unknown] - Stand-B Y Bed Before Network News
+22-Jun-2024 08:15:09 [Unknown] - Stand-B Y Bed Before Network News
+22-Jun-2024 08:16:12 [Unknown] - Stand-B Y Bed Before Network News
+22-Jun-2024 08:17:15 [Unknown] - Stand-B Y Bed Before Network News
+22-Jun-2024 08:18:18 [Unknown] - Stand-B Y Bed Before Network News
+22-Jun-2024 08:19:21 [Unknown] - Stand-B Y Bed Before Network News
+22-Jun-2024 08:20:24 [Unknown] - Stand-B Y Bed Before Network News
+22-Jun-2024 08:24:24 [Unknown] - Stand-B Y Bed Before Network News
+22-Jun-2024 08:27:47 [Unknown] - Stand-B Y Bed Before Network News
+22-Jun-2024 08:56:49 [Unknown] - Kool Fm Cut 4
+22-Jun-2024 08:57:17 [Unknown] - Mb Kaligtasan 2
+22-Jun-2024 08:57:31 [Unknown] - Toh Id 2018 Latest
+22-Jun-2024 08:57:55 [Unknown] - Shotgun 3
+22-Jun-2024 08:57:58 Keyshia Cole - Love
+22-Jun-2024 09:02:41 Mariah Carey - We Belong Together
+22-Jun-2024 09:05:54 [Unknown] - Iba Gid 2
+22-Jun-2024 09:05:58 Rihanna - Take A Bow
+22-Jun-2024 09:09:39 Giveon - Heartbreak Anniversary
+22-Jun-2024 09:12:52 [Unknown] - Iba Gid 3
+22-Jun-2024 09:12:55 Alicia Keys - If I Aint Got You
+22-Jun-2024 09:16:30 Michael Pangilinan - Weak
+22-Jun-2024 09:19:38 [Unknown] - Iba Gid 2
+22-Jun-2024 09:19:42 [Unknown] - Gpg Ligtas 2023
+22-Jun-2024 09:20:45 [Unknown] - Ferly Abangan Mx3
+22-Jun-2024 09:21:15 [Unknown] - Rjo Japan Surplus 2023
+22-Jun-2024 09:21:52 [Unknown] - Shotgun 5
+22-Jun-2024 09:21:57 Pussycat Dolls - Stickwitu
+22-Jun-2024 09:25:21 Love On Top - Beyonce
+22-Jun-2024 09:29:40 [Unknown] - Iba Gid 3
+22-Jun-2024 09:29:45 Brian Mc Knight - Back At One
+22-Jun-2024 09:33:04 So Into You - Tamia
+22-Jun-2024 09:37:16 [Unknown] - Iba Gid 4
+22-Jun-2024 09:37:23 Jed Madela - The Past
+22-Jun-2024 09:40:47 Celine Dion - Because You Loved Me
+22-Jun-2024 09:45:13 [Unknown] - Iba Gid 6
+22-Jun-2024 09:45:18 [Unknown] - Menro 2 2023
+22-Jun-2024 09:46:08 [Unknown] - Jay Failanga 30s 1
+22-Jun-2024 09:46:38 [Unknown] - Gpg Testimony2
+22-Jun-2024 09:47:32 [Unknown] - Superama Anniversary 2024
+22-Jun-2024 09:48:18 [Unknown] - Scdl Kabacan 2023
+22-Jun-2024 09:49:21 [Unknown] - Shotgun 5
+22-Jun-2024 09:49:26 All 4 One - I Can Love You Like That
+22-Jun-2024 09:53:29 Krayzie Bone & Mariah - I Still Believe
+22-Jun-2024 09:57:56 [Unknown] - Iba Gid 7
+22-Jun-2024 09:58:01 [Unknown] - Kool Fm Cut 3
+22-Jun-2024 09:58:36 [Unknown] - Osb Sumvac Blowbagets
+22-Jun-2024 09:59:23 [Unknown] - Toh Id 2018 Latest
+22-Jun-2024 09:59:46 [Unknown] - Shotgun 5
+22-Jun-2024 09:59:51 Fugees - Killing Me Softly
+22-Jun-2024 10:04:49 SWV - Weak
+22-Jun-2024 10:09:30 [Unknown] - Iba Gid 4
+22-Jun-2024 10:09:37 Freestyle - Before I Let You Go
+22-Jun-2024 10:14:15 Brian McKnight - 6, 8, 12
+22-Jun-2024 10:18:10 [Unknown] - Iba Gid 2
+22-Jun-2024 10:18:14 [Unknown] - Krisha Buena Mx3
+22-Jun-2024 10:18:44 [Unknown] - Ariben Soap Doming 2022
+22-Jun-2024 10:19:48 [Unknown] - Rjo Japan Surplus 2023
+22-Jun-2024 10:20:25 I Will Always Love You - Whitney Houston
+22-Jun-2024 10:24:49 [Unknown] - 09 Irreplaceable
+22-Jun-2024 10:28:31 [Unknown] - Iba Gid 10
+22-Jun-2024 10:28:37 Nina - When I See You Smile
+22-Jun-2024 10:33:07 Mymp - Crazy For You
+22-Jun-2024 10:37:16 [Unknown] - Iba Gid 4
+22-Jun-2024 10:37:22 Backstreet Boys - As Long As You Love Me
+22-Jun-2024 10:40:58 Nsync - Bye Bye Bye
+22-Jun-2024 10:44:14 [Unknown] - Iba Gid 10
+22-Jun-2024 10:44:20 Maroon 5 - This Love
+22-Jun-2024 10:47:37 Britney Spears - Baby One More Time
+22-Jun-2024 10:51:05 Vanilla Sky - Thousand Miles (Vanessa Carlto
+22-Jun-2024 10:54:55 Westlife - If I Let You Go
+22-Jun-2024 10:58:29 [Unknown] - Iba Gid 3
+22-Jun-2024 10:58:33 [Unknown] - Kool Fm Cut 3
+22-Jun-2024 10:59:09 [Unknown] - Osb Lindol Tips 3
+22-Jun-2024 11:00:03 [Unknown] - Toh Id 2018 Latest
+22-Jun-2024 11:00:27 [Unknown] - Shotgun 5
+22-Jun-2024 11:00:32 Taio Cruz - Dynamite
+22-Jun-2024 11:03:46 Taylor Swift - I Knew You Were Trouble.
+22-Jun-2024 11:07:23 [Unknown] - Iba Gid 6
+22-Jun-2024 11:07:27 Various Artists - Insomia
+22-Jun-2024 11:11:34 Ariana Grande - Problem Ft. Iggy Azalea
+22-Jun-2024 11:14:45 [Unknown] - Iba Gid 4
+22-Jun-2024 11:14:51 Jay Sean Featuring Lil Wayne - Down
+22-Jun-2024 11:18:18 Beauty And A Beat - Justin Bieber Ft Nicki Minaj
+22-Jun-2024 11:22:03 [Unknown] - Iba Gid 5
+22-Jun-2024 11:22:08 [Unknown] - Jay Failanga 30s 1
+22-Jun-2024 11:22:37 [Unknown] - Agma Cotelco
+22-Jun-2024 11:23:19 [Unknown] - Shotgun 4
+22-Jun-2024 11:23:24 [Unknown] - The Wanted-Glad You Came
+22-Jun-2024 11:26:31 Pitbull Ft. Ke$ha - Timber
+22-Jun-2024 11:29:51 [Unknown] - Iba Gid 6
+22-Jun-2024 11:29:56 Domino - Jessie J
+22-Jun-2024 11:33:43 IYAZ - Replay
+22-Jun-2024 11:36:43 Katy Perry - Peacock
+22-Jun-2024 11:40:30 [Unknown] - Iba Gid 7
+22-Jun-2024 11:40:35 [Unknown] - Menro 1 2023
+22-Jun-2024 11:41:18 [Unknown] - Ariben Soap Doming 2022
+22-Jun-2024 11:42:22 [Unknown] - Superama Anniversary 2024
+22-Jun-2024 11:43:08 [Unknown] - Shotgun 4
+22-Jun-2024 11:43:10 One Direction - What Makes You Beautiful
+22-Jun-2024 11:46:29 Flo-Rida - Club Can't Handle Me (Prod. Da
+22-Jun-2024 11:50:16 [Unknown] - Iba Gid 6
+22-Jun-2024 11:50:21 Omi - Cheerleader (Felix Jaehn Remix Radio Edit)
+22-Jun-2024 11:53:19 Nick Jonas - Jealous
+22-Jun-2024 11:56:55 The Script Feat Will I Am - Hall Of Fame
+22-Jun-2024 12:00:09 [Unknown] - Kool Fm Cut 2
+22-Jun-2024 12:00:29 [Unknown] - Islamic Verse
+22-Jun-2024 12:01:13 [Unknown] - Angelus
+22-Jun-2024 12:03:48 [Unknown] - Osb Sumvac Blowbagets
+22-Jun-2024 12:04:34 [Unknown] - Toh Id 2018 Latest
+22-Jun-2024 12:04:58 [Unknown] - Shotgun 4
+22-Jun-2024 12:05:02 Taylor Swift - Shake It Off
+22-Jun-2024 12:08:36 Selena Gomez & The Scene - Love You Like a Love Song
+22-Jun-2024 12:11:40 [Unknown] - Iba Gid 6
+22-Jun-2024 12:11:45 Who's That Girl - Eve
+22-Jun-2024 12:15:11 The Vamps - Oh Cecilia (Breaking My Heart)
+22-Jun-2024 12:18:23 WALK THE MOON - Shut Up and Dance
+22-Jun-2024 12:21:39 [Unknown] - Iba Gid 5
+22-Jun-2024 12:21:44 [Unknown] - Jwireless 2021
+22-Jun-2024 12:23:02 [Unknown] - Lucky 9 Id 1
+22-Jun-2024 12:23:28 [Unknown] - St Lukes 2024
+22-Jun-2024 12:24:27 [Unknown] - Shotgun 4
+22-Jun-2024 12:24:32 Maroon 5 - Payphone Ft. Wiz Khalifa
+22-Jun-2024 12:28:20 Carly Rae Jepsen - Call Me Maybe
+22-Jun-2024 12:31:24 [Unknown] - Iba Gid 10
+22-Jun-2024 12:31:28 Katy Perry - Teenage Dream
+22-Jun-2024 12:35:09 Ariana Grande - One Last Time
+22-Jun-2024 12:38:21 Sak Noel & Salvi Ft. Sean Paul - Trumpets
+22-Jun-2024 12:41:43 [Unknown] - Iba Gid 3
+22-Jun-2024 12:41:48 [Unknown] - Ariben Soap Hazel 2022
+22-Jun-2024 12:42:58 [Unknown] - Angielyn Bautista Mx3
+22-Jun-2024 12:43:28 [Unknown] - Rjo Japan Surplus 2023
+22-Jun-2024 12:44:05 [Unknown] - Shotgun 2
+22-Jun-2024 12:44:08 Dj Snake Feat Selena Gomez, Ozuna & Cardi B - Taki Taki (Audio) Ft. Cardi B
+22-Jun-2024 12:47:38 (djdione exclusive) - 125 bpm - whine up ft fatman (
+22-Jun-2024 12:51:24 [Unknown] - Iba Gid 5
+22-Jun-2024 12:51:29 Taylor Swift - 22
+22-Jun-2024 12:55:14 One Direction - Drag Me Down
+22-Jun-2024 12:58:18 Little Mix - Black Magic
+22-Jun-2024 13:01:45 [Unknown] - Iba Gid 3
+22-Jun-2024 13:01:50 [Unknown] - Kool Fm Cut 3
+22-Jun-2024 13:02:26 [Unknown] - Osb Lindol Tips 3
+22-Jun-2024 13:03:20 [Unknown] - Toh Id 2018 Latest
+22-Jun-2024 13:03:43 [Unknown] - Shotgun 4
+22-Jun-2024 13:03:48 April Boy Regino - Muling Ibalik
+22-Jun-2024 13:07:30 Rey Valera - Walang Kapalit
+22-Jun-2024 13:10:58 [Unknown] - Iba Gid 3
+22-Jun-2024 13:11:03 [Unknown] - Labis Na Nasaktan With Lyrics By Jennelyn Yabu Karaoke Tagalog1
+22-Jun-2024 13:13:33 Father And Son - Miss Na Miss Kita
+22-Jun-2024 13:17:43 [Unknown] - Iba Gid 3
+22-Jun-2024 13:17:48 Jed Madela - The Past
+22-Jun-2024 13:21:12 Maybe This Time - Michael Murphey
+22-Jun-2024 13:24:18 [Unknown] - Iba Gid 10
+22-Jun-2024 13:24:24 [Unknown] - Ariben Soap Hashim 2022
+22-Jun-2024 13:25:39 [Unknown] - Menro 2 2023
+22-Jun-2024 13:26:29 [Unknown] - Gpg Smoking 2023
+22-Jun-2024 13:27:22 [Unknown] - Shotgun 3
+22-Jun-2024 13:27:25 J. Brothers Band - Sanay Bigyan Mo Ng Pansin
+22-Jun-2024 13:31:15 True Faith - Alaala
+22-Jun-2024 13:34:29 [Unknown] - Iba Gid 6
+22-Jun-2024 13:34:33 Side A - All this time
+22-Jun-2024 13:39:15 Stuck On You - L. Richie
+22-Jun-2024 13:42:17 [Unknown] - Iba Gid 6
+22-Jun-2024 13:42:22 [Unknown] - Ariben Soap Hazel 2022
+22-Jun-2024 13:43:32 [Unknown] - Agma Cotelco
+22-Jun-2024 13:44:14 [Unknown] - Shotgun 3
+22-Jun-2024 13:44:17 Boyzone - When You Say Nothing At All
+22-Jun-2024 13:48:21 Bee Gees - To Love Somebody
+22-Jun-2024 13:51:12 [Unknown] - Iba Gid 2
+22-Jun-2024 13:51:16 How Do You Heal A Broken Heart - Chris Walker
+22-Jun-2024 13:56:15 Jim Photoglo - The Will Of The Wind
+22-Jun-2024 13:59:46 [Unknown] - Iba Gid 4
+22-Jun-2024 13:59:53 [Unknown] - Kool Fm Cut 3
+22-Jun-2024 14:00:28 [Unknown] - Osb Sumvac Blowbagets
+22-Jun-2024 14:01:14 [Unknown] - Toh Id 2018 Latest
+22-Jun-2024 14:01:38 [Unknown] - Shotgun 3
+22-Jun-2024 14:01:41 Peter Cetera - Hard To Say I'm Sorry
+22-Jun-2024 14:04:52 Tiffany - If Love Is Blind
+22-Jun-2024 14:08:27 [Unknown] - Iba Gid 5
+22-Jun-2024 14:08:32 ~SadMovies.mp3 - Sad Movies
+22-Jun-2024 14:11:40 Don't Ever Go - Eddie Perigrina
+22-Jun-2024 14:14:43 [Unknown] - Iba Gid 1
+22-Jun-2024 14:14:47 Hulu - To Sir With Love
+22-Jun-2024 14:17:25 Righteous Brothers - Unchained Melody
+22-Jun-2024 14:20:59 [Unknown] - Iba Gid 7
+22-Jun-2024 14:21:04 [Unknown] - Jwireless 2021
+22-Jun-2024 14:22:22 [Unknown] - Superama Anniversary 2024
+22-Jun-2024 14:23:08 [Unknown] - Shotgun 3
+22-Jun-2024 14:23:11 Nora Aunor - Yesterday When I Was Young
+22-Jun-2024 14:26:55 Tom Jones - I Can't Stop Loving You
+22-Jun-2024 14:30:01 [Unknown] - Iba Gid 6
+22-Jun-2024 14:30:06 Engelbert Humperdinck - Quando, Quando
+22-Jun-2024 14:33:20 Everly Brothers - Wake Up Little Susie
+22-Jun-2024 14:35:15 [Unknown] - Iba Gid 5
+22-Jun-2024 14:35:20 Dawn - Tie A Yellow Ribbon Round The
+22-Jun-2024 14:38:31 ~Carmelita.mp3 - Carmelita
+22-Jun-2024 14:41:06 [Unknown] - Iba Gid 7
+22-Jun-2024 14:41:11 [Unknown] - Menro 2 2023
+22-Jun-2024 14:42:01 [Unknown] - Gpg-S Alapungan2
+22-Jun-2024 14:43:00 [Unknown] - 1st Valley Bank Loan
+22-Jun-2024 14:43:31 [Unknown] - Shotgun 3
+22-Jun-2024 14:43:34 ~GreenGreenGrassOfHomes.mp3 - Green Green Grass Of Homes
+22-Jun-2024 14:46:33 Carpenters - Breaking Up Is Hard To Do
+22-Jun-2024 14:49:00 [Unknown] - Iba Gid 6
+22-Jun-2024 14:49:05 Stevie Wonder - My Cherie Amour
+22-Jun-2024 14:51:47 Turtles - Sugar Sugar
+22-Jun-2024 14:54:30 [Unknown] - Iba Gid 6
+22-Jun-2024 14:54:34 Paul Anka - Fly Me To The Moon
+22-Jun-2024 14:58:14 ~SweetCaroline.mp3 - Sweet Caroline
+22-Jun-2024 15:01:35 [Unknown] - Iba Gid 7
+22-Jun-2024 15:01:38 Axl Duran - KoolFM Jingle
+22-Jun-2024 15:04:19 [Unknown] - Islamic Verse
+22-Jun-2024 15:05:04 [Unknown] - The New 3 O'C Lock Prayer
+22-Jun-2024 15:06:17 [Unknown] - Mb Panalangin 3
+22-Jun-2024 15:06:37 [Unknown] - Toh Id 2018 Latest
+22-Jun-2024 15:07:01 [Unknown] - Shotgun 4
+22-Jun-2024 15:07:05 Idana - Jayson In Town
+22-Jun-2024 15:10:28 Bob Marley - Buffalo Soldier
+22-Jun-2024 15:13:06 [Unknown] - Iba Gid 4
+22-Jun-2024 15:13:12 Parokya Ni Edgar - Pumapatak Ang Ulan
+22-Jun-2024 15:15:58 Cueshe - Pasensya Na
+22-Jun-2024 15:19:39 [Unknown] - Iba Gid 4
+22-Jun-2024 15:19:45 [Unknown] - Cornelio Gesta Mx3
+22-Jun-2024 15:20:15 [Unknown] - Gpg Smoking 2023
+22-Jun-2024 15:21:07 [Unknown] - Agma Cotelco
+22-Jun-2024 15:21:49 [Unknown] - Shotgun 2
+22-Jun-2024 15:21:51 Moonstar88 - Bata
+22-Jun-2024 15:26:19 Sugar Free - Hari Ng Sablay
+22-Jun-2024 15:31:06 [Unknown] - Iba Gid 10
+22-Jun-2024 15:31:12 Soapdish - Kahit Maputi Na Ang Buhok Ko
+22-Jun-2024 15:34:06 ~6 CYCLE MIND-Sandalan.mp3 - Track 13
+22-Jun-2024 15:38:06 [Unknown] - Iba Gid 4
+22-Jun-2024 15:38:12 [Unknown] - Ariben Soap Mylene 2022
+22-Jun-2024 15:39:25 [Unknown] - Gpg Tripeople
+22-Jun-2024 15:40:26 [Unknown] - Angielyn Bautista Mx3
+22-Jun-2024 15:40:56 [Unknown] - Shotgun 4
+22-Jun-2024 15:41:00 Imago - Ewan
+22-Jun-2024 15:44:41 Brownman Revival - Binibini
+22-Jun-2024 15:49:04 [Unknown] - Iba Gid 6
+22-Jun-2024 15:49:09 <s>andwich - Sugod
+22-Jun-2024 15:52:07 This Guys In Love With You Par - Parokya Ni Edgar
+22-Jun-2024 15:55:15 [Unknown] - Iba Gid 3
+22-Jun-2024 15:55:19 Cueshe - Laki Sa Layaw
+22-Jun-2024 15:58:56 Teeth - Laklak
+22-Jun-2024 16:02:58 [Unknown] - Iba Gid 10
+22-Jun-2024 16:03:04 [Unknown] - Kool Fm Cut 3
+22-Jun-2024 16:03:40 [Unknown] - Osb Sumvac Blowbagets
+22-Jun-2024 16:04:26 [Unknown] - Toh Id 2018 Latest
+22-Jun-2024 16:04:50 [Unknown] - Shotgun 4
+22-Jun-2024 16:04:54 Bamboo - Hallelujah
+22-Jun-2024 16:09:13 Siakol - Lakas Tama
+22-Jun-2024 16:12:36 Sugarfree - Kung Ayaw Mo Na Sa Akin
+22-Jun-2024 16:16:21 Artist - 05 Barkada Ko-isla Era
+22-Jun-2024 16:19:45 [Unknown] - Iba Gid 4
+22-Jun-2024 16:19:51 [Unknown] - Rjo Japan Surplus 2023
+22-Jun-2024 16:20:28 [Unknown] - Gpg Business
+22-Jun-2024 16:21:03 [Unknown] - Emma Baldonado Mx3
+22-Jun-2024 16:21:29 [Unknown] - Gpg Testimony1
+22-Jun-2024 16:22:27 [Unknown] - 1st Valley Bank Loan
+22-Jun-2024 16:22:59 [Unknown] - Shotgun 2
+22-Jun-2024 16:23:01 Eraserheads - Magasin
+22-Jun-2024 16:27:03 Moonstar 88 - Torete
+22-Jun-2024 16:31:18 [Unknown] - Iba Gid 8
+22-Jun-2024 16:31:24 ~HALE Kahit pa.MP3 - Hale Kahit Pa
+22-Jun-2024 16:35:12 6cyclemind - Prinsesa
+22-Jun-2024 16:39:36 [Unknown] - Iba Gid 4
+22-Jun-2024 16:39:43 [Unknown] - Menro 1 2023
+22-Jun-2024 16:40:26 [Unknown] - Ferly Abangan Mx3
+22-Jun-2024 16:40:56 [Unknown] - Gpg Testimony2
+22-Jun-2024 16:41:50 [Unknown] - St Lukes 2024
+22-Jun-2024 16:42:49 [Unknown] - Agma Cotelco
+22-Jun-2024 16:43:31 [Unknown] - Shotgun 2
+22-Jun-2024 16:43:33 Prettier Than Pink - Cool Ka Lang
+22-Jun-2024 16:47:20 Sitti - Para Sa Akin (Paso Dulce Remix
+22-Jun-2024 16:50:34 [Unknown] - Iba Gid 6
+22-Jun-2024 16:50:39 Rivermaya - Kisapmata
+22-Jun-2024 16:55:12 Join The Club - Nobela
+22-Jun-2024 17:00:01 [Unknown] - Iba Gid 2
+22-Jun-2024 17:00:05 [Unknown] - Kool Fm Cut 2
+22-Jun-2024 17:00:25 [Unknown] - Osb Lindol Tips 3
+22-Jun-2024 17:01:19 [Unknown] - Toh Id Iso Certified New Version Short
+22-Jun-2024 17:01:35 [Unknown] - Shotgun 3
+22-Jun-2024 17:01:37 [Unknown] - Cool Off (Session Road)
+22-Jun-2024 17:05:15 Elesi - Rivermaya
+22-Jun-2024 17:09:59 [Unknown] - Iba Gid 3
+22-Jun-2024 17:10:04 [Unknown] - Yano Banal Na Aso,santong Kabayo
+22-Jun-2024 17:14:20 Rico Blanco - Antukin
+22-Jun-2024 17:18:56 [Unknown] - Iba Gid 4
+22-Jun-2024 17:19:02 [Unknown] - Gpg Business
+22-Jun-2024 17:19:37 [Unknown] - Ariben Soap Hashim 2022
+22-Jun-2024 17:20:52 [Unknown] - Gpg Smoking 2023
+22-Jun-2024 17:21:45 [Unknown] - Krisha Buena Mx3
+22-Jun-2024 17:22:15 [Unknown] - Scdl Kabacan 2023
+22-Jun-2024 17:23:18 [Unknown] - Shotgun 3
+22-Jun-2024 17:23:21 Silent Sanctuary - Ikaw Lamang
+22-Jun-2024 17:28:24 Parokya ni Edgar - Alumni Homecoming
+22-Jun-2024 17:33:01 [Unknown] - Iba Gid 4
+22-Jun-2024 17:33:04 Spongecola - Pare Ko
+22-Jun-2024 17:38:57 Tropa - Siakol
+22-Jun-2024 17:43:40 [Unknown] - Iba Gid 6
+22-Jun-2024 17:43:45 [Unknown] - Emma Baldonado Mx3
+22-Jun-2024 17:44:11 [Unknown] - Gpg Ligtas 2023
+22-Jun-2024 17:45:14 [Unknown] - Lucky 9 Id 1
+22-Jun-2024 17:45:41 [Unknown] - Agma Cotelco
+22-Jun-2024 17:46:23 [Unknown] - Shotgun 6
+22-Jun-2024 17:46:26 [Unknown] - Bilog Na Naman Ang Buwan
+22-Jun-2024 17:49:44 Gloc-9 Feat. Rico Blanco - Magda
+22-Jun-2024 17:54:58 [Unknown] - Iba Gid 4
+22-Jun-2024 17:55:04 Itchyworms - 03 Gusto Ko Lamang Sa Buhay
+22-Jun-2024 18:00:18 Rizal Uderground - Sabado Nights
+22-Jun-2024 18:02:56 [Unknown] - Iba Gid 4
+22-Jun-2024 18:03:02 [Unknown] - Kool Fm Cut 3
+22-Jun-2024 18:03:37 [Unknown] - Islamic Verse
+22-Jun-2024 18:04:22 [Unknown] - Angelus
+22-Jun-2024 18:06:56 [Unknown] - Mb Panalangin 2
+22-Jun-2024 18:07:14 [Unknown] - Toh Id 2018 Latest
+22-Jun-2024 18:07:38 ~FOLK SMOKIE-OH CAROL.MP3 - Folk Smokie-O H Carol
+22-Jun-2024 18:11:04 Carpenters - Top Of The World
+22-Jun-2024 18:13:58 [Unknown] - Iba Gid 10
+22-Jun-2024 18:14:04 Abba - Mamma Mia
+22-Jun-2024 18:17:29 Roy Orbison - Pretty Woman
+22-Jun-2024 18:20:28 [Unknown] - Iba Gid 6
+22-Jun-2024 18:20:32 [Unknown] - Rnb Magsaing Na
+22-Jun-2024 18:20:40 [Unknown] - Gpg Smoking 2023
+22-Jun-2024 18:21:33 [Unknown] - Ferly Abangan Mx3
+22-Jun-2024 18:22:03 [Unknown] - Gpg-S Alapungan2
+22-Jun-2024 18:23:02 [Unknown] - Shotgun 3
+22-Jun-2024 18:23:05 Belinda Carlisle - Heaven Is A Place On Earth
+22-Jun-2024 18:26:59 Platters - Only You (And You Alone
+22-Jun-2024 18:29:32 [Unknown] - Iba Gid 5
+22-Jun-2024 18:29:37 Abba - Dancing Queen
+22-Jun-2024 18:33:18 Cindy Lauper - Girls Just Wanna Have Fun
+22-Jun-2024 18:36:53 Dawn - Knock Three Times
+22-Jun-2024 18:39:42 [Unknown] - Iba Gid 3
+22-Jun-2024 18:39:47 [Unknown] - Ariben Soap Hashim 2022
+22-Jun-2024 18:41:02 [Unknown] - Jwireless 2021
+22-Jun-2024 18:42:20 [Unknown] - Angielyn Bautista Mx3
+22-Jun-2024 18:42:50 [Unknown] - Shotgun 3
+22-Jun-2024 18:42:53 Gloria Gaynor - I Will Survive
+22-Jun-2024 18:47:36 Credence Clearwater - Have You Ever Seen The Rain
+22-Jun-2024 18:50:10 [Unknown] - Iba Gid 4
+22-Jun-2024 18:50:16 Billy Joel - Uptown Girl
+22-Jun-2024 18:53:21 Johnny Tillotson - Poetry In Motion
+22-Jun-2024 18:55:46 [Unknown] - Iba Gid 2
+22-Jun-2024 18:55:50 Starship - Nothing's Gonna Stop Us Now
+22-Jun-2024 19:00:13 Have A Good Time - Sue Thompson
+22-Jun-2024 19:03:22 [Unknown] - Iba Gid 3
+22-Jun-2024 19:03:26 [Unknown] - Kool Fm Cut 3
+22-Jun-2024 19:04:01 [Unknown] - Islamic Verse
+22-Jun-2024 19:04:46 [Unknown] - Osb Sumvac Blowbagets
+22-Jun-2024 19:05:32 [Unknown] - Toh Id 2018 Latest
+22-Jun-2024 19:05:56 [Unknown] - Shotgun 6
+22-Jun-2024 19:06:00 Toni Basil - Hey Mickey
+22-Jun-2024 19:09:51 Kenny Loggins - Footlose
+22-Jun-2024 19:13:25 [Unknown] - Iba Gid 4
+22-Jun-2024 19:13:31 Rick James - Super Freak
+22-Jun-2024 19:16:49 Laura Branigan - Gloria
+22-Jun-2024 19:20:34 [Unknown] - Iba Gid 3
+22-Jun-2024 19:20:39 [Unknown] - Rnb Dinner Na
+22-Jun-2024 19:20:47 [Unknown] - Jwireless 2021
+22-Jun-2024 19:22:05 [Unknown] - Krisha Buena Mx3
+22-Jun-2024 19:22:35 [Unknown] - Shotgun 4
+22-Jun-2024 19:22:39 Kenny Rogers - Island In The Stream
+22-Jun-2024 19:26:42 Earth Wind And Fire - September
+22-Jun-2024 19:30:11 [Unknown] - Iba Gid 4
+22-Jun-2024 19:30:18 ABBA - Take a Chance On Me
+22-Jun-2024 19:34:10 Bee Gees - Stayin' Alive
+22-Jun-2024 19:38:47 [Unknown] - Iba Gid 4
+22-Jun-2024 19:38:53 [Unknown] - Doh Bida Solusyon
+22-Jun-2024 19:39:22 [Unknown] - Emma Baldonado Mx3
+22-Jun-2024 19:39:48 [Unknown] - Shotgun 3
+22-Jun-2024 19:39:51 The Police - Every Breath You Take
+22-Jun-2024 19:43:43 80s - Wham - Wake Me Up Before You Go-Go
+22-Jun-2024 19:47:24 [Unknown] - Iba Gid 3
+22-Jun-2024 19:47:29 The Queen - Another One Bites The Dust
+22-Jun-2024 19:51:00 ~Chiquitita.mp3 - Chiquitita
+22-Jun-2024 19:56:12 John Denver - Take Me Home Country Road
+22-Jun-2024 19:59:20 [Unknown] - Iba Gid 3
+22-Jun-2024 19:59:25 [Unknown] - Usm Quality Policy Statement
+22-Jun-2024 20:00:29 [Unknown] - Usm Beloved Jingle
+22-Jun-2024 20:03:04 [Unknown] - Lupang Hinirang
+22-Jun-2024 20:03:52 [Unknown] - Kool Fm Cut 3

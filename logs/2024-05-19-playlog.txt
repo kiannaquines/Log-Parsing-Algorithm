@@ -1,0 +1,663 @@
+19-May-2024 00:07:25 [Unknown] - 01 Hourly News Intro And Bed
+19-May-2024 00:08:10 [Unknown] - 04 Hourly Ender Sfx
+19-May-2024 00:08:17 [Unknown] - 01 Hourly News Intro And Bed
+19-May-2024 00:08:21 [Unknown] - 04 Hourly Ender Sfx
+19-May-2024 00:08:25 [Unknown] - 01 Hourly News Intro And Bed
+19-May-2024 00:11:15 [Unknown] - Toh Id 2018 Latest
+19-May-2024 00:11:43 [Unknown] - Kanta Ng Buhay Bed
+19-May-2024 00:12:18 Rey Valera - Kahit Maputi Na Ang Buhok Ko
+19-May-2024 00:12:27 [Unknown] - Kanta Ng Buhay Bed
+19-May-2024 00:12:32 Rey Valera - Kahit Maputi Na Ang Buhok Ko
+19-May-2024 00:12:41 [Unknown] - Kanta Ng Buhay Bed
+19-May-2024 00:12:47 Rey Valera - Kahit Maputi Na Ang Buhok Ko
+19-May-2024 00:13:45 [Unknown] - Kanta Ng Buhay Bed
+19-May-2024 00:13:56 Rey Valera - Kahit Maputi Na Ang Buhok Ko
+19-May-2024 00:15:58 [Unknown] - Kanta Ng Buhay Bed
+19-May-2024 00:17:51 [Unknown] - Toh Id 2018 Latest
+19-May-2024 00:18:14 [Unknown] - Kanta Ng Buhay Bed
+19-May-2024 00:18:35 [Unknown] - Kanta Ng Buhay Id
+19-May-2024 00:19:44 [Unknown] - Kanta Ng Buhay Bed
+19-May-2024 00:19:57 Rey Valera - Kahit Maputi Na Ang Buhok Ko
+19-May-2024 00:20:17 [Unknown] - Kanta Ng Buhay Bed
+19-May-2024 00:26:34 [Unknown] - Kanta Ng Buhay Id
+19-May-2024 00:26:43 [Unknown] - Kanta Ng Buhay Bed
+19-May-2024 00:28:35 [Unknown] - Kanta Ng Buhay Id
+19-May-2024 00:30:59 Rey Valera - Kahit Maputi Na Ang Buhok Ko
+19-May-2024 00:32:58 [Unknown] - Kanta Ng Buhay Bed
+19-May-2024 00:34:10 [Unknown] - 01 Hourly News Intro And Bed
+19-May-2024 00:35:20 [Unknown] - 04 Hourly Ender Sfx
+19-May-2024 00:35:48 [Unknown] - 04 Hourly Ender Sfx
+19-May-2024 00:36:42 [Unknown] - 01 Hourly News Intro And Bed
+19-May-2024 00:38:05 [Unknown] - 04 Hourly Ender Sfx
+19-May-2024 00:40:26 Player - Baby Come Back
+19-May-2024 00:55:48 [Unknown] - Gabi Ng Koolitan
+19-May-2024 00:56:27 [Unknown] - Marcus Bed 4
+19-May-2024 00:56:35 [Unknown] - marcus bed 6
+19-May-2024 00:56:39 [Unknown] - Marcus Bed 12
+19-May-2024 01:00:40 [Unknown] - Gabi Ng Koolitan
+19-May-2024 01:00:55 [Unknown] - Marcus Bed 12
+19-May-2024 01:02:27 Gins&melodies - Babaero
+19-May-2024 01:02:53 Vst & Company - Magsayawan
+19-May-2024 01:03:06 [Unknown] - Gabi Ng Koolitan
+19-May-2024 01:03:09 [Unknown] - 01 Hourly News Intro And Bed
+19-May-2024 01:03:17 [Unknown] - Gabi Ng Koolitan
+19-May-2024 01:05:41 [Unknown] - Toh Id 2018 Latest
+19-May-2024 01:06:05 [Unknown] - Gabi Ng Koolitan
+19-May-2024 01:06:20 [Unknown] - Marcus Bed 12
+19-May-2024 01:07:58 Gins&melodies - Babaero
+19-May-2024 01:08:07 [Unknown] - Gabi Ng Koolitan
+19-May-2024 01:08:10 [Unknown] - Toh Id 2018 Latest
+19-May-2024 01:08:18 [Unknown] - Kanta Ng Buhay Bed
+19-May-2024 01:08:23 [Unknown] - Toh Id 2018 Latest
+19-May-2024 01:08:32 [Unknown] - Toh Id 2018 Latest
+19-May-2024 01:08:52 [Unknown] - 01 Hourly News Intro And Bed
+19-May-2024 01:09:34 [Unknown] - 01 Hourly News Intro And Bed
+19-May-2024 01:09:41 [Unknown] - Kanta Ng Buhay Bed
+19-May-2024 01:09:45 [Unknown] - 01 Hourly News Intro And Bed
+19-May-2024 01:09:56 [Unknown] - Toh Id 2018 Latest
+19-May-2024 01:21:49 [Unknown] - Gabi Ng Koolitan
+19-May-2024 01:22:04 Gins&melodies - Babaero
+19-May-2024 01:39:18 [Unknown] - Toh Id 2018 Latest
+19-May-2024 01:39:42 [Unknown] - Gabi Ng Koolitan
+19-May-2024 01:39:56 [Unknown] - Marcus Bed 12
+19-May-2024 01:41:36 Gins&melodies - Babaero
+19-May-2024 01:42:29 [Unknown] - Marcus Bed 12
+19-May-2024 01:43:35 Vst & Company - Magsayawan
+19-May-2024 01:44:25 [Unknown] - 01 Hourly News Intro And Bed
+19-May-2024 01:45:43 [Unknown] - 04 Hourly Ender Sfx
+19-May-2024 01:48:44 Player - Baby Come Back
+19-May-2024 01:49:20 Big Mountain & Ub40 - Baby I Love Your Way
+19-May-2024 01:49:48 Player - Baby Come Back
+19-May-2024 01:55:23 Player - Baby Come Back
+19-May-2024 02:01:34 Usher - Yeah
+19-May-2024 02:06:31 [Unknown] - 01 Hourly News Intro And Bed
+19-May-2024 02:07:38 [Unknown] - 04 Hourly Ender Sfx
+19-May-2024 02:07:41 [Unknown] - Toh Id 2018 Latest
+19-May-2024 02:09:41 [Unknown] - 01 Hourly News Intro And Bed
+19-May-2024 02:15:16 [Unknown] - Toh Id 2018 Latest
+19-May-2024 02:15:37 [Unknown] - Tribes Official Live Music Video (320 Kbps)
+19-May-2024 02:15:59 Duck Sauce ft. Fatman Scoop - Marcus Bed 10
+19-May-2024 02:16:12 [Unknown] - Praise (Feat. Brandon Lake, Chris Brown & Chandler Moore)
+19-May-2024 02:17:06 Duck Sauce ft. Fatman Scoop - Marcus Bed 10
+19-May-2024 02:18:01 [Unknown] - Praise (Feat. Brandon Lake, Chris Brown & Chandler Moore)
+19-May-2024 02:18:38 [Unknown] - 01 Hourly News Intro And Bed
+19-May-2024 02:20:13 [Unknown] - 04 Hourly Ender Sfx
+19-May-2024 02:20:16 [Unknown] - Toh Id 2018 Latest
+19-May-2024 02:20:43 [Unknown] - Tribes Official Live Music Video (320 Kbps)
+19-May-2024 02:21:56 [Unknown] - Toh Id 2018 Latest
+19-May-2024 02:22:17 [Unknown] - Tribes Official Live Music Video (320 Kbps)
+19-May-2024 02:22:43 Duck Sauce ft. Fatman Scoop - Marcus Bed 10
+19-May-2024 02:23:28 [Unknown] - Praise (Feat. Brandon Lake, Chris Brown & Chandler Moore)
+19-May-2024 02:24:16 [Unknown] - Toh Id 2018 Latest
+19-May-2024 02:24:37 [Unknown] - Tribes Official Live Music Video (320 Kbps)
+19-May-2024 02:25:09 Duck Sauce ft. Fatman Scoop - Marcus Bed 10
+19-May-2024 02:25:58 [Unknown] - Praise (Feat. Brandon Lake, Chris Brown & Chandler Moore)
+19-May-2024 02:27:13 Duck Sauce ft. Fatman Scoop - Marcus Bed 10
+19-May-2024 02:28:23 [Unknown] - Toh Id 2018 Latest
+19-May-2024 02:28:44 [Unknown] - Tribes Official Live Music Video (320 Kbps)
+19-May-2024 02:29:14 Duck Sauce ft. Fatman Scoop - Marcus Bed 10
+19-May-2024 02:29:56 [Unknown] - Praise (Feat. Brandon Lake, Chris Brown & Chandler Moore)
+19-May-2024 02:31:11 [Unknown] - 01 Hourly News Intro And Bed
+19-May-2024 02:32:15 [Unknown] - Toh Id 2018 Latest
+19-May-2024 02:32:36 [Unknown] - Tribes Official Live Music Video (320 Kbps)
+19-May-2024 02:32:59 Duck Sauce ft. Fatman Scoop - Marcus Bed 10
+19-May-2024 02:33:37 [Unknown] - Praise (Feat. Brandon Lake, Chris Brown & Chandler Moore)
+19-May-2024 02:34:11 [Unknown] - 01 Hourly News Intro And Bed
+19-May-2024 02:35:33 [Unknown] - 04 Hourly Ender Sfx
+19-May-2024 02:38:18 Duck Sauce ft. Fatman Scoop - Marcus Bed 10
+19-May-2024 02:38:36 [Unknown] - Marcus Bed 12
+19-May-2024 02:40:34 Usher - Yeah
+19-May-2024 02:41:11 Chris Brown - Wet The Bed (Feat. Ludacris)
+19-May-2024 02:41:35 [Unknown] - Marcus Bed Jive
+19-May-2024 02:42:38 Sun Kissed Lola - Pasilyo
+19-May-2024 02:43:08 [Unknown] - 01 Hourly News Intro And Bed
+19-May-2024 02:44:05 [Unknown] - 04 Hourly Ender Sfx
+19-May-2024 02:44:08 [Unknown] - Toh Id 2018 Latest
+19-May-2024 02:44:52 [Unknown] - 01 Hourly News Intro And Bed
+19-May-2024 02:46:50 [Unknown] - 01 Hourly News Intro And Bed
+19-May-2024 02:56:58 [Unknown] - Toh Id 2018 Latest
+19-May-2024 02:58:42 [Unknown] - Marcus Bed Jive
+19-May-2024 02:58:49 Sun Kissed Lola - Pasilyo
+19-May-2024 02:58:57 [Unknown] - Marcus Bed Jive
+19-May-2024 02:59:04 Sun Kissed Lola - Pasilyo
+19-May-2024 02:59:27 [Unknown] - Marcus Bed Jive
+19-May-2024 02:59:42 Sun Kissed Lola - Pasilyo
+19-May-2024 03:07:54 [Unknown] - Toh Id 2018 Latest
+19-May-2024 03:08:18 [Unknown] - Marcus Bed Jive
+19-May-2024 03:09:20 [Unknown] - Toh Id 2018 Latest
+19-May-2024 03:09:44 [Unknown] - Marcus Bed Jive
+19-May-2024 03:10:35 Sun Kissed Lola - Pasilyo
+19-May-2024 03:11:26 [Unknown] - Marcus Bed Jive
+19-May-2024 03:12:05 [Unknown] - 01 Hourly News Intro And Bed
+19-May-2024 03:13:28 [Unknown] - 04 Hourly Ender Sfx
+19-May-2024 03:13:52 [Unknown] - 01 Hourly News Intro And Bed
+19-May-2024 03:14:20 [Unknown] - 04 Hourly Ender Sfx
+19-May-2024 03:15:00 Player - Baby Come Back
+19-May-2024 03:17:56 Big Mountain & Ub40 - Baby I Love Your Way
+19-May-2024 03:18:15 Player - Baby Come Back
+19-May-2024 03:18:26 Big Mountain & Ub40 - Baby I Love Your Way
+19-May-2024 03:18:58 [Unknown] - Toh Id 2018 Latest
+19-May-2024 03:24:34 Usher - Yeah
+19-May-2024 03:24:55 Usher - Yeah
+19-May-2024 03:26:18 Player - Baby Come Back
+19-May-2024 03:26:53 Usher - Yeah
+19-May-2024 03:28:27 [Unknown] - 01 Hourly News Intro And Bed
+19-May-2024 03:34:01 [Unknown] - Toh Id 2018 Latest
+19-May-2024 03:37:17 [Unknown] - Toh Id 2018 Latest
+19-May-2024 03:37:41 Shehyee - Trip Lang Ft. Sam Pinto
+19-May-2024 03:38:49 Tropa - Siakol
+19-May-2024 03:39:41 Shehyee - Trip Lang Ft. Sam Pinto
+19-May-2024 03:42:36 [Unknown] - 01 Hourly News Intro And Bed
+19-May-2024 03:44:43 [Unknown] - 04 Hourly Ender Sfx
+19-May-2024 03:45:39 [Unknown] - 01 Hourly News Intro And Bed
+19-May-2024 03:46:55 [Unknown] - 01 Hourly News Intro And Bed
+19-May-2024 03:47:03 [Unknown] - 04 Hourly Ender Sfx
+19-May-2024 03:47:06 [Unknown] - Marcus Bed 4
+19-May-2024 03:51:31 [Unknown] - Toh Id 2018 Latest
+19-May-2024 03:51:54 [Unknown] - Marcus Bed 4
+19-May-2024 03:53:23 Pedicab - Awitin Mo Isasayaw Ko
+19-May-2024 03:54:17 [Unknown] - Marcus Bed 4
+19-May-2024 03:55:42 [Unknown] - 01 Hourly News Intro And Bed
+19-May-2024 03:57:26 [Unknown] - 04 Hourly Ender Sfx
+19-May-2024 04:03:04 [Unknown] - Toh Id 2018 Latest
+19-May-2024 04:03:23 Duck Sauce ft. Fatman Scoop - Marcus Bed 10
+19-May-2024 04:03:55 [Unknown] - Toh Id 2018 Latest
+19-May-2024 04:04:19 [Unknown] - Marcus Bed 4
+19-May-2024 04:04:32 Shania Twain - You're Still The One
+19-May-2024 04:06:24 [Unknown] - Toh Id 2018 Latest
+19-May-2024 04:06:48 Duck Sauce ft. Fatman Scoop - Marcus Bed 10
+19-May-2024 04:08:07 [Unknown] - Toh Id 2018 Latest
+19-May-2024 04:08:13 Duck Sauce ft. Fatman Scoop - Marcus Bed 10
+19-May-2024 04:09:53 [Unknown] - Toh Id 2018 Latest
+19-May-2024 04:10:04 Duck Sauce ft. Fatman Scoop - Marcus Bed 10
+19-May-2024 04:11:24 [Unknown] - Toh Id 2018 Latest
+19-May-2024 04:11:47 Duck Sauce ft. Fatman Scoop - Marcus Bed 10
+19-May-2024 04:12:29 Shania Twain - You're Still The One
+19-May-2024 04:13:24 Duck Sauce ft. Fatman Scoop - Marcus Bed 10
+19-May-2024 04:13:43 [Unknown] - 01 Hourly News Intro And Bed
+19-May-2024 04:15:14 [Unknown] - 04 Hourly Ender Sfx
+19-May-2024 04:16:18 Player - Baby Come Back
+19-May-2024 04:16:37 Big Mountain & Ub40 - Baby I Love Your Way
+19-May-2024 04:19:33 [Unknown] - Toh Id 2018 Latest
+19-May-2024 04:19:54 [Unknown] - Marcus Bed Chill Sad
+19-May-2024 04:21:53 [Unknown] - Toh Id 2018 Latest
+19-May-2024 04:22:18 [Unknown] - Marcus Bed Chill Sad
+19-May-2024 04:22:48 The Band Perry - If I Die Young
+19-May-2024 04:23:07 [Unknown] - 01 Hourly News Intro And Bed
+19-May-2024 04:25:40 [Unknown] - 04 Hourly Ender Sfx
+19-May-2024 04:26:25 [Unknown] - Toh Id 2018 Latest
+19-May-2024 04:26:48 [Unknown] - Marcus Bed Chill Sad
+19-May-2024 04:27:16 The Band Perry - If I Die Young
+19-May-2024 04:27:36 [Unknown] - 01 Hourly News Intro And Bed
+19-May-2024 04:28:40 [Unknown] - 04 Hourly Ender Sfx
+19-May-2024 04:30:56 [Unknown] - Marcus Bed 12
+19-May-2024 04:32:59 [Unknown] - Marcus Bed 12
+19-May-2024 04:33:12 Juan Karlos - Buwan
+19-May-2024 04:33:50 [Unknown] - 01 Hourly News Intro And Bed
+19-May-2024 04:34:29 [Unknown] - 04 Hourly Ender Sfx
+19-May-2024 04:34:32 [Unknown] - Toh Id 2018 Latest
+19-May-2024 04:35:43 [Unknown] - Toh Id 2018 Latest
+19-May-2024 04:35:50 [Unknown] - Marcus Bed 12
+19-May-2024 04:36:33 [Unknown] - Marcus Bed 12
+19-May-2024 04:38:52 [Unknown] - Toh Id 2018 Latest
+19-May-2024 04:39:16 [Unknown] - 01 Hourly News Intro And Bed
+19-May-2024 04:40:10 [Unknown] - Toh Id 2018 Latest
+19-May-2024 04:40:34 [Unknown] - Marcus Bed 12
+19-May-2024 04:42:10 Juan Karlos - Buwan
+19-May-2024 04:43:23 [Unknown] - 04 Hourly Ender Sfx
+19-May-2024 04:43:26 [Unknown] - 01 Hourly News Intro And Bed
+19-May-2024 04:44:23 [Unknown] - 01 Hourly News Intro And Bed
+19-May-2024 04:45:53 [Unknown] - 04 Hourly Ender Sfx
+19-May-2024 05:00:22 [Unknown] - Ramp 4
+19-May-2024 05:00:53 [Unknown] - Usm Quality Policy Statement
+19-May-2024 05:01:58 [Unknown] - Kabacan Hymn
+19-May-2024 05:04:53 [Unknown] - Lupang Hinirang
+19-May-2024 05:05:40 Axl Duran - KoolFM Jingle
+19-May-2024 05:08:22 [Unknown] - Shotgun 5
+19-May-2024 05:08:24 Hillsong - Hillsong - At The Cross
+19-May-2024 05:14:45 Hillsongs - Hillsong - Eagle's Wings
+19-May-2024 05:19:08 [Unknown] - Iba Gid 3
+19-May-2024 05:19:13 [Unknown] - Iba Gid 10
+19-May-2024 05:19:17 Hillsong United - Glory
+19-May-2024 05:26:53 Hillsong - Awesome God
+19-May-2024 05:31:56 [Unknown] - Iba Gid 5
+19-May-2024 05:32:01 [Unknown] - Tanglaw Ng Buhay 2014 Id
+19-May-2024 05:33:23 [Unknown] - Tanglaw Ng Buhay Pgm Bed
+19-May-2024 05:39:37 Gary Valenciano - Natutulog Ba Ang Diyos?
+19-May-2024 05:44:06 [Unknown] - Tanglaw Ng Buhay Pgm Bed
+19-May-2024 06:33:11 [Unknown] - Iba Gid 6
+19-May-2024 06:33:16 [Unknown] - Gpg Business
+19-May-2024 06:33:51 [Unknown] - Rjo Japan Surplus 2023
+19-May-2024 06:34:28 [Unknown] - Cornelio Gesta Mx3
+19-May-2024 06:34:58 [Unknown] - Shotgun 4
+19-May-2024 06:35:02 Mag - Exercise Tayo- Yoyoy
+19-May-2024 06:37:07 Sexbomb Girls - Sumayaw Sumunod
+19-May-2024 06:40:01 [Unknown] - Iba Gid 7
+19-May-2024 06:40:06 Yoyoy Villame - Nasaan Ka Darling
+19-May-2024 06:42:22 Jaya - Dahil Tanging Ikaw
+19-May-2024 06:46:03 [Unknown] - Iba Gid 8
+19-May-2024 06:46:09 Rodel Naval - Lumayo Ka Man Sa Akin
+19-May-2024 06:50:09 Butsikik - Yoyoy
+19-May-2024 06:52:43 Ilocano - Mabuhay Singers - Manang Biday (Filipino Ilocano
+19-May-2024 06:55:08 [Unknown] - Iba Gid 5
+19-May-2024 06:55:13 Boy Sullivan - Bikining Itim
+19-May-2024 06:58:01 Haring Solomon - Haring Solomon & Ermar
+19-May-2024 07:00:38 [Unknown] - Iba Gid 4
+19-May-2024 07:00:44 [Unknown] - Gpg Tripeople
+19-May-2024 07:01:45 [Unknown] - Ariben Soap Doming 2022
+19-May-2024 07:02:49 [Unknown] - Scdl Kabacan 2023
+19-May-2024 07:03:52 [Unknown] - Menro 1 2023
+19-May-2024 07:04:35 [Unknown] - Emma Baldonado Mx3
+19-May-2024 07:05:01 [Unknown] - Gpg Testimony1
+19-May-2024 07:05:59 [Unknown] - 1st Valley Bank Deposit
+19-May-2024 07:06:30 [Unknown] - Shotgun 2
+19-May-2024 07:06:33 Boy Sullivan - Boy Sullivan - May Pulis Sa Il
+19-May-2024 07:10:27 Pobre Walay Suerte - Max& Yoyoy-ok
+19-May-2024 07:12:38 [Unknown] - Iba Gid 4
+19-May-2024 07:12:44 Happy Happy Birthday - Roel Cortez
+19-May-2024 07:16:21 ~Bakit Papa.mp3 - Bakit Papa
+19-May-2024 07:19:50 [Unknown] - Iba Gid 4
+19-May-2024 07:19:56 Yoyoy - Magellan
+19-May-2024 07:22:22 Asin - Masdan Mo Ang Kapaligiran
+19-May-2024 07:26:20 [Unknown] - Iba Gid 4
+19-May-2024 07:26:26 Celeste Legaspi - Saranggola Ni Pepe
+19-May-2024 07:28:34 Manila - Hotdog
+19-May-2024 07:31:32 [Unknown] - Iba Gid 2
+19-May-2024 07:31:36 Sinisinta Kita - Mabuhay Singers
+19-May-2024 07:34:26 Eva Eugenio - Ano ang gagawin kapag wala ka
+19-May-2024 07:37:40 [Unknown] - More Oldies 4
+19-May-2024 07:37:44 [Unknown] - Iba Gid 2
+19-May-2024 07:37:48 Usahay - Dulce
+19-May-2024 07:40:58 Mangingilad - Yoyoy
+19-May-2024 07:43:56 ~Imo Pa Karon.mp3 - Imo Pa Karon
+19-May-2024 07:46:59 [Unknown] - Iba Gid 4
+19-May-2024 07:47:06 [Unknown] - Hotdog-Pers Lab
+19-May-2024 07:49:40 [Unknown] - Sa Libis Ng Nayon
+19-May-2024 07:52:34 [Unknown] - Iba Gid 6
+19-May-2024 07:52:38 Artist - Balatkayo - Anthony Castelo
+19-May-2024 07:55:48 Cinderella - Superstar Ng Buhay Ko
+19-May-2024 07:58:48 [Unknown] - Iba Gid 5
+19-May-2024 07:58:53 [Unknown] - Oldies Back 2 Back
+19-May-2024 07:59:17 ~Carmelita.mp3 - Carmelita
+19-May-2024 08:01:53 ~TeenageSenorita.mp3 - Teenage Senorita
+19-May-2024 08:04:32 [Unknown] - More Oldies 1
+19-May-2024 08:04:36 Juan Dela Cruz Band - No Touch
+19-May-2024 08:09:31 ~SadMovies.mp3 - Sad Movies
+19-May-2024 08:12:39 [Unknown] - More Oldies 3
+19-May-2024 08:12:43 Edgar Mortiz - My Pledge Of Love
+19-May-2024 08:16:11 ~OneMoreChance.mp3 - One More Chance
+19-May-2024 08:19:04 [Unknown] - More Oldies 3
+19-May-2024 08:19:08 Eddie Hodge - I'm Gonna Knock On Your Door
+19-May-2024 08:21:09 ~Itsy Bitsy Teenie..........mp3 - Itsy Bitsy Teenie.........
+19-May-2024 08:23:27 [Unknown] - More Oldies 4
+19-May-2024 08:23:32 [Unknown] - Come What May
+19-May-2024 08:27:20 ~Sincerely.mp3 - Sincerely
+19-May-2024 08:30:16 [Unknown] - More Oldies 3
+19-May-2024 08:30:20 Mary Mcgregor - Torn Between Two Lovers
+19-May-2024 08:33:52 Morris Albert - Feelings
+19-May-2024 08:37:22 [Unknown] - More Oldies 5
+19-May-2024 08:37:26 Engelbert Humperdinck - Release Me
+19-May-2024 08:40:40 ~DontEverGo.mp3 - Don't Ever Go
+19-May-2024 08:43:43 [Unknown] - More Oldies 1
+19-May-2024 08:43:47 ~TogetherAgain.mp3 - Together Again
+19-May-2024 08:46:02 ~DontCryJoni.mp3 - Don't Cry Joni
+19-May-2024 08:50:19 [Unknown] - More Oldies 4
+19-May-2024 08:50:24 One Friend - Dan Seals
+19-May-2024 08:53:19 David Pomeranz - Devoted To You
+19-May-2024 08:56:09 ~CLASS1A MICHAEL BOLTON-SAID I LOVED YOU BUT I LIED.MP3 - Class1a Michael Bolton-S Aid I Loved You But I Lied
+19-May-2024 09:01:04 [Unknown] - More Oldies 1
+19-May-2024 09:01:08 [Unknown] - Kool Fm Cut 3
+19-May-2024 09:01:43 [Unknown] - Mb Kaligtasan 4
+19-May-2024 09:02:01 [Unknown] - Dxvl Init Wais Devplug 24
+19-May-2024 09:03:05 [Unknown] - Toh Id 2018 Latest
+19-May-2024 09:03:29 [Unknown] - Shotgun 3
+19-May-2024 09:03:32 Roxette - Listen To Your Heart
+19-May-2024 09:08:43 If - Cr 1 Bread
+19-May-2024 09:11:10 [Unknown] - More Oldies 5
+19-May-2024 09:11:13 Lonestar - Amazed
+19-May-2024 09:15:03 Michael Learns To Rock - That's Why You Go Away
+19-May-2024 09:19:10 [Unknown] - More Oldies 3
+19-May-2024 09:19:14 [Unknown] - Gpg Ligtas 2023
+19-May-2024 09:20:17 [Unknown] - Dxvl Claver 2023
+19-May-2024 09:20:48 [Unknown] - Ferly Abangan Mx3
+19-May-2024 09:21:17 [Unknown] - Rjo Japan Surplus 2023
+19-May-2024 09:21:55 [Unknown] - Shotgun 3
+19-May-2024 09:21:58 Michael Learns To Rock - Sleeping Child
+19-May-2024 09:25:24 Air Supply - Two Less Lonely People In The
+19-May-2024 09:29:15 [Unknown] - More Oldies 3
+19-May-2024 09:29:19 Kenny Rogers - You Decorated My Life
+19-May-2024 09:32:49 Lobo - How Can I Tell Her
+19-May-2024 09:36:53 Artist - Bluer Than Blue
+19-May-2024 09:39:37 [Unknown] - More Oldies 5
+19-May-2024 09:39:41 [Unknown] - Scdl Kabacan 2023
+19-May-2024 09:40:44 [Unknown] - Menro 2 2023
+19-May-2024 09:41:34 [Unknown] - Jay Failanga 30s 1
+19-May-2024 09:42:04 [Unknown] - Gpg Testimony2
+19-May-2024 09:42:58 [Unknown] - Superama Anniversary 2024
+19-May-2024 09:43:44 [Unknown] - Shotgun 3
+19-May-2024 09:43:47 Richard Marx - Now And Forever
+19-May-2024 09:47:14 Bread - Make It With You
+19-May-2024 09:50:19 [Unknown] - Iba Gid 3
+19-May-2024 09:50:24 Rey Valera - Kung Tayo'y Magkakalayo
+19-May-2024 09:53:34 Willie Revillame - Kung Para Sayo
+19-May-2024 09:57:56 [Unknown] - More Oldies 1
+19-May-2024 09:58:00 Katrina Velarde - Lason Mong Halik
+19-May-2024 10:01:54 [Unknown] - Iba Gid Short 11
+19-May-2024 10:01:57 [Unknown] - Kool Fm Cut 2
+19-May-2024 10:02:17 [Unknown] - Osb Sumvac Blowbagets
+19-May-2024 10:03:03 [Unknown] - Dxvl Init Wais Devplug 24
+19-May-2024 10:04:07 [Unknown] - Toh Id 2018 Latest
+19-May-2024 10:04:31 Roel Cortez - Sa Mata Makikita
+19-May-2024 10:08:24 [Unknown] - Kool Fm Sting Short
+19-May-2024 10:08:27 Jerome Abalos - Larawang Kupas
+19-May-2024 10:12:42 Dj Ng Aking Radyo - April Boy Regino
+19-May-2024 10:16:50 [Unknown] - Kool Fm Cut 4
+19-May-2024 10:17:18 Sabi Mo Ako Lamang - By Men Oppose
+19-May-2024 10:21:00 Regine Velasques - Minsan Lang Kitang Iibigin
+19-May-2024 10:24:34 [Unknown] - Krisha Buena Mx3
+19-May-2024 10:25:04 [Unknown] - Ariben Soap Anwar 2022
+19-May-2024 10:25:58 [Unknown] - Rjo Japan Surplus 2023
+19-May-2024 10:26:35 Vina Morales - Maging Sino Ka Man
+19-May-2024 10:29:51 Josh Garcia - Ikaw Ang Iibigin Ko
+19-May-2024 10:34:33 [Unknown] - Iba Gid 10
+19-May-2024 10:34:39 [Unknown] - Shotgun 3
+19-May-2024 10:34:42 Renz Verano - Dahil Minamahal Kita
+19-May-2024 10:38:07 Artist - Tukso - Eva Eugenio
+19-May-2024 10:41:31 [Unknown] - Jwireless Plug 2017
+19-May-2024 10:42:30 [Unknown] - Exl Makabuhay Jingle (42s)
+19-May-2024 10:43:12 [Unknown] - Lucky 9 Kilig Bridge
+19-May-2024 10:43:28 [Unknown] - Kool Fm Cut 2
+19-May-2024 10:43:48 Lloyd Umali - Bakit Kung Sino Pa
+19-May-2024 10:48:13 Father & Son - Sigaw Ng Puso
+19-May-2024 10:53:48 [Unknown] - Iba Gid 5
+19-May-2024 10:53:53 Ogie Alcasid - Paano Ba Ang Mag-isa
+19-May-2024 10:58:03 Ogie Alcasid - Paano Ba Ang Mag-isa
+19-May-2024 11:02:13 [Unknown] - Kool Fm Cut 2
+19-May-2024 11:02:33 [Unknown] - Kool Fm Cut 4
+19-May-2024 11:03:02 [Unknown] - Osb Lindol General 2
+19-May-2024 11:03:45 [Unknown] - Dxvl Init Wais Devplug 24
+19-May-2024 11:04:49 [Unknown] - Toh Id 2018 Latest
+19-May-2024 11:05:13 [Unknown] - Joy--Touch By Touch--With Lyrics Put On By Jen-Wei Jen
+19-May-2024 11:08:53 Modern Talking - Brother Louie
+19-May-2024 11:12:27 [Unknown] - Kool Fm Sting Short
+19-May-2024 11:12:29 [Unknown] - Iba Gid 9
+19-May-2024 11:12:33 The Tramps - Disco Inferno (Burn Baby Burn)
+19-May-2024 11:16:00 Little Eva - The Locomotion
+19-May-2024 11:18:13 [Unknown] - Kool Fm Cut 1
+19-May-2024 11:18:37 ~You're a Woman Im A Man.MP3 - You'Re A Woman I'm A Man
+19-May-2024 11:22:23 [Unknown] - Jay Failanga 30s 1
+19-May-2024 11:22:52 [Unknown] - Kool Fm Cut 2
+19-May-2024 11:23:12 [Unknown] - Iba Gid Short 14
+19-May-2024 11:23:15 Hilary Duff - Material Girl
+19-May-2024 11:26:45 Lou Sern - Swiss Boy
+19-May-2024 11:31:45 [Unknown] - Kool Fm Sting Short
+19-May-2024 11:31:47 Torch - Build Me Up Buttercup
+19-May-2024 11:34:56 Artist - Dangerous
+19-May-2024 11:38:35 [Unknown] - Iba Gid Short 8
+19-May-2024 11:38:39 Together In Electric Dreams - Disco80shuman League
+19-May-2024 11:42:21 [Unknown] - Menro 1 2023
+19-May-2024 11:43:05 [Unknown] - Ariben Soap Hashim 2022
+19-May-2024 11:44:20 [Unknown] - Superama Anniversary 2024
+19-May-2024 11:45:06 Joy - Black Is Black (Extended)
+19-May-2024 11:49:29 Marsha Raven - Catch Me
+19-May-2024 11:54:19 [Unknown] - Kool Fm Cut 3
+19-May-2024 11:54:55 Laura Branigan - Gloria
+19-May-2024 11:58:40 [Unknown] - Kool Fm Cut 1
+19-May-2024 11:59:05 [Unknown] - Kool Fm Cut 2
+19-May-2024 11:59:25 [Unknown] - Kool Fm Sting Short
+19-May-2024 11:59:27 [Unknown] - Iba Gid Short 15
+19-May-2024 11:59:29 [Unknown] - Islamic Verse
+19-May-2024 12:00:14 [Unknown] - Angelus
+19-May-2024 12:02:48 [Unknown] - Mb Panalangin 10
+19-May-2024 12:03:09 [Unknown] - Osb Sumvac Blowbagets
+19-May-2024 12:03:55 [Unknown] - Dxvl Init Wais Devplug 24
+19-May-2024 12:04:59 [Unknown] - Toh Id 2018 Latest
+19-May-2024 12:05:20 Bon Jovi - Livin' On A Prayer
+19-May-2024 12:09:04 I Want To Break Free - Queen
+19-May-2024 12:13:10 ~DISCO80SDONT CRY.mp3 - Disco80sdont Cry
+19-May-2024 12:16:43 [Unknown] - Iba Gid Short 15
+19-May-2024 12:16:45 Bubbels - Disco Sanfrancisco
+19-May-2024 12:20:11 ~DISCO80SBLUE KISS.mp3 - Disco80sblue Kiss
+19-May-2024 12:24:34 [Unknown] - Jwireless 2021
+19-May-2024 12:25:52 [Unknown] - Lucky 9 Id 1
+19-May-2024 12:26:19 ~DISCO80SBOYS DO FALL N LOV.mp3 - Disco80sboys Do Fall N Lov
+19-May-2024 12:31:18 [Unknown] - More Oldies 1
+19-May-2024 12:31:22 ~DISCO80STAKE ON ME.mp3 - Disco80stake On Me
+19-May-2024 12:34:55 [Unknown] - Iba Gid Short 12
+19-May-2024 12:34:58 ~DISCO80SU R A WOMAN.mp3 - Disco80su R A Woman
+19-May-2024 12:38:23 Selection - It's My Life (Disco Ver.)
+19-May-2024 12:42:50 [Unknown] - Ariben Soap Marie 2022
+19-May-2024 12:44:08 [Unknown] - Angielyn Bautista Mx3
+19-May-2024 12:44:38 [Unknown] - Rjo Japan Surplus 2023
+19-May-2024 12:45:15 Donna Summers - Funky Town
+19-May-2024 12:49:01 Little Eva - The Locomotion
+19-May-2024 12:51:14 [Unknown] - Kool Fm Cut 1
+19-May-2024 12:51:39 Rick Astley - Together Forever
+19-May-2024 12:54:54 Robin Gibb - Boys Do Fall In Love
+19-May-2024 12:58:54 [Unknown] - Kool Fm Sting Short
+19-May-2024 12:58:56 [Unknown] - Kool Fm Cut 3
+19-May-2024 12:59:32 [Unknown] - Osb Lindol General
+19-May-2024 13:00:27 [Unknown] - Dxvl Init Wais Devplug 24
+19-May-2024 13:01:31 [Unknown] - Toh Id 2018 Latest
+19-May-2024 13:01:55 [Unknown] - Iba Gid Short 15
+19-May-2024 13:01:57 England Dan & John Ford Coley - Just Tell Me You Love Me
+19-May-2024 13:04:34 America - All My Life
+19-May-2024 13:07:30 [Unknown] - Kool Fm Sting Short
+19-May-2024 13:07:32 David Gates - Take Me Now
+19-May-2024 13:10:42 John O' Banion - I Don't Wanna Lose Your Love
+19-May-2024 13:13:51 [Unknown] - Kool Fm Cut 1
+19-May-2024 13:14:16 David Slater - Exchange Of Heart
+19-May-2024 13:17:43 Bread - Lost Without Your Love
+19-May-2024 13:20:30 [Unknown] - Iba Gid Short 13
+19-May-2024 13:20:33 Nicole Kidman - Come What May
+19-May-2024 13:25:14 [Unknown] - Ariben Soap Marie 2022
+19-May-2024 13:26:33 [Unknown] - Menro 2 2023
+19-May-2024 13:27:23 [Unknown] - Gpg Smoking 2023
+19-May-2024 13:28:15 [Unknown] - Black Diamond 200 Sc 2022 Plug
+19-May-2024 13:29:22 Phil Collins - One More Night
+19-May-2024 13:35:23 Stuck On You - L. Richie
+19-May-2024 13:38:25 Chicago - Hard To Say I'm Sorry (Edit)
+19-May-2024 13:41:53 [Unknown] - Dxvl Claver 2023
+19-May-2024 13:42:24 [Unknown] - Ariben Soap Hazel 2022
+19-May-2024 13:43:34 [Unknown] - Kool Fm Sting Short
+19-May-2024 13:43:36 [Unknown] - Iba Gid 8
+19-May-2024 13:43:42 Here For You - Firehouse
+19-May-2024 13:47:29 Bread - Aubrey
+19-May-2024 13:51:01 [Unknown] - More Oldies 3
+19-May-2024 13:51:05 Maybe This Time - Michael Murphey
+19-May-2024 13:54:11 Jim Photoglo - The Will Of The Wind
+19-May-2024 13:57:42 [Unknown] - Kool Fm Sting Short
+19-May-2024 13:57:44 David Pomeranz - Born For You
+19-May-2024 14:01:30 [Unknown] - Kool Fm Cut 4
+19-May-2024 14:01:59 [Unknown] - Osb Sumvac Blowbagets
+19-May-2024 14:02:45 [Unknown] - Dxvl Init Wais Devplug 24
+19-May-2024 14:03:49 [Unknown] - Toh Id 2018 Latest
+19-May-2024 14:04:13 [Unknown] - Iba Gid Short 4
+19-May-2024 14:04:17 Kenny Rogers - Through The Years
+19-May-2024 14:07:35 Friends For All - That's What Friends Are For
+19-May-2024 14:11:32 [Unknown] - Kool Fm Sting Short
+19-May-2024 14:11:35 If - Cr 1 Bread
+19-May-2024 14:14:02 You Are My Religion - Firehouse
+19-May-2024 14:17:56 [Unknown] - More Oldies 4
+19-May-2024 14:18:00 [Unknown] - Iba Gid Short 1
+19-May-2024 14:18:04 Sinead O Connor - Nothing Compares To You
+19-May-2024 14:22:55 Top Agro Frontliner 200 - June 2023
+19-May-2024 14:23:36 [Unknown] - Superama Anniversary 2024
+19-May-2024 14:24:22 [Unknown] - Jwireless Plug 2017
+19-May-2024 14:25:18 ~CR1 What matter most-Kenny Rankins.mp3 - Cr1 What Matter Most-Kenny Rankins
+19-May-2024 14:28:17 Bee Gees - How Deep Is Your Love
+19-May-2024 14:32:10 [Unknown] - Kool Fm Sting Short
+19-May-2024 14:32:12 ~sometimes when we touch.mp3 - Sometimes When We Touch
+19-May-2024 14:36:06 Bon Jovi - Bed Of Roses
+19-May-2024 14:42:20 [Unknown] - Menro 2 2023
+19-May-2024 14:43:10 [Unknown] - Gpg Testimony3
+19-May-2024 14:43:49 Dennis Trillo - All Out Of Love
+19-May-2024 14:47:23 [Unknown] - Iba Gid Short 2
+19-May-2024 14:47:26 Michael Learns To Rock - Take Me To Your Heart
+19-May-2024 14:51:19 [Unknown] - 1st Valley Bank Deposit
+19-May-2024 14:51:49 Keanne - Somewhere Only We Know
+19-May-2024 14:55:33 Artist - The Past
+19-May-2024 14:58:48 James Ingram - Just Once
+19-May-2024 15:03:10 [Unknown] - Kool Fm Cut 3
+19-May-2024 15:03:45 [Unknown] - Islamic Verse
+19-May-2024 15:04:30 [Unknown] - The New 3 O'C Lock Prayer
+19-May-2024 15:05:44 [Unknown] - Mb Panalangin 11
+19-May-2024 15:06:24 [Unknown] - Dxvl Init Wais Devplug 24
+19-May-2024 15:07:28 [Unknown] - Toh Id 2018 Latest
+19-May-2024 15:07:52 [Unknown] - Iba Gid Short 9
+19-May-2024 15:07:55 Wonderful Tonight - Eric Clapton
+19-May-2024 15:11:27 ~01 Right Here Waiting.mp3 - 01 Right Here Waiting
+19-May-2024 15:15:34 [Unknown] - Kool Fm Cut 1
+19-May-2024 15:15:59 Every Breath You Take - 07-U B40
+19-May-2024 15:19:38 Dan Byrd - Boulevard
+19-May-2024 15:23:11 [Unknown] - Cornelio Gesta Mx3
+19-May-2024 15:23:41 [Unknown] - Gpg Smoking 2023
+19-May-2024 15:24:34 [Unknown] - Kool Fm Sting Short
+19-May-2024 15:24:36 Hello - L. Richie
+19-May-2024 15:28:32 Bee Gees - To Love Somebody
+19-May-2024 15:31:22 [Unknown] - More Oldies 4
+19-May-2024 15:31:27 Tears In Heaven - Eric Clapton
+19-May-2024 15:36:00 Love Of A Lifetime - Firehouse
+19-May-2024 15:40:40 [Unknown] - Ariben Soap Doming 2022
+19-May-2024 15:41:42 [Unknown] - Gpg Tripeople
+19-May-2024 15:42:44 [Unknown] - Angielyn Bautista Mx3
+19-May-2024 15:43:14 [Unknown] - Iba Gid 9
+19-May-2024 15:43:17 Hinder - Lips of an Angel
+19-May-2024 15:47:29 Journey - Faithfully
+19-May-2024 15:51:50 [Unknown] - Kool Fm Cut 2
+19-May-2024 15:52:07 Super Junior - She's Gone
+19-May-2024 15:56:33 No Arms Can Ever Hold You - Chris Norman
+19-May-2024 16:00:15 [Unknown] - More Oldies 3
+19-May-2024 16:00:19 [Unknown] - Kool Fm Cut 2
+19-May-2024 16:00:39 [Unknown] - Kool Fm Cut 3
+19-May-2024 16:01:14 [Unknown] - Osb Sumvac Blowbagets
+19-May-2024 16:02:01 [Unknown] - Dxvl Init Wais Devplug 24
+19-May-2024 16:03:04 [Unknown] - Toh Id 2018 Latest
+19-May-2024 16:03:28 Bigay Ka Ng Maykapal - Nyt Lumenda
+19-May-2024 16:07:21 J. Brothers Band - Sanay Bigyan Mo Ng Pansin
+19-May-2024 16:11:12 [Unknown] - Kool Fm Cut 1
+19-May-2024 16:11:37 Larawang Kupas - Jerome Abalos
+19-May-2024 16:15:52 Freddie Aguilar - Buhay Nga Naman Ng Tao
+19-May-2024 16:18:53 Willie Revillame - Kung Para Sayo
+19-May-2024 16:23:15 [Unknown] - Rjo Japan Surplus 2023
+19-May-2024 16:23:52 [Unknown] - Gpg Business
+19-May-2024 16:24:28 [Unknown] - Emma Baldonado Mx3
+19-May-2024 16:24:53 [Unknown] - Gpg Testimony1
+19-May-2024 16:25:52 [Unknown] - 1st Valley Bank Loan
+19-May-2024 16:26:23 [Unknown] - Iba Gid 8
+19-May-2024 16:26:29 Rivermaya - 214
+19-May-2024 16:30:53 Top Suzara - Sabihin Mo Na
+19-May-2024 16:35:26 [Unknown] - Kool Fm Sting Short
+19-May-2024 16:35:29 Siakol - Bakit Ba
+19-May-2024 16:40:09 Cueshe - Ulan
+19-May-2024 16:45:13 [Unknown] - Menro 1 2023
+19-May-2024 16:45:57 [Unknown] - Ferly Abangan Mx3
+19-May-2024 16:46:26 [Unknown] - Dxvl Tobli 2023
+19-May-2024 16:47:15 Eraserheads - Kisapmata
+19-May-2024 16:51:50 Callalily - Callalily - Magbalik
+19-May-2024 16:57:11 [Unknown] - Kool Fm Cut 3
+19-May-2024 16:57:47 Parokya Ni Edgar - Gitara
+19-May-2024 17:01:44 [Unknown] - Kool Fm Cut 2
+19-May-2024 17:02:04 [Unknown] - Osb Lindol Tips 1
+19-May-2024 17:02:58 [Unknown] - Dxvl Init Wais Devplug 24
+19-May-2024 17:04:02 [Unknown] - Toh Id 2018 Latest
+19-May-2024 17:04:25 [Unknown] - Shotgun 1
+19-May-2024 17:04:30 Tensionado - Soapdish
+19-May-2024 17:07:42 Halik - Kamikazee
+19-May-2024 17:11:20 [Unknown] - Rakrakan Stinger 1
+19-May-2024 17:11:25 Artist - 13 Martyr Nyebera-kamikazee
+19-May-2024 17:16:46 The Scipt - Superheroes
+19-May-2024 17:20:37 [Unknown] - Rakrakan Stinger 2
+19-May-2024 17:20:42 [Unknown] - Gpg Business
+19-May-2024 17:21:17 [Unknown] - Ariben Soap Marie 2022
+19-May-2024 17:22:36 [Unknown] - Gpg Smoking 2023
+19-May-2024 17:23:29 [Unknown] - Krisha Buena Mx3
+19-May-2024 17:23:58 [Unknown] - Shotgun 6
+19-May-2024 17:24:02 Cueshe - Ulan
+19-May-2024 17:29:06 I'll Be - Edwin Mc Cain (Origina)
+19-May-2024 17:33:23 [Unknown] - Rakrakan Stinger 2
+19-May-2024 17:33:28 Artist - 05 Bagsakan-parokya Ni Edgar
+19-May-2024 17:36:40 Eagles - Hotel California
+19-May-2024 17:43:01 [Unknown] - Rakrakan Stinger 1
+19-May-2024 17:43:06 [Unknown] - Emma Baldonado Mx3
+19-May-2024 17:43:31 [Unknown] - Scdl Kabacan 2023
+19-May-2024 17:44:34 [Unknown] - Gpg Ligtas 2023
+19-May-2024 17:45:38 [Unknown] - Lucky 9 Id 1
+19-May-2024 17:46:04 [Unknown] - Shotgun 6
+19-May-2024 17:46:07 ~Jeepney-Sponge Cola.MP3 - Jeepney-Sponge Cola
+19-May-2024 17:49:44 Pangako - Cueshe
+19-May-2024 17:53:10 [Unknown] - Iba Gid 6
+19-May-2024 17:53:15 Silent Sanctuary - Rebound
+19-May-2024 17:57:41 Parokya Ni Edgar - Mahal Na Kung Mahal
+19-May-2024 18:00:33 [Unknown] - Rakrakan Stinger 2
+19-May-2024 18:00:39 [Unknown] - Kool Fm Cut 3
+19-May-2024 18:01:14 [Unknown] - Islamic Verse
+19-May-2024 18:01:58 [Unknown] - Mb Panalangin 5
+19-May-2024 18:02:28 [Unknown] - Dxvl Init Wais Devplug 24
+19-May-2024 18:03:32 [Unknown] - Toh Id 2018 Latest
+19-May-2024 18:03:56 [Unknown] - Shotgun 6
+19-May-2024 18:03:59 The Vamps - Oh Cecilia (Breaking My Heart)
+19-May-2024 18:07:12 Taylor Swift - Blank Space
+19-May-2024 18:11:02 [Unknown] - Iba Gid 5
+19-May-2024 18:11:07 [Unknown] - Better When I'm Dancing By Meghan Trainor Zumba® Live Love
+19-May-2024 18:14:00 [Unknown] - Marry Your Daughter
+19-May-2024 18:17:34 [Unknown] - Iba Gid 10
+19-May-2024 18:17:40 [Unknown] - Rnb Magsaing Na
+19-May-2024 18:17:48 [Unknown] - Gpg Smoking 2023
+19-May-2024 18:18:40 [Unknown] - Ferly Abangan Mx3
+19-May-2024 18:19:10 [Unknown] - Shotgun 3
+19-May-2024 18:19:13 James Arthur - Say You Won't Let Go
+19-May-2024 18:22:36 Zedd, Alessia Cara - Stay [Clean]
+19-May-2024 18:26:06 [Unknown] - Iba Gid 4
+19-May-2024 18:26:12 Clean Bandit - Rockabye Ft. Sean Paul
+19-May-2024 18:30:18 Ariana Grande - We Can't Be Friends
+19-May-2024 18:34:04 [Unknown] - Iba Gid 4
+19-May-2024 18:34:10 Bini - Pantropiko
+19-May-2024 18:38:29 [Unknown] - Palagi Tj Monterde (320k)
+19-May-2024 18:41:55 [Unknown] - Iba Gid 3
+19-May-2024 18:42:00 [Unknown] - Ariben Soap Doming 2022
+19-May-2024 18:43:04 [Unknown] - Jwireless 2021
+19-May-2024 18:44:22 [Unknown] - Angielyn Bautista Mx3
+19-May-2024 18:44:51 [Unknown] - Shotgun 3
+19-May-2024 18:44:54 Bini - Salamin Salamin
+19-May-2024 18:48:43 Taylor Swift - Cruel Summer
+19-May-2024 18:51:38 [Unknown] - Iba Gid 3
+19-May-2024 18:51:42 [Unknown] - Rom Com Rob Deniel Edited
+19-May-2024 18:56:05 Rob Deniel - Miss Miss Official
+19-May-2024 19:00:25 [Unknown] - Iba Gid 5
+19-May-2024 19:00:30 [Unknown] - Kool Fm Cut 2
+19-May-2024 19:00:50 [Unknown] - Islamic Verse
+19-May-2024 19:01:34 [Unknown] - Osb Sumvac Blowbagets
+19-May-2024 19:02:20 [Unknown] - Dxvl Init Wais Devplug 24
+19-May-2024 19:03:24 [Unknown] - Toh Id 2018 Latest
+19-May-2024 19:03:48 [Unknown] - Shotgun 5
+19-May-2024 19:03:53 Kisame - Rhodessa
+19-May-2024 19:08:21 Shoti - Ldr
+19-May-2024 19:10:57 Pdl - Sa Susunod Na Lang
+19-May-2024 19:14:21 [Unknown] - Iba Gid 5
+19-May-2024 19:14:25 Fifty Fifty - Cupid (Twin Version)
+19-May-2024 19:17:13 Arthur Nery - Isa Lang
+19-May-2024 19:21:33 [Unknown] - Iba Gid 3
+19-May-2024 19:21:38 [Unknown] - Rnb Dinner Na
+19-May-2024 19:21:46 [Unknown] - Jwireless 2021
+19-May-2024 19:23:04 [Unknown] - Krisha Buena Mx3
+19-May-2024 19:23:33 [Unknown] - Dxvl Claver 2023
+19-May-2024 19:24:04 [Unknown] - Shotgun 5
+19-May-2024 19:24:09 Greedy - Mc Rae Tate
+19-May-2024 19:26:21 Calein - Umaasa
+19-May-2024 19:31:37 [Unknown] - Take A Chance With Me Niki (320k)
+19-May-2024 19:36:33 [Unknown] - Iba Gid 4
+19-May-2024 19:36:40 Nobita - Ikaw Lang
+19-May-2024 19:40:55 Taylor Swift - Lover
+19-May-2024 19:44:46 [Unknown] - Iba Gid 2
+19-May-2024 19:44:50 [Unknown] - Doh Bida Solusyon
+19-May-2024 19:45:19 [Unknown] - Emma Baldonado Mx3
+19-May-2024 19:45:45 [Unknown] - Shotgun 6
+19-May-2024 19:45:48 [Unknown] - Snooze Sza (320k)
+19-May-2024 19:49:09 Jason Dhakal - Para Sa Akin
+19-May-2024 19:52:16 [Unknown] - Iba Gid 3
+19-May-2024 19:52:20 Coldplay - Yellow
+19-May-2024 19:56:42 [Unknown] - Nahuhulog Jed Baruelo (320k)
+19-May-2024 20:00:20 [Unknown] - Iba Gid 4
+19-May-2024 20:00:26 [Unknown] - Usm Quality Policy Statement
+19-May-2024 20:01:31 [Unknown] - Sign Off Spiel 2022

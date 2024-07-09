@@ -1,0 +1,435 @@
+16-Jun-2024 05:03:35 [Unknown] - Ramp 5
+16-Jun-2024 05:03:58 [Unknown] - Usm Quality Policy Statement
+16-Jun-2024 05:05:03 [Unknown] - Usm Beloved Jingle
+16-Jun-2024 05:07:37 [Unknown] - Lupang Hinirang
+16-Jun-2024 05:08:26 [Unknown] - Kool Fm Cut 3
+16-Jun-2024 05:09:01 [Unknown] - Kool Fm Cut 2
+16-Jun-2024 05:09:18 Hillsong United - Came to My Rescue
+16-Jun-2024 05:13:53 Hillsong Music - Great Is The Lord
+16-Jun-2024 05:18:48 [Unknown] - Jwireless 2021
+16-Jun-2024 05:20:06 [Unknown] - Ariben Soap Anwar 2022
+16-Jun-2024 05:21:01 [Unknown] - Gpg Ligtas 2023
+16-Jun-2024 05:22:04 [Unknown] - Shotgun 3
+16-Jun-2024 05:22:07 Hillsong - Hillsong - Follow the son
+16-Jun-2024 05:25:48 Hillsongs - Hillsong - Here I Am To Worshi
+16-Jun-2024 05:30:33 [Unknown] - Iba Gid 5
+16-Jun-2024 05:30:38 Hillsong - hillsong - Adonai
+16-Jun-2024 05:34:34 [Unknown] - Tanglaw Ng Buhay 2014 Id
+16-Jun-2024 05:35:56 [Unknown] - Tanglaw Ng Buhay Pgm Bed
+16-Jun-2024 05:41:26 ~Heal our land.mp3 - Heal Our Land
+16-Jun-2024 05:45:17 [Unknown] - Tanglaw Ng Buhay Pgm Bed
+16-Jun-2024 06:35:41 [Unknown] - Iba Gid 5
+16-Jun-2024 06:35:46 [Unknown] - Gpg Business
+16-Jun-2024 06:36:21 [Unknown] - Rjo Japan Surplus 2023
+16-Jun-2024 06:36:58 [Unknown] - Cornelio Gesta Mx3
+16-Jun-2024 06:37:28 [Unknown] - Agma Cotelco
+16-Jun-2024 06:38:10 [Unknown] - King Multipurpose 2023
+16-Jun-2024 06:38:45 [Unknown] - Ariben Soap Hashim 2022
+16-Jun-2024 06:40:00 [Unknown] - Shotgun 3
+16-Jun-2024 06:40:03 Ilocano - Maka As-Asawa Ak
+16-Jun-2024 06:44:33 Fred Panopio - Ang Kawawang Cowboy
+16-Jun-2024 06:47:29 [Unknown] - Iba Gid 4
+16-Jun-2024 06:47:35 Boy Sullivan - Bikining Itim
+16-Jun-2024 06:50:23 Nasaan Ka Darling - Yoyoy
+16-Jun-2024 06:52:40 [Unknown] - Iba Gid 5
+16-Jun-2024 06:52:44 ~Dolor.mp3 - Dolor
+16-Jun-2024 06:55:54 Mitolu Na! - Max Surban
+16-Jun-2024 06:59:31 [Unknown] - Iba Gid 10
+16-Jun-2024 06:59:34 ilocano - bakla met gayam
+16-Jun-2024 07:03:34 Hugasan Sa Luha - Max Surban-ok
+16-Jun-2024 07:07:05 [Unknown] - Iba Gid 4
+16-Jun-2024 07:07:11 Celeste Legaspi - Mamang Sorbetero
+16-Jun-2024 07:10:09 Fred Panopio - Pitong Gatang
+16-Jun-2024 07:13:06 [Unknown] - Gpg-S Alapungan2
+16-Jun-2024 07:14:05 [Unknown] - Menro 1 2023
+16-Jun-2024 07:14:49 [Unknown] - Emma Baldonado Mx3
+16-Jun-2024 07:15:14 [Unknown] - Gpg Testimony1
+16-Jun-2024 07:16:13 [Unknown] - 1st Valley Bank Loan
+16-Jun-2024 07:16:43 [Unknown] - St Lukes 2024
+16-Jun-2024 07:17:43 [Unknown] - Agma Cotelco
+16-Jun-2024 07:18:24 [Unknown] - Scdl Kabacan 2023
+16-Jun-2024 07:19:27 [Unknown] - Shotgun 3
+16-Jun-2024 07:19:30 Asin - Usok
+16-Jun-2024 07:22:49 [Unknown] - Iba Gid 1
+16-Jun-2024 07:22:54 Butsikik - Yoyoy
+16-Jun-2024 07:25:28 Max Surban - Siya Bayot
+16-Jun-2024 07:27:41 Fred Panopio - Gloria Labandera
+16-Jun-2024 07:31:49 [Unknown] - Iba Gid 3
+16-Jun-2024 07:31:54 Ilocano - Mabuhay Singers - Manang Biday (Filipino Ilocano
+16-Jun-2024 07:34:19 Max Surban - Libakira
+16-Jun-2024 07:37:16 [Unknown] - Iba Gid 6
+16-Jun-2024 07:37:20 [Unknown] - Bugtong-B Ugtong By Florante
+16-Jun-2024 07:40:36 Turistang Bilmoko - Fred Panopio
+16-Jun-2024 07:44:18 [Unknown] - Iba Gid 8
+16-Jun-2024 07:44:23 Mag - Exercise Tayo- Yoyoy
+16-Jun-2024 07:46:28 Regine Velasquez - Urong Sulong
+16-Jun-2024 07:49:45 [Unknown] - Iba Gid 3
+16-Jun-2024 07:49:49 Bakit Sa'Y O Pa - Roel Cortez
+16-Jun-2024 07:52:26 Freddie Aguilar - problema
+16-Jun-2024 07:55:32 [Unknown] - Iba Gid 8
+16-Jun-2024 07:55:37 Celeste Legaspi - Sapagkat Kami ay Tao Lamang
+16-Jun-2024 07:58:43 [Unknown] - Pag Tumatagal Laong Tumitibay
+16-Jun-2024 08:02:57 [Unknown] - More Oldies 1
+16-Jun-2024 08:03:00 Coritha - Sierra Madre
+16-Jun-2024 08:06:52 Rey Valera - Kumusta Ka
+16-Jun-2024 08:09:42 [Unknown] - More Oldies 5
+16-Jun-2024 08:09:45 ~DontEverGo.mp3 - Don't Ever Go
+16-Jun-2024 08:12:48 ~DontCryJoni.mp3 - Don't Cry Joni
+16-Jun-2024 08:17:05 [Unknown] - More Oldies 5
+16-Jun-2024 08:17:09 ~YouAreMyDestiny.mp3 - You Are My Destiny
+16-Jun-2024 08:19:34 ~You Light Up My Life.mp3 - You Light Up My Life
+16-Jun-2024 08:23:04 [Unknown] - More Oldies 5
+16-Jun-2024 08:23:08 Tom Jones - Delilah
+16-Jun-2024 08:26:26 Marco Sison - Be My Lady
+16-Jun-2024 08:29:49 [Unknown] - More Oldies 4
+16-Jun-2024 08:29:53 Carpenters - Top Of The World
+16-Jun-2024 08:32:47 Ben E. King - Stand By Me
+16-Jun-2024 08:35:41 [Unknown] - More Oldies 3
+16-Jun-2024 08:35:45 Victor Wood - Beautiful Sunday
+16-Jun-2024 08:38:21 Doris Day - Doris Day - Never On Sunday
+16-Jun-2024 08:40:59 [Unknown] - More Oldies 1
+16-Jun-2024 08:41:03 Cascades - Rhythm Of The Rain
+16-Jun-2024 08:43:25 Sugar Sugar - F
+16-Jun-2024 08:46:08 [Unknown] - More Oldies 5
+16-Jun-2024 08:46:12 ~BAL ROCK VAN HELEN Oh Pretty Woman.mp3 - Bal Rock Van Helen Oh Pretty Woman
+16-Jun-2024 08:50:43 Kenny Rogers - Coward Of The Country
+16-Jun-2024 08:55:08 [Unknown] - More Oldies 1
+16-Jun-2024 08:55:12 ~GreenGreenGrassOfHomes.mp3 - Green Green Grass Of Homes
+16-Jun-2024 08:58:12 Louis Armstrong - What A Wonderful World
+16-Jun-2024 09:00:23 [Unknown] - More Oldies 4
+16-Jun-2024 09:00:27 ~YouNeededMe.mp3 - You Needed Me
+16-Jun-2024 09:04:01 [Unknown] - More Oldies 5
+16-Jun-2024 09:04:04 [Unknown] - Kool Fm Cut 3
+16-Jun-2024 09:04:40 [Unknown] - Mb Kaligtasan 11
+16-Jun-2024 09:05:02 [Unknown] - Toh Id 2018 Latest
+16-Jun-2024 09:05:25 [Unknown] - Shotgun 5
+16-Jun-2024 09:05:30 Engelbert Humperdinck - The Last Waltz
+16-Jun-2024 09:08:26 ~TogetherAgain.mp3 - Together Again
+16-Jun-2024 09:10:41 ~BAL ROCK ROD STEWART DA_YA_THINK_I_M_SEXY.MP3 - Bal Rock Rod Stewart Da Ya Think I M Sexy
+16-Jun-2024 09:14:55 Billy Joel - Uptown Girl
+16-Jun-2024 09:17:59 [Unknown] - More Oldies 5
+16-Jun-2024 09:18:03 [Unknown] - Gpg Ligtas 2023
+16-Jun-2024 09:19:06 [Unknown] - Ferly Abangan Mx3
+16-Jun-2024 09:19:36 [Unknown] - Rjo Japan Surplus 2023
+16-Jun-2024 09:20:13 [Unknown] - Shotgun 6
+16-Jun-2024 09:20:17 Matt Monro - Yesterday
+16-Jun-2024 09:23:00 Engelbert Humperdinck - Quando, Quando
+16-Jun-2024 09:49:36 [Unknown] - Kool Fm Sting Short
+16-Jun-2024 09:49:57 [Unknown] - Kool Fm Cut 1
+16-Jun-2024 09:50:22 Mamma Mia! The Movie - Dancing Queen
+16-Jun-2024 09:54:24 Meryl Streep - Mamma Mia
+16-Jun-2024 09:57:49 [Unknown] - Kool Fm Sting Short
+16-Jun-2024 09:57:51 Kenny Rogers - Island In The Stream
+16-Jun-2024 10:01:54 Cindy Lauper - Girls Just Wanna Have Fun
+16-Jun-2024 10:05:29 [Unknown] - Kool Fm Cut 2
+16-Jun-2024 10:05:49 [Unknown] - Osb Sumvac Blowbagets
+16-Jun-2024 10:06:36 [Unknown] - Toh Id 2018 Latest
+16-Jun-2024 10:06:59 Piolo Pascual - Closer You And I
+16-Jun-2024 10:10:43 Basil Valdez - You
+16-Jun-2024 10:14:37 [Unknown] - More Oldies 1
+16-Jun-2024 10:14:40 ~09_FRIEND_OF_MINE___ODETTE_.mp3 - 09 Friend Of Mine Odette
+16-Jun-2024 10:17:54 [Unknown] - Iba Gid Short 11
+16-Jun-2024 10:17:57 ~10_TO_LOVE_AGAIN___SHARON_C.mp3 - 10 To Love Again Sharon C
+16-Jun-2024 10:21:51 [Unknown] - Krisha Buena Mx3
+16-Jun-2024 10:22:21 [Unknown] - Ariben Soap Anwar 2022
+16-Jun-2024 10:23:16 [Unknown] - Rjo Japan Surplus 2023
+16-Jun-2024 10:23:53 [Unknown] - More Oldies 1
+16-Jun-2024 10:23:57 Kuh Ledesma - Till I Met You
+16-Jun-2024 10:27:09 Rachelle Ann Go - Don't Say Goodbye
+16-Jun-2024 10:31:28 [Unknown] - Kool Fm Sting Short
+16-Jun-2024 10:31:31 Juris - I Love You Goodbye
+16-Jun-2024 10:34:50 Apo Hiking Society - When I Meet You
+16-Jun-2024 10:38:58 [Unknown] - Iba Gid Short 13
+16-Jun-2024 10:39:01 Christian Bautista - So It's You
+16-Jun-2024 10:42:36 [Unknown] - Jwireless 2021
+16-Jun-2024 10:43:54 [Unknown] - Lucky 9 Id 1
+16-Jun-2024 10:44:21 [Unknown] - Agma Cotelco
+16-Jun-2024 10:45:03 Gary Valenciano - Destiny
+16-Jun-2024 10:47:50 [Unknown] - Kool Fm Cut 1
+16-Jun-2024 10:48:15 [Unknown] - Toh Id 2018 Latest
+16-Jun-2024 10:48:38 Regine - Tuwing Umuulan
+16-Jun-2024 10:53:32 Jaya - Dahil Tanging Ikaw
+16-Jun-2024 10:57:13 [Unknown] - More Oldies 1
+16-Jun-2024 10:57:17 Kyla - Hanggang Ngayon
+16-Jun-2024 11:00:57 [Unknown] - Kool Fm Cut 1
+16-Jun-2024 11:01:21 [Unknown] - Osb Lindol Tips 1
+16-Jun-2024 11:02:15 [Unknown] - Toh Id 2018 Latest
+16-Jun-2024 11:02:39 April Boy Regino - Muling Ibalik
+16-Jun-2024 11:06:21 Pops Fernandez - Bakit Ka Lilisan
+16-Jun-2024 11:10:13 [Unknown] - Kool Fm Sting Short
+16-Jun-2024 11:10:15 Sharon Cuneta - Kahit Maputi Na Ang Buhok Ko
+16-Jun-2024 11:13:28 gary v - di bale na lang
+16-Jun-2024 11:18:03 [Unknown] - More Oldies 4
+16-Jun-2024 11:18:08 Agot Isidro - Beginning Today
+16-Jun-2024 11:21:27 [Unknown] - Jay Failanga 30s 1
+16-Jun-2024 11:21:57 [Unknown] - Agma Cotelco
+16-Jun-2024 11:22:38 I Believe In You - Gino Padilla
+16-Jun-2024 11:26:52 [Unknown] - Iba Gid 2
+16-Jun-2024 11:26:56 Karel Marquez - Pangarap Ka
+16-Jun-2024 11:30:32 Apo Hiking Society - Paano
+16-Jun-2024 11:35:11 [Unknown] - More Oldies 5
+16-Jun-2024 11:35:15 Neocolours - Tuloy Pa Rin Ako
+16-Jun-2024 11:40:49 [Unknown] - Menro 1 2023
+16-Jun-2024 11:41:33 [Unknown] - Ariben Soap Hazel 2022
+16-Jun-2024 11:42:43 [Unknown] - Superama Anniversary 2024
+16-Jun-2024 11:43:29 New Artist - Paminsan - Minsan -  Zsa Zsa
+16-Jun-2024 11:47:44 Artist - Kay Tagal - Rachel Alejandro
+16-Jun-2024 11:51:12 [Unknown] - Kool Fm Sting Short
+16-Jun-2024 11:51:14 Joey Albert - Tell Me
+16-Jun-2024 11:53:56 Ariel Rivera - Ayoko Na Sana
+16-Jun-2024 11:57:06 [Unknown] - More Oldies 5
+16-Jun-2024 11:57:09 Martin Nievera - Kahit Isang Saglit
+16-Jun-2024 12:01:21 [Unknown] - Kool Fm Cut 3
+16-Jun-2024 12:01:56 [Unknown] - Islamic Verse
+16-Jun-2024 12:02:40 [Unknown] - Angelus
+16-Jun-2024 12:05:15 [Unknown] - Mb Panalangin 10
+16-Jun-2024 12:05:36 [Unknown] - Osb Sumvac Blowbagets
+16-Jun-2024 12:06:22 [Unknown] - Toh Id 2018 Latest
+16-Jun-2024 12:06:45 [Unknown] - Europe The Final Countdown
+16-Jun-2024 12:11:48 [Unknown] - Kool Fm Sting Short
+16-Jun-2024 12:11:51 Aqua - Barbie Girl Lyrics
+16-Jun-2024 12:15:02 [Unknown] - More Oldies 1
+16-Jun-2024 12:15:06 La Bouche - Be My Lover
+16-Jun-2024 12:18:55 Dee Lite - Groove Is In The Heart
+16-Jun-2024 12:23:59 [Unknown] - Jwireless 2021
+16-Jun-2024 12:25:17 [Unknown] - Lucky 9 Id 1
+16-Jun-2024 12:25:43 [Unknown] - St Lukes 2024
+16-Jun-2024 12:26:42 Greenday - Basket Case
+16-Jun-2024 12:29:37 Pussycat Dolls - Sway
+16-Jun-2024 12:32:43 [Unknown] - Iba Gid 10
+16-Jun-2024 12:32:49 Modern Talking - Brother Louise
+16-Jun-2024 12:37:59 Haddaway - What Is Love
+16-Jun-2024 12:42:24 [Unknown] - More Oldies 4
+16-Jun-2024 12:42:28 [Unknown] - Ariben Soap Hazel 2022
+16-Jun-2024 12:43:39 [Unknown] - Angielyn Bautista Mx3
+16-Jun-2024 12:44:08 [Unknown] - Rjo Japan Surplus 2023
+16-Jun-2024 12:44:45 Lou Bega - Mambo No. 5 (A Little Bit Of...) (Official Video)
+16-Jun-2024 12:48:16 [Unknown] - Kool Fm Sting Short
+16-Jun-2024 12:48:19 Mark Morrison - Return Of The Mack
+16-Jun-2024 12:51:44 Ricky Martin - Livin' La Vida Loca
+16-Jun-2024 12:55:43 Notorious B.I.G. (Biggie) - Hypnotized
+16-Jun-2024 12:59:30 [Unknown] - Kool Fm Cut 4
+16-Jun-2024 12:59:59 [Unknown] - Osb Lindol Tips 1
+16-Jun-2024 13:00:53 [Unknown] - Toh Id 2018 Latest
+16-Jun-2024 13:01:17 More Than Words - Extreme
+16-Jun-2024 13:06:46 Michael Johnson - I'll Always Love You (Acoustic
+16-Jun-2024 13:10:42 [Unknown] - More Oldies 5
+16-Jun-2024 13:10:46 ~CR1 ENGLAND DAN-ITS SAD 2BELONG.MP3 - Cr1 England Dan-I Ts Sad 2belong
+16-Jun-2024 13:13:27 Artist - Is It Ok If I Call You Mine?
+16-Jun-2024 13:16:01 [Unknown] - Iba Gid 2
+16-Jun-2024 13:16:04 Michael Johnson - Bluer Than Blue
+16-Jun-2024 13:18:48 Richard Marx - Now And Forever
+16-Jun-2024 13:22:14 [Unknown] - Ariben Soap Marie 2022
+16-Jun-2024 13:23:33 [Unknown] - Menro 2 2023
+16-Jun-2024 13:24:23 [Unknown] - Gpg Smoking 2023
+16-Jun-2024 13:25:15 Odette Quesada - I Love You More Now
+16-Jun-2024 13:28:49 [Unknown] - More Oldies 1
+16-Jun-2024 13:28:53 Jed Madela - How Can I Fall
+16-Jun-2024 13:33:11 England Dan & John Ford Coley - I'd Really Love To See You Ton
+16-Jun-2024 13:35:38 [Unknown] - Kool Fm Sting Short
+16-Jun-2024 13:35:41 ~i will.mp3 - I Will
+16-Jun-2024 13:38:31 Artist - Glory Of Love
+16-Jun-2024 13:42:44 [Unknown] - More Oldies 3
+16-Jun-2024 13:42:48 [Unknown] - Ariben Soraya 2020
+16-Jun-2024 13:43:38 [Unknown] - Agma Cotelco
+16-Jun-2024 13:44:18 Oj Mariano - If Ever Youre in my arms again
+16-Jun-2024 13:48:38 David Pomeranz - It Might Be You
+16-Jun-2024 13:53:18 [Unknown] - Kool Fm Sting Short
+16-Jun-2024 13:53:20 Dionne Warwick - Never Gonna Let You Go
+16-Jun-2024 13:57:55 Martin Nievera - You Take My Breath Away
+16-Jun-2024 14:02:02 [Unknown] - Kool Fm Cut 1
+16-Jun-2024 14:02:27 [Unknown] - Osb Sumvac Blowbagets
+16-Jun-2024 14:03:13 [Unknown] - Dxvl Init Wais Devplug 24
+16-Jun-2024 14:04:17 [Unknown] - Toh Id 2018 Latest
+16-Jun-2024 14:04:41 Phil Collins - Class1a Phil Collins Separate Lives
+16-Jun-2024 14:07:02 Why Do We Always Hurt The One We Love - Dan Hill
+16-Jun-2024 14:10:46 [Unknown] - More Oldies 3
+16-Jun-2024 14:10:50 Jim Photoglo - The Will Of The Wind
+16-Jun-2024 14:14:21 02 - You Don't Love Me Anymore
+16-Jun-2024 14:17:31 [Unknown] - Iba Gid 3
+16-Jun-2024 14:17:36 ~JAZZ MELLOW There's No Easy Way To Break.mp3 - Jazz Mellow There's No Easy Wa
+16-Jun-2024 14:21:19 [Unknown] - Jwireless 2021
+16-Jun-2024 14:22:37 [Unknown] - Superama Anniversary 2024
+16-Jun-2024 14:23:23 Bobby Caldwell - Take Me I'll Follow
+16-Jun-2024 14:28:27 ~Inspectormills.mp3 - Inspectormills
+16-Jun-2024 14:33:27 [Unknown] - More Oldies 4
+16-Jun-2024 14:33:32 She Loves Me (The Best That I Can Be) - James Ingram
+16-Jun-2024 14:37:01 Reason Why - John Farnham
+16-Jun-2024 14:40:29 [Unknown] - Kool Fm Sting Short
+16-Jun-2024 14:40:32 Imagine - John Lennon
+16-Jun-2024 14:43:28 Remember Me This Way - Jordan Hill
+16-Jun-2024 14:47:46 [Unknown] - More Oldies 5
+16-Jun-2024 14:47:50 When You Love A Woman - Journey
+16-Jun-2024 14:51:46 Mellowww - Just Another Woman In Love
+16-Jun-2024 14:54:30 Endless Love - L. Richie
+16-Jun-2024 14:58:38 [Unknown] - Iba Gid 4
+16-Jun-2024 14:58:44 Artist - Love Always Finds A Way
+16-Jun-2024 15:03:09 [Unknown] - Kool Fm Cut 2
+16-Jun-2024 15:03:28 [Unknown] - Islamic Verse
+16-Jun-2024 15:04:13 [Unknown] - The New 3 O'C Lock Prayer
+16-Jun-2024 15:05:26 [Unknown] - Mb Panalangin 2
+16-Jun-2024 15:05:45 [Unknown] - Toh Id 2018 Latest
+16-Jun-2024 15:06:08 Secondhand Serenade - Stay Close, Don't Go
+16-Jun-2024 15:09:32 Simple Plan - Welcome To My Life
+16-Jun-2024 15:12:50 [Unknown] - More Oldies 1
+16-Jun-2024 15:12:54 Bon Jovi - Always
+16-Jun-2024 15:18:32 ~ALWAYS_SOMEWHERE__SCORPIONS.MP3 - Always Somewhere Scorpions
+16-Jun-2024 15:23:22 [Unknown] - Kool Fm Sting Short
+16-Jun-2024 15:23:25 [Unknown] - Cornelio Gesta Mx3
+16-Jun-2024 15:23:54 [Unknown] - Gpg Smoking 2023
+16-Jun-2024 15:24:47 [Unknown] - Agma Cotelco
+16-Jun-2024 15:25:29 My Chemical Romance - The Ghost Of You
+16-Jun-2024 15:28:42 Amazing - Slow Rock Aerosmith
+16-Jun-2024 15:34:31 [Unknown] - More Oldies 3
+16-Jun-2024 15:34:36 Parokya Ni Edgar - Buloy
+16-Jun-2024 15:38:43 Where Are You Now - Nazareth
+16-Jun-2024 15:42:31 [Unknown] - Ariben Soraya 2020
+16-Jun-2024 15:43:20 [Unknown] - Gpg Tripeople
+16-Jun-2024 15:44:21 [Unknown] - Angielyn Bautista Mx3
+16-Jun-2024 15:44:51 Greenday - Basket Case
+16-Jun-2024 15:47:45 [Unknown] - What's Up
+16-Jun-2024 15:52:31 [Unknown] - Iba Gid 5
+16-Jun-2024 15:52:35 ~Bohemian Rapsody.mp3 - Bohemian Rapsody
+16-Jun-2024 15:58:11 Sheryl Crow - Sweet Child Of Mine
+16-Jun-2024 16:01:51 [Unknown] - Kool Fm Sting Short
+16-Jun-2024 16:01:54 [Unknown] - Kool Fm Cut 3
+16-Jun-2024 16:02:29 [Unknown] - Osb Sumvac Blowbagets
+16-Jun-2024 16:03:15 [Unknown] - Dxvl Init Wais Devplug 24
+16-Jun-2024 16:04:19 [Unknown] - Toh Id 2018 Latest
+16-Jun-2024 16:04:41 ~F CRAMBERIES ZOMBIE.MP3 - F Cramberies Zombie
+16-Jun-2024 16:09:45 The Police - Every Breath You Take
+16-Jun-2024 16:13:37 [Unknown] - More Oldies 4
+16-Jun-2024 16:13:42 R.E.M. - Losing My Religion
+16-Jun-2024 16:17:59 Scorpions - Wind Of Change
+16-Jun-2024 16:23:01 [Unknown] - Iba Gid 6
+16-Jun-2024 16:23:06 [Unknown] - Rjo Japan Surplus 2023
+16-Jun-2024 16:23:43 [Unknown] - Gpg Business
+16-Jun-2024 16:24:18 [Unknown] - Emma Baldonado Mx3
+16-Jun-2024 16:24:44 [Unknown] - Gpg Testimony1
+16-Jun-2024 16:25:42 [Unknown] - 1st Valley Bank Deposit
+16-Jun-2024 16:26:13 No Doubt - Don't Speak
+16-Jun-2024 16:30:26 Joy - Black Is Black (Extended)
+16-Jun-2024 16:34:49 Artist - Eye Of The Tiger
+16-Jun-2024 16:38:43 Sam Tsui - Don't Stop Believing
+16-Jun-2024 16:42:27 [Unknown] - Menro 1 2023
+16-Jun-2024 16:43:10 [Unknown] - Ferly Abangan Mx3
+16-Jun-2024 16:43:40 [Unknown] - Gpg Testimony2
+16-Jun-2024 16:44:34 [Unknown] - St Lukes 2024
+16-Jun-2024 16:45:33 [Unknown] - Agma Cotelco
+16-Jun-2024 16:46:15 Roxette - It Must Have Been Love
+16-Jun-2024 16:50:26 ~We Will Rock You.mp3 - We Will Rock You
+16-Jun-2024 16:52:26 Class1 Phil Collins - Another Day In Paradise
+16-Jun-2024 16:57:15 Starship - Nothing's Gonna Stop Us Now
+16-Jun-2024 17:01:37 [Unknown] - Kool Fm Cut 4
+16-Jun-2024 17:02:06 [Unknown] - Osb Lindol Tips 3
+16-Jun-2024 17:03:00 [Unknown] - Toh Id 2018 Latest
+16-Jun-2024 17:03:24 [Unknown] - Supershot 3
+16-Jun-2024 17:03:25 Zack Tabudlo - Binibini
+16-Jun-2024 17:06:57 John Roa - Byahe
+16-Jun-2024 17:11:00 [Unknown] - Supershot 4
+16-Jun-2024 17:11:01 Conan Gray - Heather
+16-Jun-2024 17:14:16 Jong Madaliday - Kanlungan
+16-Jun-2024 17:17:59 [Unknown] - Supershot 6
+16-Jun-2024 17:18:02 Mac Mafia - Chill Lang
+16-Jun-2024 17:21:13 [Unknown] - Iba Gid 3
+16-Jun-2024 17:21:18 [Unknown] - Gpg Business
+16-Jun-2024 17:21:53 [Unknown] - Ariben Soap Caryl 2022
+16-Jun-2024 17:23:02 [Unknown] - Gpg Smoking 2023
+16-Jun-2024 17:23:55 [Unknown] - Krisha Buena Mx3
+16-Jun-2024 17:24:25 [Unknown] - Scdl Kabacan 2023
+16-Jun-2024 17:25:28 [Unknown] - Iba Gid 5
+16-Jun-2024 17:25:32 Diwata - Sam Concepcion
+16-Jun-2024 17:28:59 Taylor Swift - Out Of The Woods
+16-Jun-2024 17:32:47 [Unknown] - Iba Gid Short 13
+16-Jun-2024 17:32:50 Sapphire - Love Grows (Where My Rosemary Goes)
+16-Jun-2024 17:35:16 Janine Tenoso & Arthur Neri - Pelikula
+16-Jun-2024 17:38:33 [Unknown] - Iba Gid Short 11
+16-Jun-2024 17:38:36 [Unknown] - Emma Baldonado Mx3
+16-Jun-2024 17:39:02 [Unknown] - Gpg Ligtas 2023
+16-Jun-2024 17:40:05 [Unknown] - Lucky 9 Id 1
+16-Jun-2024 17:40:32 [Unknown] - Agma Cotelco
+16-Jun-2024 17:41:14 [Unknown] - Iba Gid 3
+16-Jun-2024 17:41:19 Jonas - Empilight
+16-Jun-2024 17:44:35 [Unknown] - Iba Gid Short 3
+16-Jun-2024 17:44:39 Anees - Sun And Moon
+16-Jun-2024 17:47:08 Teenage Mona Lisa - Alfie Castley
+16-Jun-2024 17:50:21 [Unknown] - Kool Fm Sting Short
+16-Jun-2024 17:50:24 [Unknown] - Drivers License Olivia Rodrigo Lyrics I Got My Drivers License
+16-Jun-2024 17:54:09 [Unknown] - Shotgun 6
+16-Jun-2024 17:54:12 Shanti Dope - Nadarang (Lyric Video)
+16-Jun-2024 17:58:00 [Unknown] - Baby Ko Si Kulot Official Music Video Guthben Duo Feat Tyrone
+16-Jun-2024 18:02:07 [Unknown] - Shotgun 6
+16-Jun-2024 18:02:10 [Unknown] - Kool Fm Cut 1
+16-Jun-2024 18:02:35 [Unknown] - Islamic Verse
+16-Jun-2024 18:03:19 [Unknown] - Angelus
+16-Jun-2024 18:05:53 [Unknown] - Mb Panalangin 1
+16-Jun-2024 18:06:11 [Unknown] - Dxvl Init Wais Devplug 24
+16-Jun-2024 18:07:15 [Unknown] - Toh Id 2018 Latest
+16-Jun-2024 18:07:39 [Unknown] - Iba Gid 10
+16-Jun-2024 18:07:45 Maja Salvador - Dahan-Dahan
+16-Jun-2024 18:10:55 Jason Derulo - Don't Wanna Go Home
+16-Jun-2024 18:14:49 [Unknown] - Hits Keep On Coming
+16-Jun-2024 18:14:54 Rihanna - California Kingbed
+16-Jun-2024 18:19:01 Somedaydream - Hey Daydreamer
+16-Jun-2024 18:22:57 [Unknown] - Iba Gid 7
+16-Jun-2024 18:23:01 [Unknown] - Rnb Magsaing Na
+16-Jun-2024 18:23:09 [Unknown] - Gpg Smoking 2023
+16-Jun-2024 18:24:02 [Unknown] - Ferly Abangan Mx3
+16-Jun-2024 18:24:32 [Unknown] - Gpg-S Alapungan2
+16-Jun-2024 18:25:31 [Unknown] - Shotgun 7
+16-Jun-2024 18:25:33 Flo Rida - Whistle
+16-Jun-2024 18:29:15 Huling Sayaw - Kamikazee Ft. Kyla
+16-Jun-2024 18:33:31 [Unknown] - Hits Keep On Coming
+16-Jun-2024 18:33:36 Ace Of Base - I Saw The Sign
+16-Jun-2024 18:36:42 Backstreet Boys - Get Down
+16-Jun-2024 18:40:31 [Unknown] - Iba Gid 3
+16-Jun-2024 18:40:36 [Unknown] - Ariben Soap Hazel 2022
+16-Jun-2024 18:41:46 [Unknown] - Jwireless 2021
+16-Jun-2024 18:43:04 [Unknown] - Angielyn Bautista Mx3
+16-Jun-2024 18:43:34 [Unknown] - Iba Gid Short 15
+16-Jun-2024 18:43:37 Los Del Rio - Macarena
+16-Jun-2024 18:47:26 Sexbomb Girls - Sumayaw Sumunod
+16-Jun-2024 18:50:21 [Unknown] - Iba Gid 3
+16-Jun-2024 18:50:26 Reo Brothers - Ako'y Tinamaan
+16-Jun-2024 18:53:41 [Unknown] - Supershot 2
+16-Jun-2024 18:53:43 Tropical Depression - Kapayapaan
+16-Jun-2024 18:58:25 Dj Snake - Let Me Love You (Ft. Justin Bieber) [Official Audio] .Mp 3
+16-Jun-2024 19:01:45 [Unknown] - Iba Gid 7
+16-Jun-2024 19:01:50 [Unknown] - Kool Fm Cut 4
+16-Jun-2024 19:02:19 [Unknown] - Islamic Verse
+16-Jun-2024 19:03:03 [Unknown] - Osb Sumvac Blowbagets
+16-Jun-2024 19:03:49 [Unknown] - Dxvl Init Wais Devplug 24
+16-Jun-2024 19:04:53 [Unknown] - Toh Id 2018 Latest
+16-Jun-2024 19:05:17 [Unknown] - Iba Gid Short 10
+16-Jun-2024 19:05:20 Mark Carpio - Ako Nalang Sana
+16-Jun-2024 19:09:30 [Unknown] - Makainlove Karen
+16-Jun-2024 19:09:33 Boyzone - Crying In The Night
+16-Jun-2024 19:12:29 Westlife - Angels Wings
+16-Jun-2024 19:16:26 Kung Ako Ba Siya - Khalil Ramos
+16-Jun-2024 19:19:45 Hale - Kung Wala Ka
+16-Jun-2024 19:23:39 [Unknown] - Kool Fm Sting Short
+16-Jun-2024 19:23:42 [Unknown] - Rnb Dinner Na
+16-Jun-2024 19:23:50 [Unknown] - Jwireless 2021
+16-Jun-2024 19:25:08 [Unknown] - Krisha Buena Mx3
+16-Jun-2024 19:25:38 [Unknown] - Nami Karen
+16-Jun-2024 19:25:40 Mymp - Tell Me Where It Hurts
+16-Jun-2024 19:29:46 Ebony & Ivory - Cr1 Paul Mc Cartney
+16-Jun-2024 19:33:20 Up Where We Belong - Joe Cocker
+16-Jun-2024 19:37:04 Amolar - Ventura Highway
+16-Jun-2024 19:40:23 [Unknown] - Iba Gid 10
+16-Jun-2024 19:40:29 [Unknown] - Emma Baldonado Mx3
+16-Jun-2024 19:40:54 [Unknown] - Doh Bida Solusyon
+16-Jun-2024 19:41:23 [Unknown] - Nami Karen
+16-Jun-2024 19:41:26 Class1 Phil Collins - Another Day In Paradise
+16-Jun-2024 19:46:14 [Unknown] - Shotgun 2
+16-Jun-2024 19:46:17 El DeBarge - Starlight Express
+16-Jun-2024 19:49:56 [Unknown] - Shotgun 1
+16-Jun-2024 19:50:01 ~class1a CHRISTOPHER CROSS Think of Laura.mp3 - Class 1a Christopher Cross Think Of Laura
+16-Jun-2024 19:53:17 [Unknown] - Shotgun 7
+16-Jun-2024 19:53:20 James Ingram - Where Did My Heart Go
+16-Jun-2024 19:57:06 Carpenters - Yesterday Once More
+16-Jun-2024 20:00:54 [Unknown] - Kool Fm Sting Short
+16-Jun-2024 20:00:56 [Unknown] - Usm Quality Policy Statement
+16-Jun-2024 20:02:01 [Unknown] - Usm Beloved Jingle
+16-Jun-2024 20:04:35 [Unknown] - Lupang Hinirang
+16-Jun-2024 20:05:24 [Unknown] - Kool Fm Cut 1

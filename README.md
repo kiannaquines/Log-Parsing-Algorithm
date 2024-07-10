@@ -1,5 +1,6 @@
 ## Seconds it parses the 100+ logs
 
+Any data needed to migrate in any database server can be effortlessly migrated with this fast algorithm. Just modify the code and run it. 🤩
 
 For the multithreaded_main.py, it only takes 7.91 seconds to process all the logs, and that's very impressive to me.
 

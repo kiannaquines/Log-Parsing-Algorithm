@@ -41,7 +41,7 @@ def main():
     files = get_file_in_log_folder()
     log_pattern = re.compile(r"(\d{2}-[A-Z][a-z]{2}-\d{4} \d{2}:\d{2}:\d{2}) (.*?) - (.*)")
 
-    with ThreadPoolExecutor(max_workers=5) as executor:
+    with ThreadPoolExecutor(max_workers=12) as executor:
         futures = [executor.submit(process_file, file, log_pattern) for file in files]
         for future in futures:
             future.result()

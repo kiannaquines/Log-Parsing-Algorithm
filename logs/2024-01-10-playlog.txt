@@ -209,7 +209,6 @@
 10-Jan-2024 10:39:28 [Unknown] - Supershot 5
 10-Jan-2024 10:39:31 [Unknown] - Iba Gid 7
 10-Jan-2024 10:39:36 SWV - Weak
-                                                                                 10-Jan-2024 10:47:11 [Unknown] - Ramp 4
 10-Jan-2024 10:47:48 [Unknown] - Ramp 5
 10-Jan-2024 10:48:11 [Unknown] - Toh Id 2018 Latest
 10-Jan-2024 10:48:34 [Unknown] - 17th Year Dxvl 2023
